@@ -1,0 +1,127 @@
+entity_id,name,type,normalized_name,status
+ent_044c07b1a3071f85,copper electroplating,Process,copper electroplating,candidate
+ent_781de37cbd7ca230,Microvia,Via,microvia,candidate
+ent_e8d6ba8f531c4ccc,DB,Additive,db,candidate
+ent_06db75410cb640fd,JGB,Additive,jgb,candidate
+ent_a25b778f32ac3c20,SEM,Method,sem,candidate
+ent_5766f8ec52d63552,XRD,Method,xrd,candidate
+ent_63a836fa42834e84,filling performance,Property,filling performance,candidate
+ent_5c49a7d67026030e,trench,Via,trench,candidate
+ent_9c7697d73d2c3ecd,PEG,Additive,peg,candidate
+ent_bf029a7aabab9a3b,Cl-,Chemical,cl-,candidate
+ent_d15d9bce127fbc7b,copper electrodeposition,Process,copper electrodeposition,candidate
+ent_2bddf91987a60a8d,electroplating,Process,electroplating,candidate
+ent_90859ee3ce0165eb,deposition rate,Property,deposition rate,candidate
+ent_f7376511017f68a4,void,Property,void,candidate
+ent_09354a6c1bb2f515,adsorption,Mechanism,adsorption,candidate
+ent_0fdad40ba08e745e,PVP,Additive,pvp,candidate
+ent_75c24cad64238922,PCB,Substrate,pcb,candidate
+ent_d7910009d82f2e15,conductivity,Property,conductivity,candidate
+ent_5f030fde7356eb45,SPS,Additive,sps,candidate
+ent_8ca716283ee95f9a,NaCl,Chemical,nacl,candidate
+ent_fbe748f5083c0363,plating bath,Electrolyte,plating bath,candidate
+ent_2a6b32eec35cff11,electrolyte,Electrolyte,electrolyte,candidate
+ent_6f32d4d20cebb34a,Cu,Metal,cu,candidate
+ent_79dfbc4735b9f935,GM,Method,gm,candidate
+ent_acf097a13ef6b243,bottom-up,Process,bottom-up,candidate
+ent_6a8053ea6f33df3f,diffusion,Mechanism,diffusion,candidate
+ent_68dc264930ae0a8e,surface copper,Property,surface copper,candidate
+ent_bee5cac24a1a916f,TPM,Additive,tpm,candidate
+ent_d36db593171d20ce,superconformal,Process,superconformal,candidate
+ent_2f374d6aab3dfe48,CuSO4,Chemical,cuso4,candidate
+ent_03fdedef4cede16e,H2SO4,Chemical,h2so4,candidate
+ent_ccd214aa455db445,MPS,Additive,mps,candidate
+ent_126ce94a9a74dcf4,polarization,Property,polarization,candidate
+ent_21b7c18ef28500e6,I-,Chemical,i-,candidate
+ent_13168fa77dea3161,CV,Method,cv,candidate
+ent_f6f53a462881cf22,Cyclic voltammetry,Method,cyclic voltammetry,candidate
+ent_6ce037e8e8a020f4,iodide,Chemical,iodide,candidate
+ent_046962eb23922097,electrodeposition,Process,electrodeposition,candidate
+ent_ba47deb9d65df2ab,ZPS,Additive,zps,candidate
+ent_32e0baa1cd9708fe,Cu<sup>2+</sup>,Chemical,cu<sup>2+</sup>,candidate
+ent_20cd907953574a75,Cl<sup>-</sup>,Chemical,cl<sup>-</sup>,candidate
+ent_da7196deb08b6d7c,Chronoamperometry,Method,chronoamperometry,candidate
+ent_79d2c183bcb61968,nucleation,Mechanism,nucleation,candidate
+ent_c9f33903ea27e689,substrate,Substrate,substrate,candidate
+ent_b3b699f6b6aa4527,Raman,Method,raman,candidate
+ent_e0be2ffaecae73d5,VMS,Additive,vms,candidate
+ent_31319e33333fde6a,Co,Metal,co,candidate
+ent_f680baf0cdce9f89,EIS,Method,eis,candidate
+ent_aa5f150f60b039d2,Cz-BPDB,Additive,cz-bpdb,candidate
+ent_06c4f6e703779f3a,Through-hole,Via,through-hole,candidate
+ent_03e5d527a9e0f94e,through hole,Via,through hole,candidate
+ent_6ac1cddfd84cb62c,mass transfer,Mechanism,mass transfer,candidate
+ent_7e124846676a3a7a,throwing power,Property,throwing power,candidate
+ent_f7dd879ab0e5df65,Bath,Electrolyte,bath,candidate
+ent_8e5a46ebf9b5f4f1,SA,Additive,sa,candidate
+ent_27559845c35fc458,TH,Via,th,candidate
+ent_46f0bca6f28ec47e,seam,Property,seam,candidate
+ent_47b73a2d2d2dfb27,overpotential,Property,overpotential,candidate
+ent_83b83ccb2f226fce,PEP,Additive,pep,candidate
+ent_0402ea3f741d883a,blind via,Via,blind via,candidate
+ent_d4b7a4d63b985aae,Cl -,Chemical,cl -,candidate
+ent_3a20275f99070e71,bottom up,Process,bottom up,candidate
+ent_5511c7f15ef40cff,micro via,Via,micro via,candidate
+ent_eef1dd1eaf029e0d,Ni,Metal,ni,candidate
+ent_6f900d171eb529d4,cobalt electrodeposition,Process,cobalt electrodeposition,candidate
+ent_7045551cd504fd6f,Electrochemical Impedance Spectroscopy,Method,electrochemical impedance spectroscopy,candidate
+ent_2ef3ac6a43d7109d,throughhole,Via,throughhole,candidate
+ent_0b392ffbf75cbeae,CMHT,Additive,cmht,candidate
+ent_14a90ffd9d3442c4,filling rate,Property,filling rate,candidate
+ent_22e7f79308fa4980,hardness,Property,hardness,candidate
+ent_6630dadfc828dbfd,PUB2,Additive,pub2,candidate
+ent_d9485e443280aaeb,wafer,Substrate,wafer,candidate
+ent_bc569715046b6ef3,micro-via,Via,micro-via,candidate
+ent_5a7f73f02a0209d3,cobalt electroplating,Process,cobalt electroplating,candidate
+ent_62c704b92c393f77,XPS,Method,xps,candidate
+ent_13d862af75f49eda,NBT,Additive,nbt,candidate
+ent_4cb7a167ebdf7871,MG,Additive,mg,candidate
+ent_924dc869c27aa347,DMG,Additive,dmg,candidate
+ent_2f0be2b0dcc4945b,EQCM,Method,eqcm,candidate
+ent_0ebe2a4875cd895b,CDT,Additive,cdt,candidate
+ent_1a05434eb42c8e64,FR,Property,fr,candidate
+ent_1ed7fff2b162bedc,bottom—up,Process,bottom—up,candidate
+ent_1f5f47938fa946d8,CuSO4·5H2O,Chemical,cuso4·5h2o,candidate
+ent_57f00d396bd39021,AB1,Additive,ab1,candidate
+ent_cf29987d89d70501,Cl^{-},Chemical,cl^{-},candidate
+ent_05d143d3e2f060b3,H3BO3,Chemical,h3bo3,candidate
+ent_6cfa809ca757dc0a,mass-transfer,Mechanism,mass-transfer,candidate
+ent_27f8b84b3dfb542f,盲孔,Via,盲孔,candidate
+ent_f6837bf214f1b7bb,电镀,Process,电镀,candidate
+ent_59c9b0aa4283270d,镀液,Electrolyte,镀液,candidate
+ent_55f23457d9d53ccf,沉积速率,Property,沉积速率,candidate
+ent_c34270d59de286ca,吸附,Mechanism,吸附,candidate
+ent_dadfea2e2c134431,循环伏安,Method,循环伏安,candidate
+ent_25b6813436b80c9f,极化,Property,极化,candidate
+ent_babb138b49e31469,过电位,Property,过电位,candidate
+ent_6022194ea3bba696,传质,Mechanism,传质,candidate
+ent_3eed1b9149bb2c42,成核,Mechanism,成核,candidate
+ent_537ea67c3c732d5d,镀层,Process,镀层,candidate
+ent_fe44875d5109745b,填充率,Property,填充率,candidate
+ent_13e48d94ba4a574e,钝化,Mechanism,钝化,candidate
+ent_be153802c9f3b12c,扩散,Mechanism,扩散,candidate
+ent_17529a5462e9314a,电沉积,Process,电沉积,candidate
+ent_c7b49efd9d81e884,超填充,Process,超填充,candidate
+ent_bc114ebef2cdca6d,沟槽,Via,沟槽,candidate
+ent_10f1ad2d49d1b65b,通孔,Via,通孔,candidate
+ent_7bd0c57a342c6761,镀铜,Process,镀铜,candidate
+ent_a363ddaa06c60560,镀钴,Process,镀钴,candidate
+ent_65b27978701e40e0,硬度,Property,硬度,candidate
+ent_85c34c52d2b4f3b1,超共形,Process,超共形,candidate
+ent_1d417782afc47768,电化学阻抗,Method,电化学阻抗,candidate
+ent_394579baccdf09ad,晶圆,Substrate,晶圆,candidate
+ent_17696d1d82324813,电解液,Electrolyte,电解液,candidate
+ent_393bcb9f8e4f7bca,Co(II),Chemical,co(ii),candidate
+ent_e59c9a9a5d1af94f,计时安培,Method,计时安培,candidate
+ent_dabb996b0ca497ae,导电性,Property,导电性,candidate
+ent_5350629717626dec,空洞,Property,空洞,candidate
+ent_ded1362d0af5662f,拉曼,Method,拉曼,candidate
+ent_c4d2dd226e19ee2a,AN-S1,Additive,an-s1,candidate
+ent_a1a85ca943ab378f,bottomup,Process,bottomup,candidate
+ent_f9ef5dcf5d24f7ac,ADO,Additive,ado,candidate
+ent_009625bdfa885065,Co<sup>2+</sup>,Chemical,co<sup>2+</sup>,candidate
+ent_e964b6f80f34c608,leveler,Role,leveler,concept
+ent_8d3f29349d72b899,electrode surface,Surface,electrode surface,concept
+ent_88216f19c63bafb8,inhibitor,Role,inhibitor,concept
+ent_49d65e9615709b21,accelerator,Role,accelerator,concept
+ent_ce82b738a34b8b99,suppressor,Role,suppressor,concept

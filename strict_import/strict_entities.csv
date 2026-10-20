@@ -1,0 +1,65 @@
+entity_id,name,type,normalized_name,status
+ent_0c9404ad71cb965b,microvia,Process,microvia,candidate
+ent_044c07b1a3071f85,copper electroplating,Process,copper electroplating,candidate
+ent_e8d6ba8f531c4ccc,DB,Additive,db,candidate
+ent_06db75410cb640fd,JGB,Additive,jgb,candidate
+ent_63a836fa42834e84,filling performance,Property,filling performance,candidate
+ent_9c7697d73d2c3ecd,PEG,Additive,peg,candidate
+ent_a46b4ec751365ee4,chloride,Chemical,chloride,candidate
+ent_d15d9bce127fbc7b,copper electrodeposition,Process,copper electrodeposition,candidate
+ent_2bddf91987a60a8d,electroplating,Process,electroplating,candidate
+ent_90859ee3ce0165eb,deposition rate,Property,deposition rate,candidate
+ent_f7376511017f68a4,Void,Property,void,candidate
+ent_0fdad40ba08e745e,PVP,Additive,pvp,candidate
+ent_d6e1bcdfb3a98942,via filling,Process,via filling,candidate
+ent_d7910009d82f2e15,conductivity,Property,conductivity,candidate
+ent_5f030fde7356eb45,SPS,Additive,sps,candidate
+ent_79dfbc4735b9f935,GM,Method,gm,candidate
+ent_68dc264930ae0a8e,surface copper,Property,surface copper,candidate
+ent_79d2b22b91d7215e,copper sulfate,Chemical,copper sulfate,candidate
+ent_be89905bf11ae6db,sulfuric acid,Chemical,sulfuric acid,candidate
+ent_ccd214aa455db445,MPS,Additive,mps,candidate
+ent_126ce94a9a74dcf4,polarization,Property,polarization,candidate
+ent_f6f53a462881cf22,cyclic voltammetry,Method,cyclic voltammetry,candidate
+ent_13168fa77dea3161,CV,Method,cv,candidate
+ent_046962eb23922097,electrodeposition,Process,electrodeposition,candidate
+ent_ba47deb9d65df2ab,ZPS,Additive,zps,candidate
+ent_4cb7a167ebdf7871,mg,Additive,mg,candidate
+ent_da7196deb08b6d7c,chronoamperometry,Method,chronoamperometry,candidate
+ent_f680baf0cdce9f89,EIS,Method,eis,candidate
+ent_cf8afcdfa4426ca9,through-hole,Process,through-hole,candidate
+ent_e78b07c3d886a2d4,through hole,Process,through hole,candidate
+ent_7e124846676a3a7a,throwing power,Property,throwing power,candidate
+ent_46f0bca6f28ec47e,seam,Property,seam,candidate
+ent_47b73a2d2d2dfb27,overpotential,Property,overpotential,candidate
+ent_9e197599ea00d2a5,Micro Via,Process,micro via,candidate
+ent_83b83ccb2f226fce,PEP,Additive,pep,candidate
+ent_4a37a135b02c5026,blind via,Process,blind via,candidate
+ent_2f374d6aab3dfe48,CuSO4,Chemical,cuso4,candidate
+ent_6f900d171eb529d4,cobalt electrodeposition,Process,cobalt electrodeposition,candidate
+ent_7045551cd504fd6f,Electrochemical Impedance Spectroscopy,Method,electrochemical impedance spectroscopy,candidate
+ent_f36a5511ef4d8bfc,throughhole,Process,throughhole,candidate
+ent_0b392ffbf75cbeae,CMHT,Additive,cmht,candidate
+ent_bf029a7aabab9a3b,Cl-,Chemical,cl-,candidate
+ent_22e7f79308fa4980,hardness,Property,hardness,candidate
+ent_a0393b21fd8331dc,micro-via,Process,micro-via,candidate
+ent_5a7f73f02a0209d3,Cobalt electroplating,Process,cobalt electroplating,candidate
+ent_924dc869c27aa347,DMG,Additive,dmg,candidate
+ent_e6ec11233bddbf01,voids,Property,voids,candidate
+ent_1f5f47938fa946d8,CuSO4·5H2O,Chemical,cuso4·5h2o,candidate
+ent_03fdedef4cede16e,H2SO4,Chemical,h2so4,candidate
+ent_ee03555a8714fa70,盲孔,Process,盲孔,candidate
+ent_20790793b40a2d06,填充,Process,填充,candidate
+ent_f6837bf214f1b7bb,电镀,Process,电镀,candidate
+ent_55f23457d9d53ccf,沉积速率,Property,沉积速率,candidate
+ent_17529a5462e9314a,电沉积,Process,电沉积,candidate
+ent_fd1d87065e23412f,通孔,Process,通孔,candidate
+ent_65b27978701e40e0,硬度,Property,硬度,candidate
+ent_25b6813436b80c9f,极化,Property,极化,candidate
+ent_babb138b49e31469,过电位,Property,过电位,candidate
+ent_dadfea2e2c134431,循环伏安,Method,循环伏安,candidate
+ent_1d417782afc47768,电化学阻抗,Method,电化学阻抗,candidate
+ent_e59c9a9a5d1af94f,计时安培,Method,计时安培,candidate
+ent_dabb996b0ca497ae,导电性,Property,导电性,candidate
+ent_5350629717626dec,空洞,Property,空洞,candidate
+ent_f9ef5dcf5d24f7ac,ADO,Additive,ado,candidate

@@ -1,0 +1,1779 @@
+value_id,evidence_id,doc_id,value,unit,slot,raw_text,status
+val_c9ec7ddbbdfd923f,ev_eda77f3a8e049f00,doc_be9c8777d893c4b9,70,min,time,70 min,candidate
+val_3105bd38d3f1a043,ev_eda77f3a8e049f00,doc_be9c8777d893c4b9,96,%,percentage,96%,candidate
+val_9dfc35e0ba9eebb7,ev_3783d682082f9de6,doc_be9c8777d893c4b9,100,rpm,rotation,100 rpm,candidate
+val_adda7f8bdbcc322e,ev_3783d682082f9de6,doc_be9c8777d893c4b9,1000,rpm,rotation,1000 rpm,candidate
+val_2338d0ce9d01ac22,ev_d9f148a6b6ba68d2,doc_be9c8777d893c4b9,60,min,time,60 min,candidate
+val_1d486284fb992845,ev_9c50efdef05d6632,doc_be9c8777d893c4b9,0.3,ppm,concentration,0.3 ppm,candidate
+val_b6ca05452dadcfcc,ev_9c50efdef05d6632,doc_be9c8777d893c4b9,1,ppm,concentration,1 ppm,candidate
+val_d5e4eb3e2cea9473,ev_e26f0c8bf4b4775b,doc_be9c8777d893c4b9,1.0,ppm,concentration,1.0 ppm,candidate
+val_e471ba516b64033e,ev_e26f0c8bf4b4775b,doc_be9c8777d893c4b9,1,ppm,concentration,1 ppm,candidate
+val_2e3029fd7a07d371,ev_70ed87861473624c,doc_be9c8777d893c4b9,200,ppm,concentration,200 ppm,candidate
+val_fb5b610c354cc404,ev_70ed87861473624c,doc_be9c8777d893c4b9,60,ppm,concentration,60 ppm,candidate
+val_604b91056007f3cb,ev_70ed87861473624c,doc_be9c8777d893c4b9,1,ppm,concentration,1 ppm,candidate
+val_ac70551bd65567e3,ev_f30952be7f9562e7,doc_be9c8777d893c4b9,200,ppm,concentration,200 ppm,candidate
+val_9c7f4ddd895fd21d,ev_f30952be7f9562e7,doc_be9c8777d893c4b9,1,ppm,concentration,1 ppm,candidate
+val_4fba4520fcbc6fc4,ev_f30952be7f9562e7,doc_be9c8777d893c4b9,60,ppm,concentration,60 ppm,candidate
+val_c77c0abd6d601e54,ev_bf2050e6411c7aea,doc_be9c8777d893c4b9,1,h,time,1 h,candidate
+val_be1b65b8f8f51974,ev_98ebecb1ebdd0f05,doc_be9c8777d893c4b9,4,ppm,concentration,4 ppm,candidate
+val_9f88387f87513e79,ev_98ebecb1ebdd0f05,doc_be9c8777d893c4b9,1,ppm,concentration,1 ppm,candidate
+val_b255b5f0fae5ea2a,ev_d928a4661d40eeb0,doc_be9c8777d893c4b9,200,ppm,concentration,200 ppm,candidate
+val_93f5ea6577fa9069,ev_d928a4661d40eeb0,doc_be9c8777d893c4b9,60,ppm,concentration,60 ppm,candidate
+val_97abf8a4522e9589,ev_d928a4661d40eeb0,doc_be9c8777d893c4b9,1,ppm,concentration,1 ppm,candidate
+val_4f3d3c7128342be8,ev_97450cfffcab041b,doc_b2eba6884e6cbbba,5,mm,geometry,5 mm,candidate
+val_1d1cf9005b4c963b,ev_53939f1f2104b457,doc_b2eba6884e6cbbba,900,s,time,900 s,candidate
+val_7da03b7fe432e0a1,ev_53939f1f2104b457,doc_b2eba6884e6cbbba,0.88,mol/L,concentration,0.88 mol/L,candidate
+val_9ca161c9d4ede1e7,ev_53939f1f2104b457,doc_b2eba6884e6cbbba,0.54,mol/L,concentration,0.54 mol/L,candidate
+val_9bb3434e4884a497,ev_53939f1f2104b457,doc_b2eba6884e6cbbba,100,rpm,rotation,100 rpm,candidate
+val_1df48988873d472c,ev_53939f1f2104b457,doc_b2eba6884e6cbbba,1000,rpm,rotation,1000 rpm,candidate
+val_44792abf56dd04ea,ev_53939f1f2104b457,doc_b2eba6884e6cbbba,0.75,V,potential,0.75 V,candidate
+val_c4b80ff14422b49b,ev_53939f1f2104b457,doc_b2eba6884e6cbbba,-0.4,V,potential,-0.4 V,candidate
+val_fdf7cc26832862ad,ev_8142307be96350d3,doc_b2eba6884e6cbbba,0.88,mol/L,concentration,0.88 mol/L,candidate
+val_71bcb82eff018da4,ev_8142307be96350d3,doc_b2eba6884e6cbbba,0.54,mol/L,concentration,0.54 mol/L,candidate
+val_680445d7751e1c8a,ev_8142307be96350d3,doc_b2eba6884e6cbbba,200,ppm,concentration,200 ppm,candidate
+val_35ac5608b9a1ea2d,ev_8142307be96350d3,doc_b2eba6884e6cbbba,40,ppm,concentration,40 ppm,candidate
+val_3ecbbf3550da0052,ev_8142307be96350d3,doc_b2eba6884e6cbbba,2,ppm,concentration,2 ppm,candidate
+val_be167ccde95c6a71,ev_8142307be96350d3,doc_b2eba6884e6cbbba,45,min,time,45 min,candidate
+val_87b598a9cf6820f0,ev_03ddea0f4c70a06c,doc_b2eba6884e6cbbba,1000,rpm,rotation,1000 rpm,candidate
+val_ed873dc0beefa3b7,ev_03ddea0f4c70a06c,doc_b2eba6884e6cbbba,4.452,μmol/L,concentration,4.452 μmol/L,candidate
+val_dbc7042a2e04e944,ev_03ddea0f4c70a06c,doc_b2eba6884e6cbbba,0.88,mol/L,concentration,0.88 mol/L,candidate
+val_3e9ce9db82794d6b,ev_03ddea0f4c70a06c,doc_b2eba6884e6cbbba,5,h,time,5H,candidate
+val_2c379e588cf57493,ev_03ddea0f4c70a06c,doc_b2eba6884e6cbbba,0.54,mol/L,concentration,0.54 mol/L,candidate
+val_80d592a4f4460844,ev_65ab4aa4bd8116e0,doc_b2eba6884e6cbbba,1.484,μmol/L,concentration,1.484 μmol/L,candidate
+val_80151ac4b8cdac00,ev_65ab4aa4bd8116e0,doc_b2eba6884e6cbbba,0.712,V,potential,0.712 V,candidate
+val_8decfe06680fedd3,ev_65ab4aa4bd8116e0,doc_b2eba6884e6cbbba,0.654,V,potential,0.654 V,candidate
+val_565c8134e56e622a,ev_65ab4aa4bd8116e0,doc_b2eba6884e6cbbba,0.547,V,potential,0.547 V,candidate
+val_f3312869aac7d940,ev_324280b70fa9a942,doc_b2eba6884e6cbbba,0.646,V,potential,0.646 V,candidate
+val_0d1d47163c683176,ev_324280b70fa9a942,doc_b2eba6884e6cbbba,0.590,V,potential,0.590 V,candidate
+val_86d11efd7c005bf7,ev_324280b70fa9a942,doc_b2eba6884e6cbbba,0.712,V,potential,0.712 V,candidate
+val_bf56778e0041fe79,ev_39dfd1d6b2053c76,doc_b2eba6884e6cbbba,0.662,V,potential,0.662 V,candidate
+val_5942e66359e2c8a4,ev_39dfd1d6b2053c76,doc_b2eba6884e6cbbba,0.710,V,potential,0.710 V,candidate
+val_9432c6f564140e0b,ev_39dfd1d6b2053c76,doc_b2eba6884e6cbbba,0.713,V,potential,0.713 V,candidate
+val_9d3d4b5e7d91a36f,ev_b6f30a3e7f63f3d1,doc_b2eba6884e6cbbba,93,mV,potential,93 mV,candidate
+val_235b1636c402d091,ev_b6f30a3e7f63f3d1,doc_b2eba6884e6cbbba,75,mV,potential,75 mV,candidate
+val_cc741b5e84bf765c,ev_b6f30a3e7f63f3d1,doc_b2eba6884e6cbbba,100,mV,potential,100 mV,candidate
+val_e3ea4a1fa25b50f1,ev_b6f30a3e7f63f3d1,doc_b2eba6884e6cbbba,88,mV,potential,88 mV,candidate
+val_c8c9b2be2bf0b876,ev_b6f30a3e7f63f3d1,doc_b2eba6884e6cbbba,49,mV,potential,49 mV,candidate
+val_6050bdd1f44432b0,ev_b6f30a3e7f63f3d1,doc_b2eba6884e6cbbba,200,ppm,concentration,200 ppm,candidate
+val_aebf9b4e5083ca2e,ev_b6f30a3e7f63f3d1,doc_b2eba6884e6cbbba,0.702,V,potential,0.702 V,candidate
+val_4f5db4ee84e63100,ev_b6f30a3e7f63f3d1,doc_b2eba6884e6cbbba,0.667,V,potential,0.667 V,candidate
+val_eddfa2cdfb7578ee,ev_b6f30a3e7f63f3d1,doc_b2eba6884e6cbbba,0.678,V,potential,0.678 V,candidate
+val_9045462819b7b4ed,ev_b6f30a3e7f63f3d1,doc_b2eba6884e6cbbba,37,mV,potential,37 mV,candidate
+val_e09ce4168558bdab,ev_b6f30a3e7f63f3d1,doc_b2eba6884e6cbbba,108,mV,potential,108 mV,candidate
+val_ad7f51f3044878bc,ev_b6f30a3e7f63f3d1,doc_b2eba6884e6cbbba,143,mV,potential,143 mV,candidate
+val_2150e6ee390b9e62,ev_b6f30a3e7f63f3d1,doc_b2eba6884e6cbbba,39,mV,potential,39 mV,candidate
+val_e39bd9fa5250694c,ev_8d899102e5ddf79e,doc_b2eba6884e6cbbba,2,ppm,concentration,2 ppm,candidate
+val_e8016d3e424d1140,ev_8d899102e5ddf79e,doc_b2eba6884e6cbbba,40,ppm,concentration,40 ppm,candidate
+val_3060f154375d575c,ev_8d899102e5ddf79e,doc_b2eba6884e6cbbba,200,ppm,concentration,200 ppm,candidate
+val_2aa9f0bc39ea0d3d,ev_8d899102e5ddf79e,doc_b2eba6884e6cbbba,0.05,ppm,concentration,0.05 ppm,candidate
+val_90a2c5f34b642297,ev_8d899102e5ddf79e,doc_b2eba6884e6cbbba,8,ppm,concentration,8 ppm,candidate
+val_42fe5b3914965489,ev_8d899102e5ddf79e,doc_b2eba6884e6cbbba,20,ppm,concentration,20 ppm,candidate
+val_cc5c22be2c423360,ev_b0e50caf52037418,doc_b2eba6884e6cbbba,1000,rpm,rotation,1000 rpm,candidate
+val_d527559e498f7209,ev_b0e50caf52037418,doc_b2eba6884e6cbbba,100,rpm,rotation,100 rpm,candidate
+val_f03d5f7e289e6978,ev_4e06c07f16ba4c50,doc_b2eba6884e6cbbba,100,%,percentage,100%,candidate
+val_b8a0f06d1979da65,ev_4e06c07f16ba4c50,doc_b2eba6884e6cbbba,1000,rpm,rotation,1000 rpm,candidate
+val_d42b0938196c9c81,ev_4e06c07f16ba4c50,doc_b2eba6884e6cbbba,0.54,mol/L,concentration,0.54 mol/L,candidate
+val_5ab580e60f1b66f8,ev_4e06c07f16ba4c50,doc_b2eba6884e6cbbba,200,ppm,concentration,200 ppm,candidate
+val_d01b1bc2000b1a56,ev_4e06c07f16ba4c50,doc_b2eba6884e6cbbba,2,ppm,concentration,2 ppm,candidate
+val_4a58d04f8dd8ae4c,ev_4e06c07f16ba4c50,doc_b2eba6884e6cbbba,40,ppm,concentration,40 ppm,candidate
+val_faa05f6fa0b80dea,ev_0798c700cbf9dad9,doc_b2eba6884e6cbbba,0.88,mol/L,concentration,0.88 mol/L,candidate
+val_f40352273dbd8095,ev_0798c700cbf9dad9,doc_b2eba6884e6cbbba,0.54,mol/L,concentration,0.54 mol/L,candidate
+val_988723c9612b463a,ev_ab4aea1eec67bc22,doc_b2eba6884e6cbbba,100,rpm,rotation,100 rpm,candidate
+val_6d9e49a29ef89608,ev_ab4aea1eec67bc22,doc_b2eba6884e6cbbba,1000,rpm,rotation,1000 rpm,candidate
+val_f7c0e51c6cd66de0,ev_ab4aea1eec67bc22,doc_b2eba6884e6cbbba,0.88,mol/L,concentration,0.88 mol/L,candidate
+val_86500e3afdabeb48,ev_ab4aea1eec67bc22,doc_b2eba6884e6cbbba,0.54,mol/L,concentration,0.54 mol/L,candidate
+val_16e298c8a6a69be0,ev_ab4aea1eec67bc22,doc_b2eba6884e6cbbba,200,ppm,concentration,200 ppm,candidate
+val_8f91b7f8feef1c06,ev_ab4aea1eec67bc22,doc_b2eba6884e6cbbba,2,ppm,concentration,2 ppm,candidate
+val_7adf5e9077f26fd4,ev_ab4aea1eec67bc22,doc_b2eba6884e6cbbba,40,ppm,concentration,40 ppm,candidate
+val_3be235d8d4f9628e,ev_483a35b1e718fd20,doc_b2eba6884e6cbbba,0.01,ppm,concentration,0.01 ppm,candidate
+val_7e56f68722d39cad,ev_483a35b1e718fd20,doc_b2eba6884e6cbbba,2,ppm,concentration,2 ppm,candidate
+val_ce3c4657df525e86,ev_483a35b1e718fd20,doc_b2eba6884e6cbbba,85,%,percentage,85%,candidate
+val_e7351e6f66568ddd,ev_483a35b1e718fd20,doc_b2eba6884e6cbbba,3,ppm,concentration,3 ppm,candidate
+val_b6e948801d1c0c9a,ev_483a35b1e718fd20,doc_b2eba6884e6cbbba,0.01,ppm,concentration,0.01–2 ppm,candidate
+val_4a7bb592a1bf82b5,ev_483a35b1e718fd20,doc_b2eba6884e6cbbba,1,ppm,concentration,1 ppm,candidate
+val_454c11ad8e6261cb,ev_38e255d48076afa5,doc_b2eba6884e6cbbba,1.484,μmol/L,concentration,1.484 μmol/L,candidate
+val_73191ef4154be40d,ev_1cd7b7e39e1c23bc,doc_b2eba6884e6cbbba,16,ppm,concentration,16 ppm,candidate
+val_66eda7e208aae0b2,ev_1cd7b7e39e1c23bc,doc_b2eba6884e6cbbba,20,ppm,concentration,20 ppm,candidate
+val_658d8b598e546921,ev_1cd7b7e39e1c23bc,doc_b2eba6884e6cbbba,40,ppm,concentration,40 ppm,candidate
+val_ff881cd4f7d80a24,ev_1cd7b7e39e1c23bc,doc_b2eba6884e6cbbba,1,ppm,concentration,1 ppm,candidate
+val_c7c0da389e27a6ba,ev_1cd7b7e39e1c23bc,doc_b2eba6884e6cbbba,12,ppm,concentration,12 ppm,candidate
+val_c4908efd3c8b2f43,ev_1cd7b7e39e1c23bc,doc_b2eba6884e6cbbba,50,ppm,concentration,50 ppm,candidate
+val_ff9079586492a1a8,ev_1cd7b7e39e1c23bc,doc_b2eba6884e6cbbba,1.4,ppm,concentration,1.4 ppm,candidate
+val_fe2dac6d7412dfd4,ev_3cc7db8b71f425fb,doc_b2eba6884e6cbbba,0.88,mol/L,concentration,0.88 mol/L,candidate
+val_5630798e1e0e48be,ev_3cc7db8b71f425fb,doc_b2eba6884e6cbbba,5,h,time,5H,candidate
+val_1d926b83e94a3b8d,ev_3cc7db8b71f425fb,doc_b2eba6884e6cbbba,0.54,mol/L,concentration,0.54 mol/L,candidate
+val_c7a18718112c5e81,ev_3cc7db8b71f425fb,doc_b2eba6884e6cbbba,200,ppm,concentration,200 ppm,candidate
+val_457ce35e6a5d05ab,ev_3cc7db8b71f425fb,doc_b2eba6884e6cbbba,2,ppm,concentration,2 ppm,candidate
+val_dd5e0ee7060baa0b,ev_3cc7db8b71f425fb,doc_b2eba6884e6cbbba,40,ppm,concentration,40 ppm,candidate
+val_8efca65b70436e5b,ev_f717572283f13695,doc_b2eba6884e6cbbba,0.88,mol/L,concentration,0.88 mol/L,candidate
+val_eb0075552ebace1e,ev_f717572283f13695,doc_b2eba6884e6cbbba,5,h,time,5H,candidate
+val_615a89f259a14e4a,ev_f717572283f13695,doc_b2eba6884e6cbbba,0.54,mol/L,concentration,0.54 mol/L,candidate
+val_0c087db7ef42d390,ev_f717572283f13695,doc_b2eba6884e6cbbba,200,ppm,concentration,200 ppm,candidate
+val_9c1b67ce169e3a03,ev_f717572283f13695,doc_b2eba6884e6cbbba,2,ppm,concentration,2 ppm,candidate
+val_13ee43665303c63e,ev_f717572283f13695,doc_b2eba6884e6cbbba,40,ppm,concentration,40 ppm,candidate
+val_88d47900f5456527,ev_f717572283f13695,doc_b2eba6884e6cbbba,1,ppm,concentration,1 ppm,candidate
+val_c4e45527f98695ab,ev_f717572283f13695,doc_b2eba6884e6cbbba,0.5,ppm,concentration,0.5 ppm,candidate
+val_4ece12a1e04d408d,ev_f717572283f13695,doc_b2eba6884e6cbbba,4,ppm,concentration,4 ppm,candidate
+val_853f4beaa0726396,ev_f717572283f13695,doc_b2eba6884e6cbbba,20,ppm,concentration,20 ppm,candidate
+val_7c7b545e8a60547c,ev_50cf206ba4431d5c,doc_87673a2e0d190bd4,3.29,μm,geometry,3.29 μm,candidate
+val_2857aaaa64b119a5,ev_50cf206ba4431d5c,doc_87673a2e0d190bd4,2.60,μm,geometry,2.60 μm,candidate
+val_7081f39ad203f701,ev_50cf206ba4431d5c,doc_87673a2e0d190bd4,30,mg/L,concentration,30 mg/L,candidate
+val_c1042ab25cb6bdd7,ev_50cf206ba4431d5c,doc_87673a2e0d190bd4,3.78,%,percentage,3.78 %,candidate
+val_e87d05e782b0d516,ev_c47065286a6a9cfe,doc_87673a2e0d190bd4,5,h,time,5 H,candidate
+val_4a0cf31c9d6519f4,ev_c47065286a6a9cfe,doc_87673a2e0d190bd4,190,g/L,concentration,190 g/L,candidate
+val_c6fa8caf4584e60a,ev_c47065286a6a9cfe,doc_87673a2e0d190bd4,5,h,time,5H,candidate
+val_0f4e1444178ad1f4,ev_c47065286a6a9cfe,doc_87673a2e0d190bd4,100,g/L,concentration,100 g/L,candidate
+val_379db519864574b4,ev_c47065286a6a9cfe,doc_87673a2e0d190bd4,98,mg/L,concentration,98 mg/L,candidate
+val_f1ce656f64f6b055,ev_667268722dff225b,doc_87673a2e0d190bd4,298,K,temperature,298 K,candidate
+val_1b038ee6cbcaf962,ev_667268722dff225b,doc_87673a2e0d190bd4,0.5,cm,geometry,0.5 cm,candidate
+val_4692d7e7c61b2d85,ev_667268722dff225b,doc_87673a2e0d190bd4,-0.8,V,potential,−0.8 V,candidate
+val_3772576bbfe17eb2,ev_667268722dff225b,doc_87673a2e0d190bd4,0.2,V,potential,0.2 V,candidate
+val_d482d2e7b2731af9,ev_667268722dff225b,doc_87673a2e0d190bd4,50,mV,potential,50 mV,candidate
+val_c4ea75b5271a93c9,ev_667268722dff225b,doc_87673a2e0d190bd4,1000,rpm,rotation,1000 rpm,candidate
+val_29a7b2d91daaeac0,ev_667268722dff225b,doc_87673a2e0d190bd4,-0.45,V,potential,−0.45 V,candidate
+val_ddeb299fe3184ee3,ev_667268722dff225b,doc_87673a2e0d190bd4,10,mV,potential,10 mV,candidate
+val_97804b30b40faa6e,ev_667268722dff225b,doc_87673a2e0d190bd4,60,s,time,60 s,candidate
+val_5985a043b137844b,ev_667268722dff225b,doc_87673a2e0d190bd4,1.9,g/L,concentration,1.9 g/L,candidate
+val_3e8222b0d45b2e10,ev_667268722dff225b,doc_87673a2e0d190bd4,5,h,time,5 H,candidate
+val_33417b8c9bba1521,ev_667268722dff225b,doc_87673a2e0d190bd4,1,g/L,concentration,1 g/L,candidate
+val_432fc33c17fbb49e,ev_667268722dff225b,doc_87673a2e0d190bd4,0.98,mg/L,concentration,0.98 mg/L,candidate
+val_59d8302d239c5487,ev_1d4ee2c845431af1,doc_87673a2e0d190bd4,10,min,time,10 min,candidate
+val_fbc9427b6661c1c4,ev_1d4ee2c845431af1,doc_87673a2e0d190bd4,298,K,temperature,298 K,candidate
+val_01ad0eeaee5414e5,ev_1d4ee2c845431af1,doc_87673a2e0d190bd4,40,s,time,40 s,candidate
+val_743de9ac8a9ce713,ev_1d4ee2c845431af1,doc_87673a2e0d190bd4,4.5,μm,geometry,4.5 μm,candidate
+val_7053bbbbfa320428,ev_ec2f31e91187cab6,doc_87673a2e0d190bd4,-0.525,V,potential,−0.525 V,candidate
+val_fb2725a66538a4f4,ev_ec2f31e91187cab6,doc_87673a2e0d190bd4,40,mg/L,concentration,40 mg/L,candidate
+val_99c4f3466a3a08ae,ev_ec2f31e91187cab6,doc_87673a2e0d190bd4,-0.425,V,potential,−0.425 V,candidate
+val_32c4b69a5544995f,ev_ec2f31e91187cab6,doc_87673a2e0d190bd4,5,mg/L,concentration,5 mg/L,candidate
+val_ff4d00a8bbf69add,ev_ec2f31e91187cab6,doc_87673a2e0d190bd4,10,mg/L,concentration,10 mg/L,candidate
+val_51806f48475d822c,ev_ec2f31e91187cab6,doc_87673a2e0d190bd4,30,mg/L,concentration,30 mg/L,candidate
+val_62b40f34d1e6bd58,ev_cc1445dc2b47525c,doc_87673a2e0d190bd4,5.9,Ω,impedance,5.9 Ω,candidate
+val_8f57de020e4efff7,ev_cc1445dc2b47525c,doc_87673a2e0d190bd4,5,mg/L,concentration,5 mg/L,candidate
+val_9d0fe3856340cb98,ev_cc1445dc2b47525c,doc_87673a2e0d190bd4,10,mg/L,concentration,10 mg/L,candidate
+val_d985d586cd5465c5,ev_cc1445dc2b47525c,doc_87673a2e0d190bd4,5.5,Ω,impedance,5.5 Ω,candidate
+val_7e5b237f2bcdfc4f,ev_cc1445dc2b47525c,doc_87673a2e0d190bd4,5.1,Ω,impedance,5.1 Ω,candidate
+val_b05a976c9b94e5fa,ev_cc1445dc2b47525c,doc_87673a2e0d190bd4,20,mg/L,concentration,20 mg/L,candidate
+val_93075915e6240a05,ev_cc1445dc2b47525c,doc_87673a2e0d190bd4,40,mg/L,concentration,40 mg/L,candidate
+val_1922f04277ea848d,ev_cc1445dc2b47525c,doc_87673a2e0d190bd4,4.9,Ω,impedance,4.9 Ω,candidate
+val_324f45417a2c1e6b,ev_cc1445dc2b47525c,doc_87673a2e0d190bd4,4.6,Ω,impedance,4.6 Ω,candidate
+val_344e7b896939106f,ev_7fc8fc3bcdf51efd,doc_87673a2e0d190bd4,-0.025,V,potential,−0.025 V,candidate
+val_8195973b84f01dbb,ev_df9e7bb8cef26351,doc_87673a2e0d190bd4,0,mg/L,concentration,0 mg/L,candidate
+val_87577287ed75d967,ev_df9e7bb8cef26351,doc_87673a2e0d190bd4,10,mg/L,concentration,10 mg/L,candidate
+val_e165de910fddea87,ev_df9e7bb8cef26351,doc_87673a2e0d190bd4,20,mg/L,concentration,20 mg/L,candidate
+val_77e8e73e45abdad8,ev_df9e7bb8cef26351,doc_87673a2e0d190bd4,30,mg/L,concentration,30 mg/L,candidate
+val_1f04b4f717b866fc,ev_df9e7bb8cef26351,doc_87673a2e0d190bd4,40,mg/L,concentration,40 mg/ L,candidate
+val_b36fed7b4965425f,ev_ef4b5a2f0e65ad6c,doc_87673a2e0d190bd4,3.29,μm,geometry,3.29 μm,candidate
+val_752ac77e8c893e8b,ev_ef4b5a2f0e65ad6c,doc_87673a2e0d190bd4,2.60,μm,geometry,2.60 μm,candidate
+val_ccd0cedd3974f6d3,ev_ef4b5a2f0e65ad6c,doc_87673a2e0d190bd4,30,mg/L,concentration,30 mg/L,candidate
+val_307bda7c0f76b747,ev_ef4b5a2f0e65ad6c,doc_87673a2e0d190bd4,3.78,%,percentage,3.78 %,candidate
+val_497ece9edbf2ed12,ev_e17f105f55943934,doc_993113d3d1cc9178,300,μm,geometry,300 μm,candidate
+val_3d69bc82f3e57576,ev_e17f105f55943934,doc_993113d3d1cc9178,3,mm,geometry,3 mm,candidate
+val_7ad608b60f27ca05,ev_e17f105f55943934,doc_993113d3d1cc9178,10,%,percentage,10 %,candidate
+val_b195cddb8fc4f996,ev_ae7d45845bdd4a8c,doc_993113d3d1cc9178,0,V,potential,0 V,candidate
+val_0113ed5e52acd2b0,ev_ae7d45845bdd4a8c,doc_993113d3d1cc9178,2,μmol/L,concentration,2 μmol/L,candidate
+val_4236d53ceb803931,ev_6b52836ee4b439e8,doc_993113d3d1cc9178,100,%,percentage,100 %,candidate
+val_f788ffbf4197c3a9,ev_abba36958d7332ed,doc_993113d3d1cc9178,52.87,%,percentage,52.87 %,candidate
+val_6ffa6afe871c1e07,ev_abba36958d7332ed,doc_993113d3d1cc9178,200,ppm,concentration,200 ppm,candidate
+val_74131b052a86027b,ev_abba36958d7332ed,doc_993113d3d1cc9178,2,ppm,concentration,2 ppm,candidate
+val_9ad1232edcb1a48e,ev_abba36958d7332ed,doc_993113d3d1cc9178,66.57,%,percentage,66.57 %,candidate
+val_a5f7f35af069a258,ev_abba36958d7332ed,doc_993113d3d1cc9178,0.1,ppm,concentration,0.1 ppm,candidate
+val_4efe2f4958ad6ce3,ev_abba36958d7332ed,doc_993113d3d1cc9178,0.3,ppm,concentration,0.3 ppm,candidate
+val_fb612dae4526bdf1,ev_abba36958d7332ed,doc_993113d3d1cc9178,0.5,ppm,concentration,0.5 ppm,candidate
+val_9d41154853927177,ev_abba36958d7332ed,doc_993113d3d1cc9178,104.77,%,percentage,104.77 %,candidate
+val_74d476f436a33e82,ev_abba36958d7332ed,doc_993113d3d1cc9178,64.11,%,percentage,64.11 %,candidate
+val_7f9e25647d5f10b9,ev_abba36958d7332ed,doc_993113d3d1cc9178,58.94,%,percentage,58.94 %,candidate
+val_e407a16dafab980e,ev_c64e1982a72719ed,doc_993113d3d1cc9178,200,ppm,concentration,200 ppm,candidate
+val_50d3419b481c7dff,ev_c64e1982a72719ed,doc_993113d3d1cc9178,2,ppm,concentration,2 ppm,candidate
+val_8214fd57ab28d69f,ev_c64e1982a72719ed,doc_993113d3d1cc9178,0.1,ppm,concentration,0.1 ppm,candidate
+val_48d46282387f3832,ev_c64e1982a72719ed,doc_993113d3d1cc9178,0.3,ppm,concentration,0.3 ppm,candidate
+val_fa2dbcdd7c0d2d73,ev_c64e1982a72719ed,doc_993113d3d1cc9178,0.5,ppm,concentration,0.5 ppm,candidate
+val_ef7a6705b2f5ee64,ev_1c550049eac04db3,doc_993113d3d1cc9178,100,%,percentage,100 %,candidate
+val_61c128637c25ae50,ev_c4865b334563821e,doc_993113d3d1cc9178,0.5,ppm,concentration,0.5 ppm,candidate
+val_d20181a08abd4695,ev_c4865b334563821e,doc_993113d3d1cc9178,-0.30,V,potential,−0.30 V,candidate
+val_160c2abfdc7972cc,ev_f26175169f8d7da8,doc_993113d3d1cc9178,1000,s,time,1000 s,candidate
+val_b44b672e0fe28852,ev_f26175169f8d7da8,doc_993113d3d1cc9178,200,ppm,concentration,200 ppm,candidate
+val_4188bda7f3dade3f,ev_f26175169f8d7da8,doc_993113d3d1cc9178,2000,s,time,2000 s,candidate
+val_7a3ea21788ffb9a5,ev_f26175169f8d7da8,doc_993113d3d1cc9178,-0.15,V,potential,−0.15 V,candidate
+val_8003923cad919398,ev_f26175169f8d7da8,doc_993113d3d1cc9178,-0.23,V,potential,−0.23 V,candidate
+val_f022f4fd486219be,ev_f26175169f8d7da8,doc_993113d3d1cc9178,3000,s,time,3000 s,candidate
+val_29a72c4183f4f743,ev_5a9b9cabb602a969,doc_993113d3d1cc9178,0.5,ppm,concentration,0.5 ppm,candidate
+val_2cd0efd029fcce0d,ev_5a9b9cabb602a969,doc_993113d3d1cc9178,104.77,%,percentage,104.77 %,candidate
+val_190ffb625f8d3ede,ev_6a0fa3ff0673bec7,doc_e4d0aec36424f1af,0.04,%,percentage,0.04–22.53%,candidate
+val_0a96921677f7b3e0,ev_aa270e7f89867a3a,doc_e4d0aec36424f1af,20,μm,geometry,20 µm,candidate
+val_d0431e3141e77fe0,ev_6fa0cfbc127fc6d6,doc_e4d0aec36424f1af,220,g/L,concentration,220 g/L,candidate
+val_e8d5650c2a155dfd,ev_6fa0cfbc127fc6d6,doc_e4d0aec36424f1af,5,h,time,5 H,candidate
+val_8c4f742875180c86,ev_6fa0cfbc127fc6d6,doc_e4d0aec36424f1af,49,g/L,concentration,49 g/L,candidate
+val_0bd3212a50a3183e,ev_6fa0cfbc127fc6d6,doc_e4d0aec36424f1af,60,mg/L,concentration,60 mg/L,candidate
+val_716168c995d2a15d,ev_6fa0cfbc127fc6d6,doc_e4d0aec36424f1af,300,mg/L,concentration,300 mg/L,candidate
+val_819feec6af2eebb0,ev_6fa0cfbc127fc6d6,doc_e4d0aec36424f1af,2,mg/L,concentration,2 mg/L,candidate
+val_e762e810065548ac,ev_6fa0cfbc127fc6d6,doc_e4d0aec36424f1af,4,mg/L,concentration,4 mg/L,candidate
+val_b0e89d1e03c0a00a,ev_6fa0cfbc127fc6d6,doc_e4d0aec36424f1af,298,K,temperature,298 K,candidate
+val_29e3007add8d3421,ev_6fa0cfbc127fc6d6,doc_e4d0aec36424f1af,16.20,μm,geometry,16.20 µm,candidate
+val_f4ad356f5fac5aa4,ev_6fa0cfbc127fc6d6,doc_e4d0aec36424f1af,53.54,μm,geometry,53.54 µm,candidate
+val_bcb59c0ad1d2950c,ev_caec299d5e13b112,doc_e4d0aec36424f1af,4,mg/L,concentration,4 mg/L,candidate
+val_f14d51440b3054aa,ev_caec299d5e13b112,doc_e4d0aec36424f1af,0.1,V,potential,0.1 V,candidate
+val_e3f4c9cc6410e12a,ev_caec299d5e13b112,doc_e4d0aec36424f1af,0.8,V,potential,0.8 V,candidate
+val_539b7c35dd7cbb17,ev_caec299d5e13b112,doc_e4d0aec36424f1af,0.6,V,potential,0.6 V,candidate
+val_085303f5371ec9e5,ev_caec299d5e13b112,doc_e4d0aec36424f1af,20,mV,potential,20 mV,candidate
+val_31ba6a11d8aac749,ev_1d5c6fb9277b0482,doc_e4d0aec36424f1af,300,mg/L,concentration,300 mg/L,candidate
+val_0255b61dd5a40c99,ev_1d5c6fb9277b0482,doc_e4d0aec36424f1af,2,mg/L,concentration,2 mg/L,candidate
+val_7ba00be6684af6cb,ev_1d5c6fb9277b0482,doc_e4d0aec36424f1af,4,mg/L,concentration,4 mg/L,candidate
+val_aebf1968c622021c,ev_1d5c6fb9277b0482,doc_e4d0aec36424f1af,4,mg/L,concentration,4 mg/ L,candidate
+val_8bfa5d44bcfd8403,ev_1d5c6fb9277b0482,doc_e4d0aec36424f1af,0.10,%,percentage,0.10%,candidate
+val_ba951a11f4743b4b,ev_884920c181bfabf3,doc_e4d0aec36424f1af,4,mg/L,concentration,4 mg/L,candidate
+val_55fadf3b577db1d4,ev_da8f7c75ffac38dd,doc_e4d0aec36424f1af,300,mg/L,concentration,300 mg/L,candidate
+val_b58bdaf7a0340a3c,ev_da8f7c75ffac38dd,doc_e4d0aec36424f1af,2,mg/L,concentration,2 mg/L,candidate
+val_7e0f04bd3f9ab561,ev_da8f7c75ffac38dd,doc_e4d0aec36424f1af,4,mg/L,concentration,4 mg/L,candidate
+val_770a4063d98317e6,ev_805b5252c2d1876f,doc_e4d0aec36424f1af,2.2,g/L,concentration,2.2 g/L,candidate
+val_710317fa89dd5fac,ev_805b5252c2d1876f,doc_e4d0aec36424f1af,0.49,g/L,concentration,0.49 g/L,candidate
+val_b84150402b330016,ev_805b5252c2d1876f,doc_e4d0aec36424f1af,60,mg/L,concentration,60 mg/L,candidate
+val_991ec694ad24d9f5,ev_805b5252c2d1876f,doc_e4d0aec36424f1af,1,g/L,concentration,1 g/L,candidate
+val_9de7958543f52ca0,ev_1e8fd0e4a9e448ff,doc_14fb9885487f33dd,0.153,V,potential,0.153 V,candidate
+val_188e1a184c891423,ev_1e8fd0e4a9e448ff,doc_14fb9885487f33dd,0.202,V,potential,0.202 V,candidate
+val_3c96d19fc7903205,ev_1e8fd0e4a9e448ff,doc_14fb9885487f33dd,0.214,V,potential,0.214 V,candidate
+val_11a5a3088aaa4d4a,ev_cd73fd5ed37a05cf,doc_14fb9885487f33dd,2,mm,geometry,2 mm,candidate
+val_f4f8174fb372c3fd,ev_cd73fd5ed37a05cf,doc_14fb9885487f33dd,300,nm,geometry,300 nm,candidate
+val_bcd92769c7009ba6,ev_cd73fd5ed37a05cf,doc_14fb9885487f33dd,450,nm,geometry,450 nm,candidate
+val_6a1448809eb58668,ev_62af161560b42d81,doc_14fb9885487f33dd,0.153,V,potential,0.153 V,candidate
+val_e53df7ae3a707779,ev_62af161560b42d81,doc_14fb9885487f33dd,0.202,V,potential,0.202 V,candidate
+val_43cd2011f8b7fe0b,ev_62af161560b42d81,doc_14fb9885487f33dd,0.214,V,potential,0.214 V,candidate
+val_cc0c774d69b940cc,ev_3251095ce3db139d,doc_4ee81ed09e6aba17,1,h,time,1H,candidate
+val_f2a1d813bedca720,ev_3251095ce3db139d,doc_4ee81ed09e6aba17,24,mV,potential,24 mV,candidate
+val_b1616171360d9b20,ev_4c7f81c13a53a484,doc_4ee81ed09e6aba17,1000,rpm,rotation,1000 rpm,candidate
+val_3fe526168d8925c1,ev_4c7f81c13a53a484,doc_4ee81ed09e6aba17,0,ppm,concentration,0 ppm,candidate
+val_ba92455ca28b2f1c,ev_4c7f81c13a53a484,doc_4ee81ed09e6aba17,120,ppm,concentration,120 ppm,candidate
+val_02a59d5253ede7f4,ev_4c7f81c13a53a484,doc_4ee81ed09e6aba17,60,ppm,concentration,60 ppm,candidate
+val_df64ed8acd351240,ev_4c7f81c13a53a484,doc_4ee81ed09e6aba17,20,mV,potential,20 mV,candidate
+val_4fb4bcb169c85edb,ev_a9d67dd2416e1252,doc_4ee81ed09e6aba17,10,ppm,concentration,10 ppm,candidate
+val_956af78d9e0b3baf,ev_a9d67dd2416e1252,doc_4ee81ed09e6aba17,20,ppm,concentration,20 ppm,candidate
+val_56a547b5b081a80a,ev_a9d67dd2416e1252,doc_4ee81ed09e6aba17,9.61,ppm,concentration,9.61 ppm,candidate
+val_475571d0cecd51d4,ev_893030671039f0ec,doc_4ee81ed09e6aba17,6,ppm,concentration,6 ppm,candidate
+val_fc2aa866e3fd1744,ev_893030671039f0ec,doc_4ee81ed09e6aba17,24,mV,potential,24 mV,candidate
+val_daf304e4456c2f86,ev_893030671039f0ec,doc_4ee81ed09e6aba17,200,ppm,concentration,200 ppm,candidate
+val_725ed65dcf76d608,ev_893030671039f0ec,doc_4ee81ed09e6aba17,10,ppm,concentration,10 ppm,candidate
+val_6da99bf7edcd64cd,ev_c5a798e19f4fadf6,doc_4ee81ed09e6aba17,200,ppm,concentration,200 ppm,candidate
+val_898d6c8c54457a97,ev_c5a798e19f4fadf6,doc_4ee81ed09e6aba17,6,ppm,concentration,6 ppm,candidate
+val_0d29688235827e2e,ev_c5a798e19f4fadf6,doc_4ee81ed09e6aba17,100,ppm,concentration,100 ppm,candidate
+val_37c5313985b456bb,ev_457d4f38012ab5ae,doc_4ee81ed09e6aba17,1,ppm,concentration,1 ppm,candidate
+val_c3cd18a29ec46e7a,ev_457d4f38012ab5ae,doc_4ee81ed09e6aba17,10,ppm,concentration,10 ppm,candidate
+val_e4787938f95c7549,ev_457d4f38012ab5ae,doc_4ee81ed09e6aba17,24,mV,potential,24 mV,candidate
+val_ba01168959d12eb8,ev_d0b247b7a9c7b08b,doc_4ee81ed09e6aba17,100,rpm,rotation,100 rpm,candidate
+val_4454d32b4e0c73d1,ev_d0b247b7a9c7b08b,doc_4ee81ed09e6aba17,1000,rpm,rotation,1000 rpm,candidate
+val_fbf98a4754aca3e3,ev_d0b247b7a9c7b08b,doc_4ee81ed09e6aba17,10,ppm,concentration,10 ppm,candidate
+val_13e5f83e35ae955d,ev_d0b247b7a9c7b08b,doc_4ee81ed09e6aba17,24,mV,potential,24 mV,candidate
+val_46b039ba3ed32ebc,ev_d0b247b7a9c7b08b,doc_4ee81ed09e6aba17,60,ppm,concentration,60 ppm,candidate
+val_e77051c6d574e2e4,ev_02f71d971f4491b6,doc_4ee81ed09e6aba17,22,mV,potential,22 mV,candidate
+val_41db41b9350b5d0c,ev_02f71d971f4491b6,doc_4ee81ed09e6aba17,60,ppm,concentration,60 ppm,candidate
+val_e1d3ceee712f1f35,ev_4c431a16727a9f2a,doc_4ee81ed09e6aba17,60,ppm,concentration,60 ppm,candidate
+val_142ee898a69efde8,ev_4c431a16727a9f2a,doc_4ee81ed09e6aba17,200,ppm,concentration,200 ppm,candidate
+val_e96d466339a773b4,ev_4c431a16727a9f2a,doc_4ee81ed09e6aba17,6,ppm,concentration,6 ppm,candidate
+val_bc7120ae1a6dd3c8,ev_4c431a16727a9f2a,doc_4ee81ed09e6aba17,10,ppm,concentration,10 ppm,candidate
+val_bf70304dcd313b66,ev_4c431a16727a9f2a,doc_4ee81ed09e6aba17,98,%,percentage,98 %,candidate
+val_c0b5ab96a104267a,ev_4c431a16727a9f2a,doc_4ee81ed09e6aba17,0.13,mm,geometry,0.13 mm,candidate
+val_2937cba9108c5147,ev_4c431a16727a9f2a,doc_4ee81ed09e6aba17,0.11,mm,geometry,0.11 mm,candidate
+val_9ceab50a6291415b,ev_ee841dfce04fb17e,doc_4ee81ed09e6aba17,0.35,μm,geometry,0.35um,candidate
+val_4b82ec13c155bce1,ev_ee841dfce04fb17e,doc_4ee81ed09e6aba17,2.43,μm,geometry,2.43um,candidate
+val_c6e568a4b7704a85,ev_ee841dfce04fb17e,doc_4ee81ed09e6aba17,0.16,μm,geometry,0.16um,candidate
+val_f8131bf4456c3664,ev_ee841dfce04fb17e,doc_4ee81ed09e6aba17,0.93,μm,geometry,0.93um,candidate
+val_a88c04c1fa331235,ev_ee841dfce04fb17e,doc_4ee81ed09e6aba17,13,h,time,13h,candidate
+val_bc32b4d6152a2f34,ev_ee841dfce04fb17e,doc_4ee81ed09e6aba17,24,mV,potential,24 mV,candidate
+val_781f1884e3770b8c,ev_ee841dfce04fb17e,doc_4ee81ed09e6aba17,45,min,time,45 min,candidate
+val_186ae27eebc0f760,ev_881723dc63159048,doc_4ee81ed09e6aba17,200,ppm,concentration,200 ppm,candidate
+val_e1db704d5e082ce1,ev_881723dc63159048,doc_4ee81ed09e6aba17,60,ppm,concentration,60 ppm,candidate
+val_a2a53f50b928b614,ev_881723dc63159048,doc_4ee81ed09e6aba17,10,ppm,concentration,10 ppm,candidate
+val_e7b5357cff02e5f8,ev_471a1798f8be4ea7,doc_4ee81ed09e6aba17,1,h,time,1H,candidate
+val_1c053b94b97eb3de,ev_b7fcba35ef71ebd6,doc_4ee81ed09e6aba17,45,min,time,45 min,candidate
+val_4ecf349d11613895,ev_b7fcba35ef71ebd6,doc_4ee81ed09e6aba17,60,ppm,concentration,60 ppm,candidate
+val_3187083f89fce553,ev_b7fcba35ef71ebd6,doc_4ee81ed09e6aba17,200,ppm,concentration,200 ppm,candidate
+val_92b19fb6900af1e7,ev_b7fcba35ef71ebd6,doc_4ee81ed09e6aba17,6,ppm,concentration,6 ppm,candidate
+val_b150fe9f24ca9ba1,ev_b7fcba35ef71ebd6,doc_4ee81ed09e6aba17,10,ppm,concentration,10 ppm,candidate
+val_955d8d5f12b1b8c9,ev_cdb8a6f0138d6cac,doc_4ee81ed09e6aba17,5,mm,geometry,5 mm,candidate
+val_3e2355abd07404c6,ev_cdb8a6f0138d6cac,doc_4ee81ed09e6aba17,500,nm,geometry,500 nm,candidate
+val_d5751c24ac125ea0,ev_cdb8a6f0138d6cac,doc_4ee81ed09e6aba17,5,min,time,5 min,candidate
+val_a1996665221954b3,ev_cdb8a6f0138d6cac,doc_4ee81ed09e6aba17,1000,rpm,rotation,1000 rpm,candidate
+val_2aeec1b8775662bf,ev_cdb8a6f0138d6cac,doc_4ee81ed09e6aba17,298,K,temperature,298 K,candidate
+val_ab0660425dd45ef5,ev_cdb8a6f0138d6cac,doc_4ee81ed09e6aba17,5,mV,potential,5 mV,candidate
+val_e135461deb4cb1d9,ev_cdb8a6f0138d6cac,doc_4ee81ed09e6aba17,0.3,V,potential,0.3 V,candidate
+val_8cb1e0e02777b8ab,ev_cdb8a6f0138d6cac,doc_4ee81ed09e6aba17,0.8,V,potential,0.8 V,candidate
+val_c4d6a16bd1119f5a,ev_cdb8a6f0138d6cac,doc_4ee81ed09e6aba17,3,mm,geometry,3 mm,candidate
+val_e8667dbb025c3fe0,ev_66c364f8fa56f6e7,doc_4ee81ed09e6aba17,50,mm,geometry,50 mm,candidate
+val_9873b1b7ca347743,ev_66c364f8fa56f6e7,doc_4ee81ed09e6aba17,150,mm,geometry,150 mm,candidate
+val_7ec29ec1b4fadd01,ev_66c364f8fa56f6e7,doc_4ee81ed09e6aba17,0.13,mm,geometry,0.13 mm,candidate
+val_7badb39cae777a1e,ev_66c364f8fa56f6e7,doc_4ee81ed09e6aba17,0.08,mm,geometry,0.08 mm,candidate
+val_54071c39c07492f5,ev_66c364f8fa56f6e7,doc_4ee81ed09e6aba17,5,cm,geometry,5 cm,candidate
+val_8c73a1803e37711f,ev_66c364f8fa56f6e7,doc_4ee81ed09e6aba17,15,cm,geometry,15 cm,candidate
+val_3bbc02ac9d03af8b,ev_66c364f8fa56f6e7,doc_4ee81ed09e6aba17,20,cm,geometry,20 cm,candidate
+val_e35f9caa2768e664,ev_66c364f8fa56f6e7,doc_4ee81ed09e6aba17,298,K,temperature,298 K,candidate
+val_10936b04c868e13f,ev_66c364f8fa56f6e7,doc_4ee81ed09e6aba17,45,min,time,45 min,candidate
+val_19e59957347d2318,ev_a8f50bee320410aa,doc_864253aedc1d673a,7,ppm,concentration,7 ppm,candidate
+val_74588cabc712aee0,ev_c5f5d6aadf6605d2,doc_864253aedc1d673a,120,μm,geometry,120 μm,candidate
+val_ba6ec6da157cf778,ev_c5f5d6aadf6605d2,doc_864253aedc1d673a,100,μm,geometry,100 μm,candidate
+val_724635533130ccdc,ev_c5f5d6aadf6605d2,doc_864253aedc1d673a,125,μm,geometry,125 μm,candidate
+val_9da8572a351005c6,ev_c5f5d6aadf6605d2,doc_864253aedc1d673a,0.065,%,percentage,0.065 %,candidate
+val_ed1840255c26910e,ev_c5f5d6aadf6605d2,doc_864253aedc1d673a,1,mol/L,concentration,1 mol/L,candidate
+val_870bd97a5e959ad5,ev_c5f5d6aadf6605d2,doc_864253aedc1d673a,3,min,time,3 min,candidate
+val_6afc590bbfcfe287,ev_c5f5d6aadf6605d2,doc_864253aedc1d673a,5,min,time,5 min,candidate
+val_c6cde41c9369424c,ev_c5f5d6aadf6605d2,doc_864253aedc1d673a,5,h,time,5 H,candidate
+val_f9a8d992b93d84a1,ev_c5f5d6aadf6605d2,doc_864253aedc1d673a,60,ppm,concentration,60 ppm,candidate
+val_1fd80088dbd19164,ev_c5f5d6aadf6605d2,doc_864253aedc1d673a,1,ppm,concentration,1 ppm,candidate
+val_9c0de6623ab50552,ev_c5f5d6aadf6605d2,doc_864253aedc1d673a,200,ppm,concentration,200 ppm,candidate
+val_6d1dd99af38f2577,ev_81096b85ebd08006,doc_864253aedc1d673a,10,s,time,10 s,candidate
+val_8d41c3c1be96a0c3,ev_1ccf708330b0952d,doc_864253aedc1d673a,100,rpm,rotation,100 rpm,candidate
+val_bb03c598c0df5f95,ev_1ccf708330b0952d,doc_864253aedc1d673a,1600,rpm,rotation,1600 rpm,candidate
+val_6521a54a8b7f4eac,ev_1ccf708330b0952d,doc_864253aedc1d673a,5,ppm,concentration,5 ppm,candidate
+val_74e2fc99b3b25509,ev_3304c5d16a6137f6,doc_864253aedc1d673a,5,ppm,concentration,5 ppm,candidate
+val_6ba7aa346ea1170d,ev_087c30b6763368eb,doc_864253aedc1d673a,7,ppm,concentration,7 ppm,candidate
+val_c8a74e52767413b7,ev_087c30b6763368eb,doc_864253aedc1d673a,1600,rpm,rotation,1600 rpm,candidate
+val_0e6ab26fc3748a10,ev_087c30b6763368eb,doc_864253aedc1d673a,100,rpm,rotation,100 rpm,candidate
+val_327a9ffdea4bc692,ev_b21c531e943ee608,doc_864253aedc1d673a,100,rpm,rotation,100 rpm,candidate
+val_ecad75f312817c38,ev_b21c531e943ee608,doc_864253aedc1d673a,1600,rpm,rotation,1600 rpm,candidate
+val_bdd917981a6d1448,ev_b21c531e943ee608,doc_864253aedc1d673a,200,ppm,concentration,200 ppm,candidate
+val_dc6a229ce6a2885c,ev_b21c531e943ee608,doc_864253aedc1d673a,200,s,time,200 s,candidate
+val_130f597001d140fa,ev_b21c531e943ee608,doc_864253aedc1d673a,0.275,V,potential,0.275 v,candidate
+val_373b0f038d0269be,ev_b21c531e943ee608,doc_864253aedc1d673a,500,s,time,500 s,candidate
+val_e2453166249a1079,ev_b21c531e943ee608,doc_864253aedc1d673a,7,ppm,concentration,7 ppm,candidate
+val_1b31bfed68832a67,ev_b21c531e943ee608,doc_864253aedc1d673a,11.8,mV,potential,11.8 mv,candidate
+val_35862606c2038517,ev_7094fd0b82b92682,doc_864253aedc1d673a,1,ppm,concentration,1 ppm,candidate
+val_ae353600d06fc245,ev_7094fd0b82b92682,doc_864253aedc1d673a,7,ppm,concentration,7 ppm,candidate
+val_6ea13e956fdba3c9,ev_7094fd0b82b92682,doc_864253aedc1d673a,9,ppm,concentration,9 ppm,candidate
+val_0deb3f9dd6405c9d,ev_9aca68ac5fac45bd,doc_864253aedc1d673a,1,ppm,concentration,1 ppm,candidate
+val_b3e336b85bcb58f4,ev_9aca68ac5fac45bd,doc_864253aedc1d673a,2,ppm,concentration,2 ppm,candidate
+val_1a3d4a23a9ac0a54,ev_9aca68ac5fac45bd,doc_864253aedc1d673a,3,ppm,concentration,3 ppm,candidate
+val_82205a524c61de76,ev_9aca68ac5fac45bd,doc_864253aedc1d673a,5,ppm,concentration,5 ppm,candidate
+val_015d587659945e72,ev_9aca68ac5fac45bd,doc_864253aedc1d673a,7,ppm,concentration,7 ppm,candidate
+val_4543a9bccdeca54e,ev_9aca68ac5fac45bd,doc_864253aedc1d673a,9,ppm,concentration,9 ppm,candidate
+val_3682ab5a3c5ab7f4,ev_b1dcceca6fc5e8cd,doc_864253aedc1d673a,745,cm,geometry,745 cm,candidate
+val_00bfb6dc547504b2,ev_b1dcceca6fc5e8cd,doc_864253aedc1d673a,1134,cm,geometry,1134 cm,candidate
+val_2dcde2824f9ff21c,ev_b1dcceca6fc5e8cd,doc_864253aedc1d673a,1272,cm,geometry,1272 cm,candidate
+val_6bec854be33c4314,ev_b1dcceca6fc5e8cd,doc_864253aedc1d673a,100,s,time,100 s,candidate
+val_1613ddaa641b9e21,ev_f1d718b65ee1c304,doc_864253aedc1d673a,1379,cm,geometry,1379 cm,candidate
+val_231cfb29bdffcd1a,ev_f1d718b65ee1c304,doc_864253aedc1d673a,200,s,time,200 s,candidate
+val_d8fee6dda8326458,ev_f1d718b65ee1c304,doc_864253aedc1d673a,300,s,time,300 s,candidate
+val_de247e9e91e7a1d4,ev_f1d718b65ee1c304,doc_864253aedc1d673a,400,s,time,400 s,candidate
+val_fd8bf8107085d2e6,ev_f1d718b65ee1c304,doc_864253aedc1d673a,500,s,time,500 s,candidate
+val_e5f3989b0f717e98,ev_f1d718b65ee1c304,doc_864253aedc1d673a,600,s,time,600 s,candidate
+val_8309e6088b624565,ev_c3b776e1c90297e2,doc_3334cc8f5c373627,241,Ω,impedance,241 Ω,candidate
+val_9e2a49808b6b6dda,ev_c3b776e1c90297e2,doc_3334cc8f5c373627,496,Ω,impedance,496 Ω,candidate
+val_7d5be6f0d413552f,ev_e8739b4d32b0d9ab,doc_3334cc8f5c373627,7,h,time,7 H,candidate
+val_76f00e9122418886,ev_e8739b4d32b0d9ab,doc_3334cc8f5c373627,303,K,temperature,303 K,candidate
+val_0acd7ff11657b257,ev_e8739b4d32b0d9ab,doc_3334cc8f5c373627,10,min,time,10 min,candidate
+val_492376348d920d7a,ev_e8739b4d32b0d9ab,doc_3334cc8f5c373627,1,cm,geometry,1 cm,candidate
+val_5533faf3f2704f37,ev_e8739b4d32b0d9ab,doc_3334cc8f5c373627,50,μm,geometry,50 μm,candidate
+val_edadb628eb1923b4,ev_e8739b4d32b0d9ab,doc_3334cc8f5c373627,6,cm,geometry,6 cm,candidate
+val_7450e0f3a51dd4e7,ev_e8739b4d32b0d9ab,doc_3334cc8f5c373627,0.15406,nm,geometry,0.15406 nm,candidate
+val_f35c9ecdcea465d8,ev_2594de220fa6730d,doc_3334cc8f5c373627,303,K,temperature,303 K,candidate
+val_23f74b1216c19b3b,ev_2594de220fa6730d,doc_3334cc8f5c373627,200,nm,geometry,200 nm,candidate
+val_953f0523c07e747b,ev_2594de220fa6730d,doc_3334cc8f5c373627,700,nm,geometry,700 nm,candidate
+val_ee8ae05a4b4ca81f,ev_2594de220fa6730d,doc_3334cc8f5c373627,150,nm,geometry,150–250 nm,candidate
+val_41e8e954f1f6e696,ev_2594de220fa6730d,doc_3334cc8f5c373627,94.0,%,percentage,94.0 %,candidate
+val_c5e13c521502465e,ev_2594de220fa6730d,doc_3334cc8f5c373627,5.06,%,percentage,5.06 %,candidate
+val_9b5d7edd8a016281,ev_2594de220fa6730d,doc_3334cc8f5c373627,0.94,%,percentage,0.94 %,candidate
+val_9ca356f4e840ed19,ev_2594de220fa6730d,doc_3334cc8f5c373627,95.27,%,percentage,95.27 %,candidate
+val_187b2c21076a7d88,ev_2594de220fa6730d,doc_3334cc8f5c373627,4.33,%,percentage,4.33 %,candidate
+val_9e157f759a0f7057,ev_2594de220fa6730d,doc_3334cc8f5c373627,0.40,%,percentage,0.40 %,candidate
+val_224d8aecddb243e6,ev_b938f50022428d55,doc_2367d9736a312c06,17.9,%,percentage,17.9 %,candidate
+val_83f002d7273ab987,ev_b938f50022428d55,doc_2367d9736a312c06,43.62,%,percentage,43.62 %,candidate
+val_d3ced2d1b2ec66d7,ev_3391abd7145ad7a0,doc_2367d9736a312c06,5,h,time,5 H,candidate
+val_d0964da1c5a23e9b,ev_3391abd7145ad7a0,doc_2367d9736a312c06,2,h,time,2–4 h,candidate
+val_a310d3093457dedf,ev_84798dc9d5f8310c,doc_2367d9736a312c06,200,g/L,concentration,200 g/L,candidate
+val_39dd623ce66e6776,ev_84798dc9d5f8310c,doc_2367d9736a312c06,50,mg/L,concentration,50 mg/L,candidate
+val_bdf2418dfbe09c42,ev_84798dc9d5f8310c,doc_2367d9736a312c06,60,min,time,60 min,candidate
+val_5ceba7c38c4836ad,ev_3ef7232f42c9a122,doc_2367d9736a312c06,0.381,μm,geometry,0.381 μm,candidate
+val_e791437c4865f849,ev_3ef7232f42c9a122,doc_2367d9736a312c06,0.333,μm,geometry,0.333 μm,candidate
+val_2bf1e2af59647baa,ev_3ef7232f42c9a122,doc_2367d9736a312c06,1.4,μm,geometry,1.4 μm,candidate
+val_f3ff6edfceb56075,ev_3ef7232f42c9a122,doc_2367d9736a312c06,1.8,μm,geometry,1.8 μm,candidate
+val_4fcc164e5bd3763a,ev_5db147602fc1c696,doc_2367d9736a312c06,12.25,μm,geometry,12.25 µm,candidate
+val_60baf0d1e7439929,ev_5db147602fc1c696,doc_2367d9736a312c06,56.61,%,percentage,56.61 %,candidate
+val_b863f5a825b55c8a,ev_5db147602fc1c696,doc_2367d9736a312c06,10,mg/L,concentration,10 mg/L,candidate
+val_da81c5298f82db4c,ev_5db147602fc1c696,doc_2367d9736a312c06,76.28,%,percentage,76.28 %,candidate
+val_d3ce12246f9159a4,ev_5db147602fc1c696,doc_2367d9736a312c06,60.20,%,percentage,60.20 %,candidate
+val_c58ecca7aeed9bb0,ev_5db147602fc1c696,doc_2367d9736a312c06,65.65,%,percentage,65.65 %,candidate
+val_7f02809958e5beba,ev_2c4128ad15d23301,doc_2367d9736a312c06,100,mg/L,concentration,100 mg/L,candidate
+val_25d2101c983f8246,ev_fe2ef442a3a505a8,doc_d2b6fa373f8cc76f,1,h,time,1H,candidate
+val_a2c61a39573f7588,ev_45ae9a5d9de84279,doc_d2b6fa373f8cc76f,1,h,time,1 h,candidate
+val_e3a7607e19c78bb8,ev_45ae9a5d9de84279,doc_d2b6fa373f8cc76f,19.1,μm,geometry,19.1 μm,candidate
+val_b11a209537832cb1,ev_45ae9a5d9de84279,doc_d2b6fa373f8cc76f,150,μm,geometry,150 µm,candidate
+val_c017591870065e86,ev_45ae9a5d9de84279,doc_d2b6fa373f8cc76f,80,μm,geometry,80 µm,candidate
+val_94dd4e3c1735e196,ev_45ae9a5d9de84279,doc_d2b6fa373f8cc76f,60,min,time,60 min,candidate
+val_e81961259b339d6b,ev_a18498048f6ff2eb,doc_d2b6fa373f8cc76f,100,μm,geometry,100um,candidate
+val_6dcfe2a798132a97,ev_a18498048f6ff2eb,doc_d2b6fa373f8cc76f,25,μm,geometry,25 μm,candidate
+val_b93fcb5771a5ea6d,ev_4fe699e273a42246,doc_d2b6fa373f8cc76f,500,nm,geometry,500 nm,candidate
+val_139394a86664f1dc,ev_4fe699e273a42246,doc_d2b6fa373f8cc76f,1,K,temperature,1 K,candidate
+val_45f7825ffc0906e3,ev_4fe699e273a42246,doc_d2b6fa373f8cc76f,5,mV,potential,5 mV,candidate
+val_b31c09c1dee2199b,ev_4fe699e273a42246,doc_d2b6fa373f8cc76f,1000,rpm,rotation,1000 rpm,candidate
+val_87f1df0aaea28b3f,ev_4fe699e273a42246,doc_d2b6fa373f8cc76f,-0.65,V,potential,−0.65 V,candidate
+val_ea9a2c5d53bacf1c,ev_408885412ac38adc,doc_d2b6fa373f8cc76f,50,mm,geometry,50 mm,candidate
+val_15f7d07ec73ede1d,ev_408885412ac38adc,doc_d2b6fa373f8cc76f,100,mg/L,concentration,100 mg/L,candidate
+val_12bfc2369914f8ae,ev_408885412ac38adc,doc_d2b6fa373f8cc76f,3,mg/L,concentration,3 mg/L,candidate
+val_11b4cad14a2fbe24,ev_408885412ac38adc,doc_d2b6fa373f8cc76f,60,mg/L,concentration,60 mg/L,candidate
+val_5952b264a978fb4a,ev_408885412ac38adc,doc_d2b6fa373f8cc76f,6,mg/L,concentration,6 mg/L,candidate
+val_2894d50d1313247a,ev_2e7d43a07d65c83e,doc_d2b6fa373f8cc76f,60,mg/L,concentration,60 mg/L,candidate
+val_13e943373a9a0d1a,ev_2e7d43a07d65c83e,doc_d2b6fa373f8cc76f,100,mg/L,concentration,100 mg/L,candidate
+val_560a701334a74d21,ev_2e7d43a07d65c83e,doc_d2b6fa373f8cc76f,3,mg/L,concentration,3 mg/L,candidate
+val_d0f1d3c248a676dd,ev_2e7d43a07d65c83e,doc_d2b6fa373f8cc76f,12,mg/L,concentration,12 mg/L,candidate
+val_d9a69d10238137f9,ev_2e7d43a07d65c83e,doc_d2b6fa373f8cc76f,100,rpm,rotation,100 rpm,candidate
+val_3fc3f84cc28f0990,ev_2e7d43a07d65c83e,doc_d2b6fa373f8cc76f,1000,rpm,rotation,1000 rpm,candidate
+val_5774e56e15282eba,ev_2e7d43a07d65c83e,doc_d2b6fa373f8cc76f,500,s,time,500 s,candidate
+val_d0e7ac65207ca369,ev_2e7d43a07d65c83e,doc_d2b6fa373f8cc76f,18,mV,potential,18 mV,candidate
+val_0a335f86d7aeb003,ev_2e7d43a07d65c83e,doc_d2b6fa373f8cc76f,6,mg/L,concentration,6 mg/L,candidate
+val_c586da0864c7b44b,ev_ba444311e1c22321,doc_d2b6fa373f8cc76f,40,mg/L,concentration,40 mg/L,candidate
+val_469544f775d53c6f,ev_ba444311e1c22321,doc_d2b6fa373f8cc76f,-0.602,V,potential,−0.602 V,candidate
+val_ee966f6cb802ab5f,ev_ba444311e1c22321,doc_d2b6fa373f8cc76f,-0.693,V,potential,−0.693 V,candidate
+val_64979caab4ede48e,ev_ba444311e1c22321,doc_d2b6fa373f8cc76f,30,mg/L,concentration,30–60 mg/L,candidate
+val_d26ef7e049f50c46,ev_ba444311e1c22321,doc_d2b6fa373f8cc76f,18,mV,potential,18–20 mV,candidate
+val_eefb2b7927bff404,ev_ba444311e1c22321,doc_d2b6fa373f8cc76f,60,mg/L,concentration,60 mg/L,candidate
+val_04f2567082825ed5,ev_30ba978451e4316b,doc_d2b6fa373f8cc76f,40,mg/L,concentration,40 mg/L,candidate
+val_f280b1126983eac2,ev_30ba978451e4316b,doc_d2b6fa373f8cc76f,-0.716,V,potential,−0.716 V,candidate
+val_0725de9dd041069e,ev_30ba978451e4316b,doc_d2b6fa373f8cc76f,200,mg/L,concentration,200–300 mg/L,candidate
+val_dd27f1841f74fac1,ev_30ba978451e4316b,doc_d2b6fa373f8cc76f,20,mg/L,concentration,20–100 mg/L,candidate
+val_85e9d2ec8d0de554,ev_30ba978451e4316b,doc_d2b6fa373f8cc76f,18,mV,potential,18–19 mV,candidate
+val_dcdb0c9eda229293,ev_30ba978451e4316b,doc_d2b6fa373f8cc76f,100,mg/L,concentration,100 mg/L,candidate
+val_7bc8bce3b65a5f87,ev_30ba978451e4316b,doc_d2b6fa373f8cc76f,100,mg/L,concentration,100 mg/ L,candidate
+val_b282242d686130f6,ev_a6cda07e8e0f5dba,doc_d2b6fa373f8cc76f,9,mg/L,concentration,9 mg/L,candidate
+val_953c63b4fc6bce72,ev_a6cda07e8e0f5dba,doc_d2b6fa373f8cc76f,-0.760,V,potential,−0.760 V,candidate
+val_f0c8f1962d42b8cb,ev_a6cda07e8e0f5dba,doc_d2b6fa373f8cc76f,-0.651,V,potential,−0.651 V,candidate
+val_1d3738d04617526b,ev_a6cda07e8e0f5dba,doc_d2b6fa373f8cc76f,24,mV,potential,24 mV,candidate
+val_8ea2731e88e9f76a,ev_a6cda07e8e0f5dba,doc_d2b6fa373f8cc76f,3,mg/L,concentration,3 mg/L,candidate
+val_44c6e5e93aa89f5b,ev_a6cda07e8e0f5dba,doc_d2b6fa373f8cc76f,6,mg/L,concentration,6 mg/L,candidate
+val_a3090b87fc126226,ev_a6cda07e8e0f5dba,doc_d2b6fa373f8cc76f,60,mg/L,concentration,60 mg/L,candidate
+val_82c1e600bfb6e7ea,ev_a6cda07e8e0f5dba,doc_d2b6fa373f8cc76f,100,mg/L,concentration,100 mg/L,candidate
+val_e37ada9d8b4fa5d5,ev_bbe5321930253b63,doc_d2b6fa373f8cc76f,100,rpm,rotation,100 rpm,candidate
+val_a4f27bc5691bf55a,ev_bbe5321930253b63,doc_d2b6fa373f8cc76f,1000,rpm,rotation,1000 rpm,candidate
+val_54d2c6f997c06179,ev_bbe5321930253b63,doc_d2b6fa373f8cc76f,100,mg/L,concentration,100 mg/L,candidate
+val_811d660dd2f0f517,ev_bbe5321930253b63,doc_d2b6fa373f8cc76f,8,mg/L,concentration,8 mg/L,candidate
+val_f22a4bb0eccd1f10,ev_bbe5321930253b63,doc_d2b6fa373f8cc76f,15,mV,potential,15 mV,candidate
+val_2a2531d5e44de3b4,ev_bbe5321930253b63,doc_d2b6fa373f8cc76f,17,mV,potential,17 mV,candidate
+val_2351346bfee24fb2,ev_bbe5321930253b63,doc_d2b6fa373f8cc76f,18,mV,potential,18 mV,candidate
+val_7087b8d3e6ba38fd,ev_bbe5321930253b63,doc_d2b6fa373f8cc76f,1500,s,time,1500-2000 s,candidate
+val_3dd5c2900f442c2c,ev_bbe5321930253b63,doc_d2b6fa373f8cc76f,1000,s,time,1000–1500 s,candidate
+val_a0ad74cc8411f359,ev_bbe5321930253b63,doc_d2b6fa373f8cc76f,500,s,time,500–1000 s,candidate
+val_775f936d931b618a,ev_bbe5321930253b63,doc_d2b6fa373f8cc76f,500,s,time,500-1000 s,candidate
+val_47401ea6b6f10744,ev_bbe5321930253b63,doc_d2b6fa373f8cc76f,1500,s,time,1500 s,candidate
+val_12ee8678587e3b44,ev_0e1b5141e3d6fb4c,doc_d2b6fa373f8cc76f,8,mg/L,concentration,8 mg/L,candidate
+val_66e761babd98c0dd,ev_0e1b5141e3d6fb4c,doc_d2b6fa373f8cc76f,6,mg/L,concentration,6 mg/L,candidate
+val_3912ac989de96771,ev_e7a4a65ad023fcb3,doc_d2b6fa373f8cc76f,120,min,time,120 min,candidate
+val_88ae439e3888c4b0,ev_e7a4a65ad023fcb3,doc_d2b6fa373f8cc76f,60,min,time,60 min,candidate
+val_819c00e8b16677a8,ev_e7a4a65ad023fcb3,doc_d2b6fa373f8cc76f,40,min,time,40 min,candidate
+val_3d483dadfdec9fbe,ev_e7a4a65ad023fcb3,doc_d2b6fa373f8cc76f,60,mg/L,concentration,60 mg/L,candidate
+val_fe9987e9de1835f5,ev_e7a4a65ad023fcb3,doc_d2b6fa373f8cc76f,100,mg/L,concentration,100 mg/L,candidate
+val_f41c9945c7241198,ev_e7a4a65ad023fcb3,doc_d2b6fa373f8cc76f,3,mg/L,concentration,3 mg/L,candidate
+val_29592a0c35e974ca,ev_e7a4a65ad023fcb3,doc_d2b6fa373f8cc76f,6,mg/L,concentration,6 mg/L,candidate
+val_693f995c1c381438,ev_e7a4a65ad023fcb3,doc_d2b6fa373f8cc76f,2,mg/L,concentration,2 mg/L,candidate
+val_9cd61b4a514ef4ac,ev_e7a4a65ad023fcb3,doc_d2b6fa373f8cc76f,8,mg/L,concentration,8 mg/L,candidate
+val_a8a37553dc6a656e,ev_8686bef98ce7286e,doc_d2b6fa373f8cc76f,-0.65,V,potential,−0.65 V,candidate
+val_054377d054a95e16,ev_8686bef98ce7286e,doc_d2b6fa373f8cc76f,60,mg/L,concentration,60 mg/L,candidate
+val_ae47f1f79b1900d0,ev_8686bef98ce7286e,doc_d2b6fa373f8cc76f,100,mg/L,concentration,100 mg/L,candidate
+val_1270a91ef9108827,ev_51fa53c4b19f245d,doc_d2b6fa373f8cc76f,93.8,%,percentage,93.8 %,candidate
+val_0af4af26a8529dd4,ev_51fa53c4b19f245d,doc_d2b6fa373f8cc76f,19.1,μm,geometry,19.1um,candidate
+val_c1452bada36caeb9,ev_51fa53c4b19f245d,doc_d2b6fa373f8cc76f,150,μm,geometry,150 μm,candidate
+val_cbbbb816cd3b48f5,ev_51fa53c4b19f245d,doc_d2b6fa373f8cc76f,80,μm,geometry,80 μm,candidate
+val_cc60a8b4aaa1f2af,ev_5bc8811f5e03cf66,doc_d2b6fa373f8cc76f,60,min,time,60 min,candidate
+val_b46b88e4ec31bff8,ev_5bc8811f5e03cf66,doc_d2b6fa373f8cc76f,87.6,%,percentage,87.6 %,candidate
+val_7cb1f65c73895eb4,ev_5bc8811f5e03cf66,doc_d2b6fa373f8cc76f,25.07,μm,geometry,25.07 μm,candidate
+val_8d5062ef133a71ee,ev_944806aedef50cf1,doc_d2b6fa373f8cc76f,2,mg/L,concentration,2 mg/L,candidate
+val_ff7c97a0c45eb1d0,ev_944806aedef50cf1,doc_d2b6fa373f8cc76f,6,mg/L,concentration,6 mg/L,candidate
+val_706870152c9d9867,ev_944806aedef50cf1,doc_d2b6fa373f8cc76f,8,mg/L,concentration,8 mg/ L,candidate
+val_75eb822334840340,ev_944806aedef50cf1,doc_d2b6fa373f8cc76f,60,min,time,60 min,candidate
+val_d3460b23813a8c83,ev_944806aedef50cf1,doc_d2b6fa373f8cc76f,90,%,percentage,90 %,candidate
+val_5e2a723a2d4be7f7,ev_944806aedef50cf1,doc_d2b6fa373f8cc76f,8,mg/L,concentration,8 mg/L,candidate
+val_d53aa4489dce9e1c,ev_1c1124f767d845ad,doc_d2b6fa373f8cc76f,20,min,time,20 min,candidate
+val_0202772003990bfd,ev_1c1124f767d845ad,doc_d2b6fa373f8cc76f,40,min,time,40 min,candidate
+val_eef3ab689f42358f,ev_b7bb29cd18f48db2,doc_d2b6fa373f8cc76f,6,mg/L,concentration,6 mg/L,candidate
+val_16a2e3caaf8eeb08,ev_b7bb29cd18f48db2,doc_d2b6fa373f8cc76f,60,mg/L,concentration,60 mg/L,candidate
+val_4cb45f4577cc4312,ev_b7bb29cd18f48db2,doc_d2b6fa373f8cc76f,3,mg/L,concentration,3 mg/L,candidate
+val_b1578f95adf2086d,ev_b7bb29cd18f48db2,doc_d2b6fa373f8cc76f,100,mg/L,concentration,100 mg/L,candidate
+val_1d50325c86af0acb,ev_ae00174093d50aaa,doc_2b2f69f91e334557,-0.250,V,potential,−0.250 V,candidate
+val_bc10e126cbec2a5b,ev_ae00174093d50aaa,doc_2b2f69f91e334557,-0.277,V,potential,−0.277 V,candidate
+val_f9494884dd8cd3bf,ev_d7d9f1c99b8be6ba,doc_2b2f69f91e334557,-0.337,V,potential,−0.337 V,candidate
+val_984eae11b084c35f,ev_44fe117374f022f1,doc_587bb3576dee58ce,70,nm,geometry,70 nm,candidate
+val_d3baf2e17dd218fc,ev_44fe117374f022f1,doc_587bb3576dee58ce,7,nm,geometry,7 nm,candidate
+val_7076643a68437970,ev_44fe117374f022f1,doc_587bb3576dee58ce,57,%,percentage,57%,candidate
+val_b62769b61ffbac85,ev_0c5db1bd0b3b00d5,doc_587bb3576dee58ce,5,h,time,5H,candidate
+val_633e85e92f6415f4,ev_0c5db1bd0b3b00d5,doc_587bb3576dee58ce,96,%,percentage,96%,candidate
+val_a79c2affd4a8f8b4,ev_5f6146eb4a0be30b,doc_587bb3576dee58ce,220,g/L,concentration,220 g/L,candidate
+val_3d1834ef39c0e7c6,ev_5f6146eb4a0be30b,doc_587bb3576dee58ce,100,ppm,concentration,100 ppm,candidate
+val_18ed2c4f1c150cd8,ev_5f6146eb4a0be30b,doc_587bb3576dee58ce,4,ppm,concentration,4 ppm,candidate
+val_098cb446981e93cc,ev_5f6146eb4a0be30b,doc_587bb3576dee58ce,50,ppm,concentration,50 ppm,candidate
+val_836c1bf86249b098,ev_1ee6bcacc778adff,doc_587bb3576dee58ce,1,min,time,1 min,candidate
+val_7b3ad018af1bf082,ev_1ee6bcacc778adff,doc_587bb3576dee58ce,8,min,time,8 min,candidate
+val_2388917a57791337,ev_1942573f45a95eb0,doc_587bb3576dee58ce,100,ppm,concentration,100 ppm,candidate
+val_1b367cd638318f19,ev_1942573f45a95eb0,doc_587bb3576dee58ce,1000,rpm,rotation,1000 rpm,candidate
+val_cde1a2248927a91d,ev_1942573f45a95eb0,doc_587bb3576dee58ce,100,rpm,rotation,100 rpm,candidate
+val_f6cb7cd1e706f6ed,ev_1874dd0ace32a42c,doc_587bb3576dee58ce,50,ppm,concentration,50 ppm,candidate
+val_97e6d28010129e2c,ev_2cbdbb3d14794d35,doc_587bb3576dee58ce,0,s,time,0 s,candidate
+val_2b9a6bb547b9e1be,ev_2cbdbb3d14794d35,doc_587bb3576dee58ce,1300,s,time,1300 s,candidate
+val_289ea5a741895ea1,ev_2cbdbb3d14794d35,doc_587bb3576dee58ce,1800,s,time,1800 s,candidate
+val_cef75931983298b4,ev_2cbdbb3d14794d35,doc_587bb3576dee58ce,-0.71,V,potential,−0.71 V,candidate
+val_43472f9c8e646d14,ev_2cbdbb3d14794d35,doc_587bb3576dee58ce,100,rpm,rotation,100 rpm,candidate
+val_d3b6eeb0dc17471f,ev_2cbdbb3d14794d35,doc_587bb3576dee58ce,1000,rpm,rotation,1000 rpm,candidate
+val_d57fbdcfa6a92cd7,ev_8b0356219abdd94f,doc_587bb3576dee58ce,100,ppm,concentration,100 ppm,candidate
+val_843fc3f3f383f033,ev_2fbf219f2b36331f,doc_587bb3576dee58ce,50,ppm,concentration,50 ppm,candidate
+val_78e02fcb8b3007ca,ev_64557351da6d2430,doc_587bb3576dee58ce,100,ppm,concentration,100 ppm,candidate
+val_92395566f99154a0,ev_452fbaf8e15b2359,doc_587bb3576dee58ce,6000,nm,geometry,6000 nm,candidate
+val_a066ec7681cd5a0c,ev_452fbaf8e15b2359,doc_587bb3576dee58ce,57,%,percentage,57%,candidate
+val_eb2ce6d97f7937e8,ev_791a109a02b895fa,doc_587bb3576dee58ce,70,nm,geometry,70 nm,candidate
+val_979df7c63e8998e3,ev_791a109a02b895fa,doc_587bb3576dee58ce,7,nm,geometry,7 nm,candidate
+val_33f4d41f99485a60,ev_791a109a02b895fa,doc_587bb3576dee58ce,57,%,percentage,57%,candidate
+val_ea21b5be987c8c30,ev_791a109a02b895fa,doc_587bb3576dee58ce,30,ppm,concentration,30 ppm,candidate
+val_8db036bf320502fe,ev_19399afc80834c19,doc_48a27b213c748fca,50,μm,geometry,50 µm,candidate
+val_185c27b48b1b59d5,ev_19399afc80834c19,doc_48a27b213c748fca,100,μm,geometry,100 µm,candidate
+val_dc239b7e0e1625ae,ev_11698424b7afe84c,doc_48a27b213c748fca,0.3,mol/L,concentration,0.3 mol/L,candidate
+val_2dfb965acc08b49c,ev_11698424b7afe84c,doc_48a27b213c748fca,0.84,mmol/L,concentration,0.84 mmol/L,candidate
+val_21d9255f00a8c29a,ev_11698424b7afe84c,doc_48a27b213c748fca,100,g/L,concentration,100 g/L,candidate
+val_ccb55e43ef62bc98,ev_11698424b7afe84c,doc_48a27b213c748fca,1,g/L,concentration,1 g/L,candidate
+val_596da5b7d2156c9d,ev_11698424b7afe84c,doc_48a27b213c748fca,50,μm,geometry,50 µm,candidate
+val_c179a249c2550884,ev_de929e8a6c41752b,doc_48a27b213c748fca,7,mg/L,concentration,7 mg/L,candidate
+val_f3e12f20f363924a,ev_de929e8a6c41752b,doc_48a27b213c748fca,-1.476,V,potential,−1.476 V,candidate
+val_764a8d58a349cb78,ev_de929e8a6c41752b,doc_48a27b213c748fca,-1.362,V,potential,−1.362 V,candidate
+val_f0f43d5a2557a22a,ev_d2e6421d7911e11a,doc_48a27b213c748fca,33,mV,potential,33 mV,candidate
+val_1194f73b3859fd72,ev_d2e6421d7911e11a,doc_48a27b213c748fca,5,mg/L,concentration,5 mg/L,candidate
+val_dc5e3fe697eb7e35,ev_d2e6421d7911e11a,doc_48a27b213c748fca,7,mg/L,concentration,7 mg/L,candidate
+val_798c4fa25173e9ed,ev_d2e6421d7911e11a,doc_48a27b213c748fca,-1.6,V,potential,−1.6 V,candidate
+val_e1112ec0acdc38e9,ev_b66a1d3897dc9e44,doc_48a27b213c748fca,0.3,mol/L,concentration,0.3 mol/L,candidate
+val_5f361983f15e5b23,ev_b66a1d3897dc9e44,doc_48a27b213c748fca,0.84,mmol/L,concentration,0.84 mmol/L,candidate
+val_7025b649131d14de,ev_b66a1d3897dc9e44,doc_48a27b213c748fca,0.57,mol/L,concentration,0.57 mol/L,candidate
+val_64dfff873fdf18fe,ev_d82ff1dd8da6b6da,doc_48a27b213c748fca,-1.0,V,potential,−1.0 V,candidate
+val_630f108a472e2fad,ev_d82ff1dd8da6b6da,doc_48a27b213c748fca,0.3,mol/L,concentration,0.3 mol/L,candidate
+val_caa3989d4477f615,ev_d82ff1dd8da6b6da,doc_48a27b213c748fca,0.84,mmol/L,concentration,0.84 mmol/L,candidate
+val_f6326dad0128684a,ev_d82ff1dd8da6b6da,doc_48a27b213c748fca,7,mg/L,concentration,7 mg/L,candidate
+val_3649bd630b087440,ev_91b36ecffbd5ee52,doc_48a27b213c748fca,100,μm,geometry,100 µm,candidate
+val_346ca34a3f37339c,ev_91b36ecffbd5ee52,doc_48a27b213c748fca,7,mg/L,concentration,7 mg/L,candidate
+val_e4cd0bdecc22ffa0,ev_91b36ecffbd5ee52,doc_48a27b213c748fca,300,mg/L,concentration,300 mg/L,candidate
+val_24ac1041e41f7d6a,ev_d3671ed639630756,doc_48a27b213c748fca,7,mg/L,concentration,7 mg/L,candidate
+val_e675b82c9271f2c0,ev_d3671ed639630756,doc_48a27b213c748fca,300,mg/L,concentration,300 mg/L,candidate
+val_7cb1476c81fbe29c,ev_d696d7f7263147d9,doc_48a27b213c748fca,7,mg/L,concentration,7 mg/L,candidate
+val_b15bf32095f0f33d,ev_d696d7f7263147d9,doc_48a27b213c748fca,300,mg/L,concentration,300 mg/L,candidate
+val_f349ada867c09683,ev_acb0e019f73dd950,doc_48a27b213c748fca,7,h,time,7h,candidate
+val_a4b84087799f7258,ev_6672d1c4784c1607,doc_063ed17b5d19f9b0,1.5,ppm,concentration,1.5 ppm,candidate
+val_8981cc928b5ae96a,ev_d4be967ea320844f,doc_063ed17b5d19f9b0,50,ppm,concentration,50 ppm,candidate
+val_2beca81cc9757902,ev_d4be967ea320844f,doc_063ed17b5d19f9b0,50,mV,potential,50 mV,candidate
+val_70c7104cc79670d3,ev_d4be967ea320844f,doc_063ed17b5d19f9b0,120,s,time,120 s,candidate
+val_a17c9ad3c5bc1a01,ev_d4be967ea320844f,doc_063ed17b5d19f9b0,-0.8,V,potential,-0.8 V,candidate
+val_61f034ef5772eeee,ev_d4be967ea320844f,doc_063ed17b5d19f9b0,1500,rpm,rotation,1500 rpm,candidate
+val_09d45a4a54767cb9,ev_d4be967ea320844f,doc_063ed17b5d19f9b0,150,rpm,rotation,150 rpm,candidate
+val_e035f6f53e7e7cbd,ev_d4be967ea320844f,doc_063ed17b5d19f9b0,4000,s,time,4000 s,candidate
+val_4cbdad03bbc7109a,ev_c350e16b54df800f,doc_063ed17b5d19f9b0,2,mm,geometry,2 mm,candidate
+val_688ced4c3ddd2edb,ev_c350e16b54df800f,doc_063ed17b5d19f9b0,150,mm,geometry,150 mm,candidate
+val_303d6eaf5cc98aa2,ev_c350e16b54df800f,doc_063ed17b5d19f9b0,200,ppm,concentration,200 ppm,candidate
+val_2022b3d9f415b9b1,ev_c350e16b54df800f,doc_063ed17b5d19f9b0,1,ppm,concentration,1 ppm,candidate
+val_9ad1f6a2f2998f7c,ev_c350e16b54df800f,doc_063ed17b5d19f9b0,10,min,time,10 min,candidate
+val_211c53505c81e9de,ev_c350e16b54df800f,doc_063ed17b5d19f9b0,70,min,time,70 min,candidate
+val_a43e8bf3202e61b2,ev_bca64aca9269cf4d,doc_063ed17b5d19f9b0,-0.075,V,potential,-0.075 V,candidate
+val_82d085b192f3c51d,ev_bca64aca9269cf4d,doc_063ed17b5d19f9b0,-0.08,V,potential,-0.08 V,candidate
+val_edd1aa5b9094c2e6,ev_bca64aca9269cf4d,doc_063ed17b5d19f9b0,-0.1,V,potential,-0.1 V,candidate
+val_b2291b461481ad15,ev_bca64aca9269cf4d,doc_063ed17b5d19f9b0,-0.166,V,potential,-0.166 V,candidate
+val_5fca3ded89162cd3,ev_bca64aca9269cf4d,doc_063ed17b5d19f9b0,-0.171,V,potential,-0.171 V,candidate
+val_4ea9df096638a52f,ev_e6bc3d3a736340b9,doc_063ed17b5d19f9b0,1500,rpm,rotation,1500 rpm,candidate
+val_9a28ebe1eecca364,ev_e6bc3d3a736340b9,doc_063ed17b5d19f9b0,150,rpm,rotation,150 rpm,candidate
+val_d8c868d062f5b674,ev_e6bc3d3a736340b9,doc_063ed17b5d19f9b0,200,ppm,concentration,200 ppm,candidate
+val_faa56106664a67f7,ev_e6bc3d3a736340b9,doc_063ed17b5d19f9b0,2,ppm,concentration,2 ppm,candidate
+val_2c58b78befa757c5,ev_e6bc3d3a736340b9,doc_063ed17b5d19f9b0,2000,s,time,2000 s,candidate
+val_12140e781d4fe316,ev_e6bc3d3a736340b9,doc_063ed17b5d19f9b0,1,mV,potential,1–2 mV,candidate
+val_09f1f50c30156941,ev_e6bc3d3a736340b9,doc_063ed17b5d19f9b0,3000,s,time,3000 s,candidate
+val_5634caf6923ae50a,ev_d8327f75c44f8e1b,doc_063ed17b5d19f9b0,65.8,%,percentage,65.8%,candidate
+val_eb6fcbf4a8c18396,ev_d8327f75c44f8e1b,doc_063ed17b5d19f9b0,86.27,%,percentage,86.27%,candidate
+val_6657ee1e6d73f2d6,ev_d8327f75c44f8e1b,doc_063ed17b5d19f9b0,120.77,%,percentage,120.77%,candidate
+val_9cac746a1e4ef371,ev_d8327f75c44f8e1b,doc_063ed17b5d19f9b0,1.5,ppm,concentration,1.5 ppm,candidate
+val_ff7e638227d90a1c,ev_294cd6b6073035d9,doc_063ed17b5d19f9b0,120.77,%,percentage,120.77%,candidate
+val_554a930b2cac5de8,ev_294cd6b6073035d9,doc_063ed17b5d19f9b0,1.5,ppm,concentration,1.5 ppm,candidate
+val_4a5731a763f8510a,ev_2130f7b4bdc988b5,doc_d24addc834f31e38,300,μm,geometry,300 µm,candidate
+val_8828020a54e85775,ev_2130f7b4bdc988b5,doc_d24addc834f31e38,3,mm,geometry,3 mm,candidate
+val_d015f31c85f62c48,ev_2130f7b4bdc988b5,doc_d24addc834f31e38,75,min,time,75 minutes,candidate
+val_a5ab7405a3439ac8,ev_35e92c9a79041d08,doc_d24addc834f31e38,2,cm,geometry,2 cm,candidate
+val_3476bae07d604f1c,ev_35e92c9a79041d08,doc_d24addc834f31e38,45,min,time,45 min,candidate
+val_f9d63b9390aa0570,ev_35e92c9a79041d08,doc_d24addc834f31e38,30,min,time,30 min,candidate
+val_84980198145a71f8,ev_35e92c9a79041d08,doc_d24addc834f31e38,1,s,time,1s,candidate
+val_0d1c917d4749772b,ev_20b4520e5bf85c7d,doc_d24addc834f31e38,49.26,%,percentage,49.26 %,candidate
+val_1e3a0eb9742a902e,ev_20b4520e5bf85c7d,doc_d24addc834f31e38,200,ppm,concentration,200 ppm,candidate
+val_439b3abbc6fecf41,ev_20b4520e5bf85c7d,doc_d24addc834f31e38,2,ppm,concentration,2 ppm,candidate
+val_5b6d64c4deddc1fd,ev_20b4520e5bf85c7d,doc_d24addc834f31e38,50.69,%,percentage,50.69 %,candidate
+val_9d75d44c9dc493e2,ev_20b4520e5bf85c7d,doc_d24addc834f31e38,0.1,ppm,concentration,0.1 ppm,candidate
+val_5f4add9259e120a9,ev_20b4520e5bf85c7d,doc_d24addc834f31e38,71.88,%,percentage,71.88 %,candidate
+val_4c527e7594d4af3f,ev_20b4520e5bf85c7d,doc_d24addc834f31e38,0.3,ppm,concentration,0.3 ppm,candidate
+val_ad392cf3ca1a42da,ev_20b4520e5bf85c7d,doc_d24addc834f31e38,100,%,percentage,100 %,candidate
+val_3fc1d10fa49866fa,ev_20b4520e5bf85c7d,doc_d24addc834f31e38,113.31,%,percentage,113.31 %,candidate
+val_367c1108c43a9c52,ev_20b4520e5bf85c7d,doc_d24addc834f31e38,0.5,ppm,concentration,0.5 ppm,candidate
+val_e445585ff0b22e11,ev_20b4520e5bf85c7d,doc_d24addc834f31e38,122.90,%,percentage,122.90 %,candidate
+val_217e8a362bb6b4d9,ev_5db1d32c1b0577d0,doc_d24addc834f31e38,0.3,ppm,concentration,0.3 ppm,candidate
+val_835832ddb3308abe,ev_5db1d32c1b0577d0,doc_d24addc834f31e38,99.60,%,percentage,99.60 %,candidate
+val_85a05b7a3c12cbd0,ev_5db1d32c1b0577d0,doc_d24addc834f31e38,1,ppm,concentration,1 ppm,candidate
+val_b4ac664bbbbddd37,ev_f1acb5f8084c9fb1,doc_d24addc834f31e38,113.31,%,percentage,113.31 %,candidate
+val_88fe1d3cdc4b78df,ev_f1acb5f8084c9fb1,doc_d24addc834f31e38,0.3,ppm,concentration,0.3 ppm,candidate
+val_a58681e66e2d5e58,ev_bcbd5caacc0f993d,doc_2dc8bf297f71f660,14,nm,geometry,14 nm,candidate
+val_8dd7a45fe59f7219,ev_bcbd5caacc0f993d,doc_2dc8bf297f71f660,6,ppm,concentration,6 ppm,candidate
+val_73a1b48c33141641,ev_c8716ea0f6e5b995,doc_2dc8bf297f71f660,10,nm,geometry,10 nm,candidate
+val_b383bee1cffcda77,ev_c8716ea0f6e5b995,doc_2dc8bf297f71f660,8,μm,geometry,8 μm,candidate
+val_0ee85a13e42faae3,ev_c8716ea0f6e5b995,doc_2dc8bf297f71f660,56,μm,geometry,56 μm,candidate
+val_48b06f74f1710d82,ev_2a46955500382765,doc_2dc8bf297f71f660,1,mm,geometry,1 mm,candidate
+val_5e294bb0940c6443,ev_2a46955500382765,doc_2dc8bf297f71f660,100,mm,geometry,100 mm,candidate
+val_594d594a796696de,ev_2a46955500382765,doc_2dc8bf297f71f660,100,μm,geometry,100 μm,candidate
+val_e93ca66c9c904584,ev_2a46955500382765,doc_2dc8bf297f71f660,1,mol/L,concentration,1 mol/L,candidate
+val_76e7829f65f7bf5d,ev_2a46955500382765,doc_2dc8bf297f71f660,18,cm,geometry,18 cm,candidate
+val_e682c4ca6f2b71a3,ev_2a46955500382765,doc_2dc8bf297f71f660,7,cm,geometry,7 cm,candidate
+val_51a78993a9cbd4aa,ev_2a46955500382765,doc_2dc8bf297f71f660,12,cm,geometry,12 cm,candidate
+val_ac7dffc458a51908,ev_da7014bf4a74add0,doc_2dc8bf297f71f660,7,h,time,7H,candidate
+val_10befae5b90591a7,ev_da7014bf4a74add0,doc_2dc8bf297f71f660,100,g/L,concentration,100 g/L,candidate
+val_5ec96c6aa5a385e5,ev_da7014bf4a74add0,doc_2dc8bf297f71f660,40,g/L,concentration,40 g/L,candidate
+val_59292de9d12019de,ev_da7014bf4a74add0,doc_2dc8bf297f71f660,10,g/L,concentration,10 g/L,candidate
+val_42454e2255eccc81,ev_da7014bf4a74add0,doc_2dc8bf297f71f660,6,ppm,concentration,6 ppm,candidate
+val_f8bc16587c42bcbc,ev_8e3043061cc6ff52,doc_2dc8bf297f71f660,6,ppm,concentration,6 ppm,candidate
+val_8a556fe1dd968570,ev_8e3043061cc6ff52,doc_2dc8bf297f71f660,2000,rpm,rotation,2000 rpm,candidate
+val_bb5956c5f9b8926a,ev_8e3043061cc6ff52,doc_2dc8bf297f71f660,200,rpm,rotation,200 rpm,candidate
+val_f17aade2e5a7412e,ev_c92929b39ea9e13e,doc_2dc8bf297f71f660,100,μm,geometry,100 μm,candidate
+val_d7de0e2a85ee9531,ev_c92929b39ea9e13e,doc_2dc8bf297f71f660,7,h,time,7 H,candidate
+val_7d8670b78837fc05,ev_c92929b39ea9e13e,doc_2dc8bf297f71f660,6,ppm,concentration,6 ppm,candidate
+val_34d84cac1013775c,ev_c92929b39ea9e13e,doc_2dc8bf297f71f660,3,h,time,3 h,candidate
+val_c6ca33ab9e9658a3,ev_c92929b39ea9e13e,doc_2dc8bf297f71f660,4,h,time,4 h,candidate
+val_111cc40049074ef9,ev_c92929b39ea9e13e,doc_2dc8bf297f71f660,5,h,time,5 h,candidate
+val_b9600ee48e7a4e50,ev_f39286382fc3c6a6,doc_2dc8bf297f71f660,6,ppm,concentration,6 ppm,candidate
+val_5d85ec32088ebdb0,ev_f39286382fc3c6a6,doc_2dc8bf297f71f660,3,h,time,3 h,candidate
+val_bb7e6c40cd608261,ev_f39286382fc3c6a6,doc_2dc8bf297f71f660,5,h,time,5 h,candidate
+val_0827361a4ab69a0f,ev_7ef296e149ff0583,doc_2dc8bf297f71f660,6,ppm,concentration,6 ppm,candidate
+val_ffa86ca80780ed4a,ev_7ef296e149ff0583,doc_2dc8bf297f71f660,5,h,time,5 h,candidate
+val_38d4749aa6d8837a,ev_9b7c2a86ab39e954,doc_2dc8bf297f71f660,2,ppm,concentration,2 ppm,candidate
+val_101cfe78286f3bfd,ev_9b7c2a86ab39e954,doc_2dc8bf297f71f660,4,ppm,concentration,4 ppm,candidate
+val_bd67220d533b73ce,ev_9b7c2a86ab39e954,doc_2dc8bf297f71f660,6,ppm,concentration,6 ppm,candidate
+val_97f768ae7b2b0513,ev_f60a58f797fe28ff,doc_2dc8bf297f71f660,24.80,nm,geometry,24.80 nm,candidate
+val_8e2c0bb7ff77db27,ev_f60a58f797fe28ff,doc_2dc8bf297f71f660,6,ppm,concentration,6 ppm,candidate
+val_bb42a8094f8cb755,ev_f60a58f797fe28ff,doc_2dc8bf297f71f660,2.15,nm,geometry,2.15 nm,candidate
+val_0867cac40707c57d,ev_33d2bb0a725e92aa,doc_2dc8bf297f71f660,2,ppm,concentration,2 ppm,candidate
+val_5f0671bb40ecb656,ev_33d2bb0a725e92aa,doc_2dc8bf297f71f660,4,ppm,concentration,4 ppm,candidate
+val_003597892fd194f0,ev_33d2bb0a725e92aa,doc_2dc8bf297f71f660,6,ppm,concentration,6 ppm,candidate
+val_adc31089edd22e4a,ev_33d2bb0a725e92aa,doc_2dc8bf297f71f660,5,h,time,5 h,candidate
+val_61632d7e711f6320,ev_1ecce10ca7228c4f,doc_2dc8bf297f71f660,2,ppm,concentration,2 ppm,candidate
+val_584781b9201ccf94,ev_1ecce10ca7228c4f,doc_2dc8bf297f71f660,4,ppm,concentration,4 ppm,candidate
+val_d4a0be0a2f0c19ef,ev_1ecce10ca7228c4f,doc_2dc8bf297f71f660,6,ppm,concentration,6 ppm,candidate
+val_19c2d42339dc1e72,ev_1ecce10ca7228c4f,doc_2dc8bf297f71f660,5,h,time,5 h,candidate
+val_c324b6ab1626a9f2,ev_ce658e6148762003,doc_2dc8bf297f71f660,5,h,time,5 h,candidate
+val_509dc46f3c7449eb,ev_8869d419ea334ff2,doc_2dc8bf297f71f660,5,h,time,5 h,candidate
+val_b3b642eccc831c51,ev_f250d181f1bc5729,doc_2dc8bf297f71f660,5,h,time,5 h,candidate
+val_0b785ef6ee306031,ev_6c11b6acd48f6b35,doc_2dc8bf297f71f660,6,ppm,concentration,6 ppm,candidate
+val_9be1ce3d4fdf2589,ev_6c11b6acd48f6b35,doc_2dc8bf297f71f660,5,h,time,5 h,candidate
+val_35717fa957e567fd,ev_6c11b6acd48f6b35,doc_2dc8bf297f71f660,1573,cm,geometry,1573 cm,candidate
+val_59d5c8f1e9d665a7,ev_453b7bac6fa2e816,doc_38ed163a6feb8db8,12,cm,geometry,12 cm,candidate
+val_ab2456beb4620303,ev_453b7bac6fa2e816,doc_38ed163a6feb8db8,140,μm,geometry,140–160 μm,candidate
+val_644c1407a61e2634,ev_453b7bac6fa2e816,doc_38ed163a6feb8db8,4,μm,geometry,4–6 μm,candidate
+val_a04e414479507804,ev_453b7bac6fa2e816,doc_38ed163a6feb8db8,220,g/L,concentration,220 g/L,candidate
+val_d9451502802cae9f,ev_453b7bac6fa2e816,doc_38ed163a6feb8db8,60,g/L,concentration,60 g/L,candidate
+val_16461639fd070f8f,ev_453b7bac6fa2e816,doc_38ed163a6feb8db8,60,mg/L,concentration,60 mg/L,candidate
+val_2a80a0668fa1d114,ev_453b7bac6fa2e816,doc_38ed163a6feb8db8,30,s,time,30 s,candidate
+val_7fa9f7b400c819f6,ev_453b7bac6fa2e816,doc_38ed163a6feb8db8,3,%,percentage,3–5%,candidate
+val_cef1ac71319b5cd8,ev_453b7bac6fa2e816,doc_38ed163a6feb8db8,45,min,time,45 min,candidate
+val_ae12ef6dc862c275,ev_335dbfded8528946,doc_38ed163a6feb8db8,1000,rpm,rotation,1000 rpm,candidate
+val_0ae7c86c607a968c,ev_335dbfded8528946,doc_38ed163a6feb8db8,200,mg/L,concentration,200 mg/L,candidate
+val_e383c49155136729,ev_335dbfded8528946,doc_38ed163a6feb8db8,1000,s,time,1000 s,candidate
+val_d601c33e7e2d5aa1,ev_335dbfded8528946,doc_38ed163a6feb8db8,1,mg/L,concentration,1 mg/L,candidate
+val_b8ad272c037a27e5,ev_335dbfded8528946,doc_38ed163a6feb8db8,100,rpm,rotation,100 rpm,candidate
+val_e4814dbbb4a7e0c2,ev_335dbfded8528946,doc_38ed163a6feb8db8,5,mg/L,concentration,5 mg/L,candidate
+val_991cb8b2312c84f9,ev_335dbfded8528946,doc_38ed163a6feb8db8,2000,s,time,2000s,candidate
+val_392e7f1335925883,ev_335dbfded8528946,doc_38ed163a6feb8db8,20,mV,potential,20 mV,candidate
+val_4a970635dac4aa64,ev_335dbfded8528946,doc_38ed163a6feb8db8,4.8,mV,potential,4.8 mV,candidate
+val_8ffc472dbea327bb,ev_2ae00365723fd1bc,doc_38ed163a6feb8db8,1,mg/L,concentration,1 mg/L,candidate
+val_50552032f34ade7c,ev_2ae00365723fd1bc,doc_38ed163a6feb8db8,5,mg/L,concentration,5 mg/L,candidate
+val_4f922bf767530e50,ev_2ae00365723fd1bc,doc_38ed163a6feb8db8,6,mg/L,concentration,6 mg/L,candidate
+val_b80f9e3a927d36cd,ev_2ae00365723fd1bc,doc_38ed163a6feb8db8,11,h,time,11h,candidate
+val_34ca064529a4bf57,ev_d38f14b76c2d0f55,doc_38ed163a6feb8db8,5,mg/L,concentration,5 mg/L,candidate
+val_991ed96cb1c2819f,ev_4a3cedef8543bee2,doc_38ed163a6feb8db8,40,min,time,40 min,candidate
+val_30d4768d3b7be0b6,ev_2cd3d4cfdb262c7e,doc_38ed163a6feb8db8,0,mg/L,concentration,0 mg/L,candidate
+val_6c886d02eb15dfee,ev_2cd3d4cfdb262c7e,doc_38ed163a6feb8db8,1,mg/L,concentration,1 mg/L,candidate
+val_772131f9cff0407b,ev_2cd3d4cfdb262c7e,doc_38ed163a6feb8db8,2,mg/L,concentration,2 mg/L,candidate
+val_9afa79d6b9d55fd4,ev_2cd3d4cfdb262c7e,doc_38ed163a6feb8db8,3,mg/L,concentration,3 mg/L,candidate
+val_e2c56786bb5c85a3,ev_2cd3d4cfdb262c7e,doc_38ed163a6feb8db8,4,mg/L,concentration,4 mg/L,candidate
+val_76cce9f4d2c57167,ev_2cd3d4cfdb262c7e,doc_38ed163a6feb8db8,5,mg/L,concentration,5 mg/L,candidate
+val_ad5cd2cdb5f33870,ev_2cd3d4cfdb262c7e,doc_38ed163a6feb8db8,6,mg/L,concentration,6 mg/L,candidate
+val_5eccc684a1c01c34,ev_b65278c81452ecf7,doc_38ed163a6feb8db8,40,min,time,40 min,candidate
+val_71034390e7e198e7,ev_227a24239c2aa413,doc_38ed163a6feb8db8,5,mg/L,concentration,5 mg/L,candidate
+val_97ff4a8fe65ebaa5,ev_227a24239c2aa413,doc_38ed163a6feb8db8,20,mV,potential,20 mV,candidate
+val_e3f0ca94b42285f9,ev_d7f04860f21b6a8d,doc_5eb736de45573563,0.6,ppm,concentration,0.6 ppm,candidate
+val_0a5973365489d2c0,ev_d7f04860f21b6a8d,doc_5eb736de45573563,100,%,percentage,100 %,candidate
+val_adf666d998a89abc,ev_6d00162c18b4e09d,doc_5eb736de45573563,5,min,time,5 min,candidate
+val_f8f0df852f857ef9,ev_170236639e9f24c1,doc_5eb736de45573563,0.2,ppm,concentration,0.2 ppm,candidate
+val_cd291de41b23b914,ev_170236639e9f24c1,doc_5eb736de45573563,0.278,μmol/L,concentration,0.278 μmol/L,candidate
+val_08826c4921c5551e,ev_28da423fc76b5895,doc_5eb736de45573563,2,μmol/L,concentration,2 μmol/L,candidate
+val_4d18a881cac65a9f,ev_f2cc66ab6c8514d2,doc_5eb736de45573563,200,ppm,concentration,200 ppm,candidate
+val_3a9ba08dcde7b9e6,ev_f2cc66ab6c8514d2,doc_5eb736de45573563,2,ppm,concentration,2 ppm,candidate
+val_2332f43bbdf926b7,ev_074958eb6b24f83e,doc_5eb736de45573563,25,μm,geometry,25 μm,candidate
+val_f5b8b06cd54f5eda,ev_074958eb6b24f83e,doc_5eb736de45573563,46.28,%,percentage,46.28 %,candidate
+val_401f0da232afb442,ev_074958eb6b24f83e,doc_5eb736de45573563,0.6,ppm,concentration,0.6 ppm,candidate
+val_b2f5f2409e9ae985,ev_074958eb6b24f83e,doc_5eb736de45573563,102.24,%,percentage,102.24 %,candidate
+val_13b74ecfab08fc99,ev_e5c6e28ef04587bb,doc_5eb736de45573563,1000,s,time,1000 s,candidate
+val_2caa4752fbfe183f,ev_e5c6e28ef04587bb,doc_5eb736de45573563,2000,s,time,2000 s,candidate
+val_da09861492aac2bd,ev_e5c6e28ef04587bb,doc_5eb736de45573563,3000,s,time,3000 s,candidate
+val_41fa6f214341eab3,ev_a3e0011b195428ad,doc_5eb736de45573563,10,μm,geometry,10 μm,candidate
+val_8591d25d3b95dedf,ev_1182cda7db89a3a3,doc_5eb736de45573563,0.6,ppm,concentration,0.6 ppm,candidate
+val_5d5b84534881471d,ev_1182cda7db89a3a3,doc_5eb736de45573563,103.36,%,percentage,103.36 %,candidate
+val_73afabbc3e3e7287,ev_1ab0de009fd6298c,doc_50c6ee32e831ce4c,100,nm,geometry,100 nm,candidate
+val_a70248d0cd2d6bd5,ev_d8bf9f648027b8e4,doc_50c6ee32e831ce4c,120,μm,geometry,120 µm,candidate
+val_0f626c0a4a7b14fb,ev_d8bf9f648027b8e4,doc_50c6ee32e831ce4c,100,μm,geometry,100 µm,candidate
+val_da11ddeff51c8de7,ev_d8bf9f648027b8e4,doc_50c6ee32e831ce4c,5,h,time,5 H,candidate
+val_6dc2e3d3f5630521,ev_d8bf9f648027b8e4,doc_50c6ee32e831ce4c,98,%,percentage,98%,candidate
+val_99716b48ce714b4c,ev_d8bf9f648027b8e4,doc_50c6ee32e831ce4c,50,ppm,concentration,50 ppm,candidate
+val_02f4be79c6944784,ev_710656e1c006c5d4,doc_50c6ee32e831ce4c,200,ppm,concentration,200 ppm,candidate
+val_843787a34a999655,ev_710656e1c006c5d4,doc_50c6ee32e831ce4c,1,ppm,concentration,1 ppm,candidate
+val_86501934d1333f60,ev_710656e1c006c5d4,doc_50c6ee32e831ce4c,10,ppm,concentration,10 ppm,candidate
+val_d8dc35bd034c7ab0,ev_710656e1c006c5d4,doc_50c6ee32e831ce4c,100,rpm,rotation,100 rpm,candidate
+val_5625abf11590a5e3,ev_710656e1c006c5d4,doc_50c6ee32e831ce4c,1000,rpm,rotation,1000 rpm,candidate
+val_cf4a22ec3952595c,ev_5e111a8d609d6288,doc_50c6ee32e831ce4c,10,ppm,concentration,10–40 ppm,candidate
+val_464e99eefb1c4690,ev_5e111a8d609d6288,doc_50c6ee32e831ce4c,10,ppm,concentration,10–20 ppm,candidate
+val_fc5e00c1c0e90db8,ev_1e3e93ac71c76424,doc_50c6ee32e831ce4c,200,ppm,concentration,200 ppm,candidate
+val_42ff3e85f647d124,ev_1e3e93ac71c76424,doc_50c6ee32e831ce4c,1,ppm,concentration,1 ppm,candidate
+val_7cce5b21d6fe5693,ev_1e3e93ac71c76424,doc_50c6ee32e831ce4c,10,ppm,concentration,10 ppm,candidate
+val_1cb74d749b5777cc,ev_1e3e93ac71c76424,doc_50c6ee32e831ce4c,20,ppm,concentration,20 ppm,candidate
+val_21b8b45d4ddfe3a5,ev_1e3e93ac71c76424,doc_50c6ee32e831ce4c,30,ppm,concentration,30 ppm,candidate
+val_121e5e46fcb53a9d,ev_1e3e93ac71c76424,doc_50c6ee32e831ce4c,40,ppm,concentration,40 ppm,candidate
+val_e505c22d32e5e922,ev_74bd97bba7158770,doc_50c6ee32e831ce4c,30,ppm,concentration,30–40 ppm,candidate
+val_c7416c99660d611b,ev_8eb06a76b73ab9dd,doc_50c6ee32e831ce4c,30,ppm,concentration,30–40 ppm,candidate
+val_31c39816ad95b7bb,ev_2ff73a7697d5044e,doc_f49448d1ec60926e,150,μm,geometry,150 µm,candidate
+val_80f33aedab654e3f,ev_2ff73a7697d5044e,doc_f49448d1ec60926e,80,μm,geometry,80 µm,candidate
+val_117706052f3f13a8,ev_2ff73a7697d5044e,doc_f49448d1ec60926e,96.15,%,percentage,96.15%,candidate
+val_a40ab7a8c7bb7b29,ev_2ff73a7697d5044e,doc_f49448d1ec60926e,60,min,time,60 min,candidate
+val_2c02cf2a552f00b5,ev_6562eabd83e3fb4a,doc_f49448d1ec60926e,220,g/L,concentration,220 g/L,candidate
+val_ec4d8ec4f94355ed,ev_6562eabd83e3fb4a,doc_f49448d1ec60926e,5,h,time,5H,candidate
+val_54710e7306861247,ev_6562eabd83e3fb4a,doc_f49448d1ec60926e,5,mm,geometry,5 mm,candidate
+val_f618bcf7394b8e98,ev_6562eabd83e3fb4a,doc_f49448d1ec60926e,4,mm,geometry,4 mm,candidate
+val_e6355842a4daeb69,ev_6562eabd83e3fb4a,doc_f49448d1ec60926e,500,nm,geometry,500 nm,candidate
+val_0711ac73db8a31af,ev_6562eabd83e3fb4a,doc_f49448d1ec60926e,1,K,temperature,1 K,candidate
+val_2df0c8baf659b471,ev_6562eabd83e3fb4a,doc_f49448d1ec60926e,100,rpm,rotation,100 rpm,candidate
+val_9a15267cc7a81965,ev_6562eabd83e3fb4a,doc_f49448d1ec60926e,1000,rpm,rotation,1000 rpm,candidate
+val_5f0bf03e0feb9534,ev_3dee5194316a394b,doc_f49448d1ec60926e,1,mm,geometry,1 mm,candidate
+val_7e9b8ad08beb7783,ev_3dee5194316a394b,doc_f49448d1ec60926e,150,μm,geometry,150 µm,candidate
+val_2ac690bdc8a9ea10,ev_3dee5194316a394b,doc_f49448d1ec60926e,75,μm,geometry,75 µm,candidate
+val_be9f442da564f4d1,ev_3dee5194316a394b,doc_f49448d1ec60926e,50,mm,geometry,50 mm,candidate
+val_19708db561d412d4,ev_3dee5194316a394b,doc_f49448d1ec60926e,60,mm,geometry,60 mm,candidate
+val_81ad2c7b3085e89c,ev_3dee5194316a394b,doc_f49448d1ec60926e,80,mm,geometry,80 mm,candidate
+val_c4e2c43b77b53c5f,ev_3dee5194316a394b,doc_f49448d1ec60926e,2.0,A/dm²,current_density,2.0 A/dm2,candidate
+val_40ebac10fa2822ed,ev_3dee5194316a394b,doc_f49448d1ec60926e,220,g/L,concentration,220 g/L,candidate
+val_c6ecc3486e79eb47,ev_3dee5194316a394b,doc_f49448d1ec60926e,5,h,time,5H,candidate
+val_9d2b15622a5c93b3,ev_3dee5194316a394b,doc_f49448d1ec60926e,100,mg/L,concentration,100 mg/L,candidate
+val_c84e948021daf050,ev_3dee5194316a394b,doc_f49448d1ec60926e,6,mg/L,concentration,6 mg/L,candidate
+val_9078c6c774212aeb,ev_3dee5194316a394b,doc_f49448d1ec60926e,60,mg/L,concentration,60 mg/L,candidate
+val_5ac74035a89185c4,ev_3dee5194316a394b,doc_f49448d1ec60926e,8,mg/L,concentration,8 mg/L,candidate
+val_1d13be95e3adaa2f,ev_3dee5194316a394b,doc_f49448d1ec60926e,-1,h,time,−1H,candidate
+val_166884eb24dea411,ev_6767a87a441cb875,doc_f49448d1ec60926e,130,μm,geometry,130 μm,candidate
+val_9856f1120fbfea57,ev_6767a87a441cb875,doc_f49448d1ec60926e,240,min,time,240 min,candidate
+val_6cd79f81956643a2,ev_6767a87a441cb875,doc_f49448d1ec60926e,0.5,A/dm²,current_density,0.5 A/dm2,candidate
+val_cfcc69d674520b13,ev_6767a87a441cb875,doc_f49448d1ec60926e,120,μm,geometry,120 μm,candidate
+val_bd39530afaa9866a,ev_6767a87a441cb875,doc_f49448d1ec60926e,120,min,time,120 min,candidate
+val_04cf9fa04310802e,ev_6767a87a441cb875,doc_f49448d1ec60926e,1,A/dm²,current_density,1 A/dm2,candidate
+val_9ecd9ae1b7c87270,ev_6767a87a441cb875,doc_f49448d1ec60926e,150,μm,geometry,150 μm,candidate
+val_4c72627be108e5ff,ev_6767a87a441cb875,doc_f49448d1ec60926e,60,min,time,60 min,candidate
+val_0cda1de2d977e0c4,ev_6767a87a441cb875,doc_f49448d1ec60926e,2,A/dm²,current_density,2 A/ dm2,candidate
+val_731bcc12664d7fbf,ev_6767a87a441cb875,doc_f49448d1ec60926e,40,mg/L,concentration,40 mg/L,candidate
+val_81fa1a960bd8315e,ev_6767a87a441cb875,doc_f49448d1ec60926e,100,mg/L,concentration,100 mg/L,candidate
+val_9e675eff64fa4ce6,ev_6767a87a441cb875,doc_f49448d1ec60926e,6,mg/L,concentration,6 mg/L,candidate
+val_2126591d716f5b1f,ev_6767a87a441cb875,doc_f49448d1ec60926e,8,mg/L,concentration,8 mg/L,candidate
+val_fb44b2d9a8d4550b,ev_a921173035ba5a25,doc_f49448d1ec60926e,-0.666,V,potential,−0.666 V,candidate
+val_05d97f12d0061b46,ev_a921173035ba5a25,doc_f49448d1ec60926e,-0.678,V,potential,−0.678 V,candidate
+val_e711de04bc9b0d1a,ev_41f233691a053ddc,doc_f49448d1ec60926e,100,mg/L,concentration,100 mg/L,candidate
+val_72c86f81c250e9c8,ev_41f233691a053ddc,doc_f49448d1ec60926e,40,mg/L,concentration,40 mg/L,candidate
+val_39c8202dc09702cb,ev_41f233691a053ddc,doc_f49448d1ec60926e,6,mg/L,concentration,6 mg/L,candidate
+val_97a7df359ff433ac,ev_41f233691a053ddc,doc_f49448d1ec60926e,8,mg/L,concentration,8 mg/L,candidate
+val_c0cdde619054815d,ev_41f233691a053ddc,doc_f49448d1ec60926e,0.30,mg/L,concentration,0.30 mg/L,candidate
+val_41bbfaa946a2ac13,ev_9583d709c0439db9,doc_f49448d1ec60926e,-0.65,V,potential,−0.65 V,candidate
+val_d9e8c96c1e100433,ev_0e9cad53d3e23827,doc_f49448d1ec60926e,220,g/L,concentration,220 g/L,candidate
+val_9f0135ee47255a34,ev_0e9cad53d3e23827,doc_f49448d1ec60926e,5,h,time,5H,candidate
+val_5c7e2d36406a4718,ev_0e9cad53d3e23827,doc_f49448d1ec60926e,30,mg/L,concentration,30 mg/L,candidate
+val_0b729dcbe8f0d2b5,ev_0e9cad53d3e23827,doc_f49448d1ec60926e,6,mg/L,concentration,6 mg/L,candidate
+val_9d2a4e005ad6a737,ev_0e9cad53d3e23827,doc_f49448d1ec60926e,8,mg/L,concentration,8 mg/L,candidate
+val_31cc6e9da1b7ee09,ev_0e9cad53d3e23827,doc_f49448d1ec60926e,100,mg/L,concentration,100 mg/L,candidate
+val_ffaf29832964bb8f,ev_0e9cad53d3e23827,doc_f49448d1ec60926e,150,μm,geometry,150 μm,candidate
+val_874a0db8d11e1910,ev_0e9cad53d3e23827,doc_f49448d1ec60926e,95.6,%,percentage,95.6%,candidate
+val_2af28f87ae66e9b2,ev_6c8a4f30213fbd27,doc_c6091649ff6e3c57,2500,rpm,rotation,2500 rpm,candidate
+val_e95ee9522c25831d,ev_6c8a4f30213fbd27,doc_c6091649ff6e3c57,200,rpm,rotation,200 rpm,candidate
+val_3087f63f75e99e2c,ev_ee7eff9c24903892,doc_c6091649ff6e3c57,5,mg/L,concentration,5 mg/L,candidate
+val_678776fbc25a85bc,ev_d29405fa77404843,doc_c6091649ff6e3c57,0.15,mm,geometry,0.15 mm,candidate
+val_d28a662eba39bff3,ev_d29405fa77404843,doc_c6091649ff6e3c57,1.5,mm,geometry,1.5 mm,candidate
+val_2b5d12ce944271cf,ev_d29405fa77404843,doc_c6091649ff6e3c57,70,min,time,70 min,candidate
+val_d7e7ea29a61758b1,ev_2904e11bc2309a20,doc_f6edfe7c8a8c3418,0.85,V,potential,0.85 V,candidate
+val_20ed0f0baa14f090,ev_e60e5627ef15cf31,doc_f6edfe7c8a8c3418,0.84,V,potential,0.84 V,candidate
+val_33a8e7bbaf6f92a2,ev_e60e5627ef15cf31,doc_f6edfe7c8a8c3418,100,ppm,concentration,100 ppm,candidate
+val_bca47112ba05a05b,ev_5a7901f2dd08094f,doc_57333d42b49d0aa3,5,mm,geometry,5 mM,candidate
+val_411577defc62f331,ev_5a7901f2dd08094f,doc_57333d42b49d0aa3,5,mm,geometry,5 mm,candidate
+val_8408b55a3d52c82b,ev_5a7901f2dd08094f,doc_57333d42b49d0aa3,1,mm,geometry,1 mm,candidate
+val_c54d06b1ac62e5ff,ev_5a7901f2dd08094f,doc_57333d42b49d0aa3,0.7,mm,geometry,0.7 mm,candidate
+val_1e81facd514c45a8,ev_5a7901f2dd08094f,doc_57333d42b49d0aa3,0.5,mm,geometry,0.5 mm,candidate
+val_1e28cf89ec052ae2,ev_5a7901f2dd08094f,doc_57333d42b49d0aa3,1.26,cm,geometry,1.26 cm,candidate
+val_41331ea0c87dd0fb,ev_e2ccc38b465efc15,doc_57333d42b49d0aa3,0.5,ppm,concentration,0.5 ppm,candidate
+val_16962cf224c990ea,ev_e2ccc38b465efc15,doc_57333d42b49d0aa3,60,ppm,concentration,60 ppm,candidate
+val_43cdac718e24afb2,ev_ad7ecff34dfab117,doc_bbdb96d543621c4d,6,mg/L,concentration,6 mg /L,candidate
+val_02021be41fd859af,ev_ad7ecff34dfab117,doc_bbdb96d543621c4d,5,μm,geometry,5 μm,candidate
+val_8ae0434f4de9f182,ev_ad7ecff34dfab117,doc_bbdb96d543621c4d,88,%,percentage,88%,candidate
+val_fd53e92d77e9fa33,ev_06db7cbddc021e48,doc_bbdb96d543621c4d,100,μm,geometry,100 μm,candidate
+val_b70e7c4b98cfe8e5,ev_06db7cbddc021e48,doc_bbdb96d543621c4d,120,μm,geometry,120 μm,candidate
+val_b623bafa8f8bc31d,ev_06db7cbddc021e48,doc_bbdb96d543621c4d,150,μm,geometry,150 μm,candidate
+val_6f56f19b3f7d6d6f,ev_06db7cbddc021e48,doc_bbdb96d543621c4d,0.040,%,percentage,0.040%,candidate
+val_2871202a8a6b75f3,ev_06db7cbddc021e48,doc_bbdb96d543621c4d,0.065,%,percentage,0.065%,candidate
+val_c24c7731ec8f97a2,ev_06db7cbddc021e48,doc_bbdb96d543621c4d,100,mg/L,concentration,100 mg /L,candidate
+val_6bc1feef64e752b5,ev_06db7cbddc021e48,doc_bbdb96d543621c4d,1.5,h,time,1.5 h,candidate
+val_2bc24d51a8d1cbfc,ev_459f0149b13fb44d,doc_bbdb96d543621c4d,0.1,mm,geometry,0.1 mm,candidate
+val_e78dfdd4634e9c1b,ev_20e16618b4e55de3,doc_bbdb96d543621c4d,15,μm,geometry,15 μm,candidate
+val_07ef0a14f7dd709c,ev_20e16618b4e55de3,doc_bbdb96d543621c4d,33,μm,geometry,33 μm,candidate
+val_d8376782c34cda26,ev_aa35a8c45c5d1f46,doc_bbdb96d543621c4d,17,μm,geometry,17 μm,candidate
+val_4ca824a81f7a0b3e,ev_aa35a8c45c5d1f46,doc_bbdb96d543621c4d,15,μm,geometry,15 μm,candidate
+val_d2726fa83988b31c,ev_d332b5e1f237d390,doc_bbdb96d543621c4d,6,mg/L,concentration,6 mg /L,candidate
+val_9388c3a433a00fe9,ev_d332b5e1f237d390,doc_bbdb96d543621c4d,100,mg/L,concentration,100 mg /L,candidate
+val_4afbaa26c2463c4b,ev_5fc345dd62ed3d94,doc_bbdb96d543621c4d,40,min,time,40 min,candidate
+val_ca8dd1dbdef52f65,ev_5fc345dd62ed3d94,doc_bbdb96d543621c4d,6,μm,geometry,6 μm,candidate
+val_b0935022170d8f5c,ev_5fc345dd62ed3d94,doc_bbdb96d543621c4d,15,μm,geometry,15 μm,candidate
+val_1107d64b5ec8438d,ev_5fc345dd62ed3d94,doc_bbdb96d543621c4d,50,min,time,50 min,candidate
+val_97bc4684b101103e,ev_5fc345dd62ed3d94,doc_bbdb96d543621c4d,14,μm,geometry,14 μm,candidate
+val_6ec507377893b1d7,ev_5fc345dd62ed3d94,doc_bbdb96d543621c4d,40,μm,geometry,40 μm,candidate
+val_2a4c028c1530f349,ev_5d4a88b82826c904,doc_bbdb96d543621c4d,40,min,time,40 min,candidate
+val_79efc46d3fbf5e2f,ev_5d4a88b82826c904,doc_bbdb96d543621c4d,60,min,time,60 min,candidate
+val_53329ec1e886044e,ev_4f9c6c3b5ca38e76,doc_bbdb96d543621c4d,40,min,time,40 min,candidate
+val_4b2687141f0e44af,ev_4f9c6c3b5ca38e76,doc_bbdb96d543621c4d,45,min,time,45 min,candidate
+val_8218dfee9f119f8c,ev_4f9c6c3b5ca38e76,doc_bbdb96d543621c4d,50,min,time,50 min,candidate
+val_8180421d08e85767,ev_4f9c6c3b5ca38e76,doc_bbdb96d543621c4d,6,mg/L,concentration,6 mg /L,candidate
+val_f9ed869049b06fa6,ev_962988bedeca7e7f,doc_bbdb96d543621c4d,40,min,time,40 min,candidate
+val_547614ead98253c1,ev_962988bedeca7e7f,doc_bbdb96d543621c4d,50,min,time,50 min,candidate
+val_9a4e8023bb60c648,ev_962988bedeca7e7f,doc_bbdb96d543621c4d,60,min,time,60 min,candidate
+val_83ab204fc9a88968,ev_962988bedeca7e7f,doc_bbdb96d543621c4d,6,mg/L,concentration,6 mg /L,candidate
+val_fa17333b857fdc3a,ev_962988bedeca7e7f,doc_bbdb96d543621c4d,100,mg/L,concentration,100 mg /L,candidate
+val_aa3c576e37bc3f15,ev_ab9e5bd37c9e1ac7,doc_bbdb96d543621c4d,30,min,time,30 min,candidate
+val_d7594ba6cbfeb7ee,ev_ab9e5bd37c9e1ac7,doc_bbdb96d543621c4d,5,μm,geometry,5 μm,candidate
+val_975f2412be62b3a2,ev_ab9e5bd37c9e1ac7,doc_bbdb96d543621c4d,88,%,percentage,88%,candidate
+val_0f9d080a347669bc,ev_a0eaf3efc6b6958a,doc_bbdb96d543621c4d,100,rpm,rotation,100 rpm,candidate
+val_1250d47262b34b38,ev_a0eaf3efc6b6958a,doc_bbdb96d543621c4d,1000,rpm,rotation,1000 rpm,candidate
+val_01b5544cabc99bef,ev_f3ab1eb6c284610b,doc_bbdb96d543621c4d,5,μm,geometry,5 μm,candidate
+val_4e6824e11711ce67,ev_f3ab1eb6c284610b,doc_bbdb96d543621c4d,88,%,percentage,88%,candidate
+val_ffd119f1f2235bfc,ev_47a9498ddf3f1b45,doc_bbdb96d543621c4d,6,mg/L,concentration,6 mg /L,candidate
+val_ae91e421cfc4c22a,ev_33c224820032b094,doc_bbdb96d543621c4d,3,mg/L,concentration,3 mg /L,candidate
+val_c9e60ad2574c50d4,ev_33c224820032b094,doc_bbdb96d543621c4d,6,mg/L,concentration,6 mg /L,candidate
+val_86377aea3d835127,ev_33c224820032b094,doc_bbdb96d543621c4d,24,mg/L,concentration,24 mg /L,candidate
+val_1a34c6c5a5244cf8,ev_e46157628865e3af,doc_bbdb96d543621c4d,6,mg/L,concentration,6 mg /L,candidate
+val_3c49ba3f0f8fb2f3,ev_9dab91245c697f40,doc_bbdb96d543621c4d,60,min,time,60 min,candidate
+val_8f414cac4067b10f,ev_9dab91245c697f40,doc_bbdb96d543621c4d,30,min,time,30 min,candidate
+val_644afba8dbe8e15d,ev_9dab91245c697f40,doc_bbdb96d543621c4d,5,μm,geometry,5 μm,candidate
+val_7316bcb489ad497d,ev_9dab91245c697f40,doc_bbdb96d543621c4d,88,%,percentage,88%,candidate
+val_66bee9137987d825,ev_c4ac9b4b16e1a4fd,doc_a5b452f507d2d787,55,mg/L,concentration,55 mg/L,candidate
+val_6c8d707bfb589e4c,ev_c4ac9b4b16e1a4fd,doc_a5b452f507d2d787,6,mg/L,concentration,6 mg/L,candidate
+val_3c2625bc8a1f2304,ev_c4ac9b4b16e1a4fd,doc_a5b452f507d2d787,4,mg/L,concentration,4 mg/L,candidate
+val_67ead82bee8ab7cb,ev_4b49ad55c0985fb2,doc_a5b452f507d2d787,200,μm,geometry,200 μm,candidate
+val_76dd31f6e1155df5,ev_4b49ad55c0985fb2,doc_a5b452f507d2d787,360,rpm,rotation,360 rpm,candidate
+val_fc8273f63ec25c6c,ev_4b49ad55c0985fb2,doc_a5b452f507d2d787,20,min,time,20 min,candidate
+val_8927ed8602166db2,ev_4b49ad55c0985fb2,doc_a5b452f507d2d787,55,mg/L,concentration,55 mg/L,candidate
+val_320e4fc616440d3c,ev_4b49ad55c0985fb2,doc_a5b452f507d2d787,6,mg/L,concentration,6 mg/L,candidate
+val_cc33cd6d48721f19,ev_4b49ad55c0985fb2,doc_a5b452f507d2d787,220,mg/L,concentration,220 mg/L,candidate
+val_ad170dcedd403705,ev_bde1aa28c9abfa6d,doc_a5b452f507d2d787,1,mg/L,concentration,1 mg/L,candidate
+val_191f3e92923b5a8f,ev_bde1aa28c9abfa6d,doc_a5b452f507d2d787,100,s,time,100 s,candidate
+val_61d9ca722585bbed,ev_bde1aa28c9abfa6d,doc_a5b452f507d2d787,900,rpm,rotation,900 rpm,candidate
+val_5c53b9c0a6254d86,ev_bde1aa28c9abfa6d,doc_a5b452f507d2d787,100,rpm,rotation,100 rpm,candidate
+val_c57b8e45e3052222,ev_cca2ea50ad1757cc,doc_a5b452f507d2d787,55,mg/L,concentration,55 mg/L,candidate
+val_716b6a4bdc05af74,ev_cca2ea50ad1757cc,doc_a5b452f507d2d787,5,mg/L,concentration,5 mg/L,candidate
+val_077488464e0560e1,ev_cca2ea50ad1757cc,doc_a5b452f507d2d787,220,mg/L,concentration,220 mg/L,candidate
+val_6e0d3fdc3176b2d2,ev_cca2ea50ad1757cc,doc_a5b452f507d2d787,50,mg/L,concentration,50 mg/L,candidate
+val_460306dbebfe7fd1,ev_cca2ea50ad1757cc,doc_a5b452f507d2d787,20,min,time,20 min,candidate
+val_3a8b8293cb978dda,ev_cca2ea50ad1757cc,doc_a5b452f507d2d787,17.8,nm,geometry,17.8 nm,candidate
+val_0f1bdc3497715ddb,ev_cca2ea50ad1757cc,doc_a5b452f507d2d787,23.5,nm,geometry,23.5 nm,candidate
+val_b159bf147fefb7cf,ev_cca2ea50ad1757cc,doc_a5b452f507d2d787,9.7,nm,geometry,9.7 nm,candidate
+val_bda95395ae35c40c,ev_00e975fefee2e068,doc_a5b452f507d2d787,55,mg/L,concentration,55 mg/L,candidate
+val_ae5da2be20ffc504,ev_00e975fefee2e068,doc_a5b452f507d2d787,6,mg/L,concentration,6 mg/L,candidate
+val_ff0e1d0b484ff47d,ev_00e975fefee2e068,doc_a5b452f507d2d787,4,mg/L,concentration,4 mg/L,candidate
+val_e69d4bff4fd23e62,ev_e20bf2a220afd798,doc_a5b452f507d2d787,55,mg/L,concentration,55 mg/L,candidate
+val_f39cf2363f1b89ca,ev_e20bf2a220afd798,doc_a5b452f507d2d787,6,mg/L,concentration,6 mg/L,candidate
+val_90d83b470a2bc297,ev_e20bf2a220afd798,doc_a5b452f507d2d787,4,mg/L,concentration,4 mg/L,candidate
+val_f0cf0ddcbb21400d,ev_fea7b9df19b2571f,doc_a5b452f507d2d787,-2,h,time,-2H,candidate
+val_428aa20288005a6a,ev_3b7b4d0ca2819f17,doc_815baabe7f48d1ca,10,μm,geometry,10 μm,candidate
+val_121d16cd0cecee6c,ev_1e15643e24d70687,doc_815baabe7f48d1ca,35.5,%,percentage,35.5%,candidate
+val_6706e12ad12411fe,ev_1e15643e24d70687,doc_815baabe7f48d1ca,43.62,%,percentage,43.62%,candidate
+val_fe037dba7c203a68,ev_19c2f96a96b1be48,doc_3b7866950c617ba5,20,mg/L,concentration,20 mg /L,candidate
+val_5bf91ed90a154d4a,ev_0bc9d71935ca130e,doc_3b7866950c617ba5,3,h,time,3 h,candidate
+val_735914c83071c84b,ev_9745f43170ed11fb,doc_3b7866950c617ba5,5,h,time,5H,candidate
+val_f923f92f9d73d07c,ev_a9ec0f1985115a2d,doc_3b7866950c617ba5,-430,mV,potential,-430 mV,candidate
+val_f0ce00f65158dd16,ev_a9ec0f1985115a2d,doc_3b7866950c617ba5,-575,mV,potential,-575 mV,candidate
+val_b0b047424d43ddd7,ev_a9ec0f1985115a2d,doc_3b7866950c617ba5,-583,mV,potential,-583 mV,candidate
+val_ff2ec52aa560db7e,ev_a9ec0f1985115a2d,doc_3b7866950c617ba5,28,%,percentage,28%,candidate
+val_ccfe7be7782367f6,ev_a9ec0f1985115a2d,doc_3b7866950c617ba5,36,%,percentage,36%,candidate
+val_e41891ccbe937814,ev_cd4b3f7ee0e31e5f,doc_3b7866950c617ba5,230,mV,potential,230 mV,candidate
+val_1dbc54c08623f272,ev_cd4b3f7ee0e31e5f,doc_3b7866950c617ba5,31,mV,potential,31 mV,candidate
+val_10b126ba0e5c8505,ev_cd4b3f7ee0e31e5f,doc_3b7866950c617ba5,42,mV,potential,42 mV,candidate
+val_ba91cf3ee41760d5,ev_cd4b3f7ee0e31e5f,doc_3b7866950c617ba5,205,mV,potential,205 mV,candidate
+val_be9b039c4c47722a,ev_cd4b3f7ee0e31e5f,doc_3b7866950c617ba5,-191,mV,potential,-191 mV,candidate
+val_63ea2e425c4c470d,ev_9281a8a0978da20d,doc_3b7866950c617ba5,1080,cm,geometry,1080 cm,candidate
+val_113f22c1927d009e,ev_9281a8a0978da20d,doc_3b7866950c617ba5,1630,cm,geometry,1630 cm,candidate
+val_61fb61476854b970,ev_9281a8a0978da20d,doc_3b7866950c617ba5,1420,cm,geometry,1420 cm,candidate
+val_8a4e0edb381dcbaf,ev_b6fdb94018627aa4,doc_3b7866950c617ba5,125,mm,geometry,125 mm,candidate
+val_ebd8217aff8ab584,ev_b6fdb94018627aa4,doc_3b7866950c617ba5,150,mm,geometry,150 mm,candidate
+val_8a0c397dc3bee1ef,ev_b6fdb94018627aa4,doc_3b7866950c617ba5,20,mg/L,concentration,20 mg /L,candidate
+val_f1ad0328c451fe1b,ev_2f9a05874c5a24eb,doc_3b7866950c617ba5,-0.75,V,potential,-0.75 V,candidate
+val_646880f5ce25e21c,ev_2f9a05874c5a24eb,doc_3b7866950c617ba5,0.2,V,potential,0.2 V,candidate
+val_11814ef7876829ce,ev_87713708e56c4c59,doc_3b7866950c617ba5,3,h,time,3 h,candidate
+val_a47df71169a2eb1d,ev_87713708e56c4c59,doc_3b7866950c617ba5,125,μm,geometry,125 um,candidate
+val_41002b31eaff8321,ev_87713708e56c4c59,doc_3b7866950c617ba5,150,μm,geometry,150 um,candidate
+val_06e14753eba4b7df,ev_9823c89ac54bdefc,doc_3b7866950c617ba5,125,mm,geometry,125 mm,candidate
+val_980c2c4bd313a991,ev_9823c89ac54bdefc,doc_3b7866950c617ba5,150,mm,geometry,150 mm,candidate
+val_09faaa7302441a97,ev_ea175a69d10f2f7d,doc_fa5bc2d2b699aa44,0.147,μm,geometry,0.147 μm,candidate
+val_0938ebbfce2c2a35,ev_ea175a69d10f2f7d,doc_fa5bc2d2b699aa44,25.2,%,percentage,25.2%,candidate
+val_1fd4ef7fb01ac9ce,ev_ea175a69d10f2f7d,doc_fa5bc2d2b699aa44,96.8,%,percentage,96.8%,candidate
+val_5d725470025a670d,ev_1d3c05bc8649044c,doc_fa5bc2d2b699aa44,96.8,%,percentage,96.8%,candidate
+val_49178ab42fb86395,ev_1d3c05bc8649044c,doc_fa5bc2d2b699aa44,84.5,%,percentage,84.5%,candidate
+val_1e04b7ebf00e1bd7,ev_f577313cd536e71a,doc_fa5bc2d2b699aa44,31,mV,potential,31 mV,candidate
+val_870df7768dfdf498,ev_f577313cd536e71a,doc_fa5bc2d2b699aa44,136.7,%,percentage,136.7%,candidate
+val_e3ff4dfc22b67b3f,ev_f577313cd536e71a,doc_fa5bc2d2b699aa44,19.3,mV,potential,19.3 mV,candidate
+val_da8cc48daa5c7451,ev_f577313cd536e71a,doc_fa5bc2d2b699aa44,96.8,%,percentage,96.8%,candidate
+val_f6ae8f3cbec4ab1f,ev_acf41aeb14125591,doc_fa5bc2d2b699aa44,5,mm,geometry,5 mm,candidate
+val_0af8af2e3432522c,ev_acf41aeb14125591,doc_fa5bc2d2b699aa44,0.2,V,potential,0.2 V,candidate
+val_78fadd4739df59d0,ev_acf41aeb14125591,doc_fa5bc2d2b699aa44,60,s,time,60 s,candidate
+val_d64bb8870070b68a,ev_acf41aeb14125591,doc_fa5bc2d2b699aa44,1000,rpm,rotation,1000 rpm,candidate
+val_e17fbc9764fbd382,ev_acf41aeb14125591,doc_fa5bc2d2b699aa44,10,mV,potential,10 mV,candidate
+val_aecd4c69e8844121,ev_acf41aeb14125591,doc_fa5bc2d2b699aa44,-0.5,V,potential,−0.5 V,candidate
+val_991cbcd7723f90ef,ev_3c4a78bb218a09b6,doc_fa5bc2d2b699aa44,0.147,μm,geometry,0.147 μm,candidate
+val_e7e68addd7d6077f,ev_5745702d90e782f9,doc_fa5bc2d2b699aa44,80,min,time,80 min,candidate
+val_121d2b809d447553,ev_5745702d90e782f9,doc_fa5bc2d2b699aa44,0,mg/L,concentration,0 mg/L,candidate
+val_a8fbb34f77d0fd3b,ev_5745702d90e782f9,doc_fa5bc2d2b699aa44,20,mg/L,concentration,20 mg/L,candidate
+val_55b84fd52c428888,ev_5745702d90e782f9,doc_fa5bc2d2b699aa44,30,mg/L,concentration,30 mg/L,candidate
+val_53b38b46537eff63,ev_5745702d90e782f9,doc_fa5bc2d2b699aa44,40,mg/L,concentration,40 mg/L,candidate
+val_5281f005e1972047,ev_5745702d90e782f9,doc_fa5bc2d2b699aa44,50,mg/L,concentration,50 mg/L,candidate
+val_db0c1695c21c8bc4,ev_5745702d90e782f9,doc_fa5bc2d2b699aa44,60,mg/L,concentration,60 mg/L,candidate
+val_7aef8842f4bfa7d4,ev_5745702d90e782f9,doc_fa5bc2d2b699aa44,10,μm,geometry,10 μm,candidate
+val_fb1539120afca9ba,ev_5745702d90e782f9,doc_fa5bc2d2b699aa44,1,μm,geometry,1 μm,candidate
+val_637324be2b500eb6,ev_2a545b84ac0d6f18,doc_fa5bc2d2b699aa44,-0.43,V,potential,−0.43 V,candidate
+val_ce339c068cb3a035,ev_2a545b84ac0d6f18,doc_fa5bc2d2b699aa44,20,mg/L,concentration,20 mg/L,candidate
+val_6e64a517859804b8,ev_2a545b84ac0d6f18,doc_fa5bc2d2b699aa44,-0.61,V,potential,−0.61 V,candidate
+val_c1e1d8cbdc1c8dcc,ev_2a545b84ac0d6f18,doc_fa5bc2d2b699aa44,-0.67,V,potential,−0.67 V,candidate
+val_cd22d625973b07c8,ev_2a545b84ac0d6f18,doc_fa5bc2d2b699aa44,50,mg/L,concentration,50 mg/L,candidate
+val_a269755063e7b2d0,ev_2a545b84ac0d6f18,doc_fa5bc2d2b699aa44,60,mg/L,concentration,60 mg/L,candidate
+val_5bb050e72c7ef72e,ev_2a545b84ac0d6f18,doc_fa5bc2d2b699aa44,73.2,%,percentage,73.2%,candidate
+val_3d00583568a5986b,ev_335ed3143b521b6f,doc_fa5bc2d2b699aa44,24.46,Ω,impedance,24.46 Ω,candidate
+val_ccd59037916c29fc,ev_335ed3143b521b6f,doc_fa5bc2d2b699aa44,0,mg/L,concentration,0 mg/L,candidate
+val_bca5138492499b89,ev_335ed3143b521b6f,doc_fa5bc2d2b699aa44,181.79,Ω,impedance,181.79 Ω,candidate
+val_1b789b717236e4a2,ev_335ed3143b521b6f,doc_fa5bc2d2b699aa44,60,mg/L,concentration,60 mg/L,candidate
+val_bbd2972804ee08b3,ev_3acff61d2727e1fa,doc_fa5bc2d2b699aa44,100,rpm,rotation,100 rpm,candidate
+val_01d0df1be1ede7ce,ev_3acff61d2727e1fa,doc_fa5bc2d2b699aa44,1000,rpm,rotation,1000 rpm,candidate
+val_476c5681cdf8650a,ev_85a499345e833073,doc_fa5bc2d2b699aa44,1000,rpm,rotation,1000 rpm,candidate
+val_41659126e1975740,ev_85a499345e833073,doc_fa5bc2d2b699aa44,20,mg/L,concentration,20 mg/L,candidate
+val_fe1b2cb6897bce44,ev_85a499345e833073,doc_fa5bc2d2b699aa44,50,mg/L,concentration,50 mg/L,candidate
+val_40d6d7cbcdea887b,ev_85a499345e833073,doc_fa5bc2d2b699aa44,3.4,mV,potential,3.4 mV,candidate
+val_0f110b7b4cb32cb8,ev_85a499345e833073,doc_fa5bc2d2b699aa44,19.3,mV,potential,19.3 mV,candidate
+val_590a00c9789cf247,ev_85a499345e833073,doc_fa5bc2d2b699aa44,96.8,%,percentage,96.8%,candidate
+val_54b72967af7f7c3d,ev_85a499345e833073,doc_fa5bc2d2b699aa44,2,h,time,2h,candidate
+val_63990d4982ee9a4d,ev_85a499345e833073,doc_fa5bc2d2b699aa44,165.8,mV,potential,165.8 mV,candidate
+val_7dde591ddaa78b28,ev_85a499345e833073,doc_fa5bc2d2b699aa44,149.6,mV,potential,149.6 mV,candidate
+val_4882d42f85c27de1,ev_85a499345e833073,doc_fa5bc2d2b699aa44,-53.2,mV,potential,−53.2 mV,candidate
+val_7846d0de35a45506,ev_6d202fa89b55be37,doc_fa5bc2d2b699aa44,-0.45,V,potential,−0.45 V,candidate
+val_066a68dc7e622e00,ev_6d202fa89b55be37,doc_fa5bc2d2b699aa44,-0.65,V,potential,−0.65 V,candidate
+val_79cf67533c33ae82,ev_6d202fa89b55be37,doc_fa5bc2d2b699aa44,50,mV,potential,50 mV,candidate
+val_2f3c31fea14732c9,ev_c06b8e6845743880,doc_fa5bc2d2b699aa44,50,mg/L,concentration,50 mg/L,candidate
+val_02f11c8f8bad10ff,ev_c06b8e6845743880,doc_fa5bc2d2b699aa44,18.46,nm,geometry,18.46 nm,candidate
+val_8b16af8bbd56e6e6,ev_8bbdfff4e2ee7245,doc_fa5bc2d2b699aa44,1.5,mg/L,concentration,1.5 mg/L,candidate
+val_78603dfc5647fe53,ev_8bbdfff4e2ee7245,doc_fa5bc2d2b699aa44,250,mg/L,concentration,250 mg/L,candidate
+val_8ac31e69939780be,ev_8bbdfff4e2ee7245,doc_fa5bc2d2b699aa44,50,mg/L,concentration,50 mg/L,candidate
+val_0eb315abbc72595f,ev_31d00981d7860886,doc_fa5bc2d2b699aa44,50,mg/L,concentration,50 mg/L,candidate
+val_85f73fa05080330a,ev_2fc886258a48aab8,doc_fa5bc2d2b699aa44,25.2,%,percentage,25.2%,candidate
+val_7123872232cfbef6,ev_2fc886258a48aab8,doc_fa5bc2d2b699aa44,50,mg/L,concentration,50 mg/L,candidate
+val_d088d53786de741b,ev_2fc886258a48aab8,doc_fa5bc2d2b699aa44,96.8,%,percentage,96.8%,candidate
+val_a914ee531f9b9780,ev_4dce4c8ede113234,doc_fa5bc2d2b699aa44,50,mg/L,concentration,50 mg/L,candidate
+val_27af6d0116b47c9d,ev_4dce4c8ede113234,doc_fa5bc2d2b699aa44,84.5,%,percentage,84.5%,candidate
+val_fbdc2ecaaa7521c0,ev_4dce4c8ede113234,doc_fa5bc2d2b699aa44,25.2,%,percentage,25.2%,candidate
+val_6259cc6cb8d36c5c,ev_4dce4c8ede113234,doc_fa5bc2d2b699aa44,96.8,%,percentage,96.8%,candidate
+val_88c0f81b2dda0fe4,ev_ef1194aaafa72d64,doc_fa5bc2d2b699aa44,0.147,μm,geometry,0.147 μm,candidate
+val_1e5ac3cbd9fa0d54,ev_ef1194aaafa72d64,doc_fa5bc2d2b699aa44,50,mg/L,concentration,50 mg/L,candidate
+val_7064d95ed316ce08,ev_ef1194aaafa72d64,doc_fa5bc2d2b699aa44,25.2,%,percentage,25.2%,candidate
+val_c47357d8c2544743,ev_ef1194aaafa72d64,doc_fa5bc2d2b699aa44,96.8,%,percentage,96.8%,candidate
+val_9804f0be52fab66b,ev_ef1194aaafa72d64,doc_fa5bc2d2b699aa44,84.5,%,percentage,84.5%,candidate
+val_948f62da7dc4b430,ev_c114b02fd639efa2,doc_9e4e0c91f2ce83c1,10,nm,geometry,10 nm,candidate
+val_4009a3ee6e1d7215,ev_6295b3bd9e2cd9ea,doc_9e4e0c91f2ce83c1,180,nm,geometry,180 nm,candidate
+val_7896bcf0cabea2f5,ev_6295b3bd9e2cd9ea,doc_9e4e0c91f2ce83c1,360,nm,geometry,360 nm,candidate
+val_d9aecfd8816daf3c,ev_6295b3bd9e2cd9ea,doc_9e4e0c91f2ce83c1,2,min,time,2 min,candidate
+val_2c9bf4385a03bab5,ev_6295b3bd9e2cd9ea,doc_9e4e0c91f2ce83c1,-1.0,V,potential,−1.0 V,candidate
+val_47ce65d20b04336b,ev_d9e2ccbc9a343b22,doc_9e4e0c91f2ce83c1,-0.95,V,potential,−0.95 V,candidate
+val_01b97d2946f60a7e,ev_d9e2ccbc9a343b22,doc_9e4e0c91f2ce83c1,-0.86,V,potential,−0.86 V,candidate
+val_e0e75043efdbe1a2,ev_d9e2ccbc9a343b22,doc_9e4e0c91f2ce83c1,-1.16,V,potential,−1.16 V,candidate
+val_a74ca62e9aabadca,ev_76de21d53ae8997f,doc_9e4e0c91f2ce83c1,500,rpm,rotation,500 rpm,candidate
+val_973bcffd8ed74380,ev_76de21d53ae8997f,doc_9e4e0c91f2ce83c1,50,μm,geometry,50 μM,candidate
+val_3f701e37a084b092,ev_76de21d53ae8997f,doc_9e4e0c91f2ce83c1,50,rpm,rotation,50 rpm,candidate
+val_dc2b0e095f47eeee,ev_76de21d53ae8997f,doc_9e4e0c91f2ce83c1,150,μm,geometry,150 μM,candidate
+val_e335b041b35cf001,ev_244ec2e5e82d4ed6,doc_9e4e0c91f2ce83c1,150,μm,geometry,150 μM,candidate
+val_cd210ef1ce25533c,ev_244ec2e5e82d4ed6,doc_9e4e0c91f2ce83c1,-1.15,V,potential,−1.15 V,candidate
+val_13ec01c42df55a5e,ev_244ec2e5e82d4ed6,doc_9e4e0c91f2ce83c1,10,s,time,10 s,candidate
+val_71b279a9f50708d0,ev_0d7e614662e80134,doc_d0cdc7dd1f1baa66,14,nm,geometry,14nm,candidate
+val_31e20407a6dc74db,ev_9554c66179cef67f,doc_d0cdc7dd1f1baa66,-1.20,V,potential,-1.20V,candidate
+val_901da860d838ffe0,ev_9554c66179cef67f,doc_d0cdc7dd1f1baa66,-1.25,V,potential,-1.25V,candidate
+val_ce485a0069036f2e,ev_9554c66179cef67f,doc_d0cdc7dd1f1baa66,72.6,%,percentage,72.6%,candidate
+val_5e7eb4e0966e6536,ev_9554c66179cef67f,doc_d0cdc7dd1f1baa66,84.5,%,percentage,84.5%,candidate
+val_521514c2d4512758,ev_9554c66179cef67f,doc_d0cdc7dd1f1baa66,-1.20,V,potential,-1.20 V,candidate
+val_33396e7cfdbb0f44,ev_9554c66179cef67f,doc_d0cdc7dd1f1baa66,90.3,%,percentage,90.3%,candidate
+val_2e6fb4aab6542695,ev_9554c66179cef67f,doc_d0cdc7dd1f1baa66,91.9,%,percentage,91.9%,candidate
+val_bbe6595659151634,ev_9554c66179cef67f,doc_d0cdc7dd1f1baa66,0.4,mol/L,concentration,0.4 mol/L,candidate
+val_ce51a0f9b56d19a4,ev_9554c66179cef67f,doc_d0cdc7dd1f1baa66,0.5,mol/L,concentration,0.5 mol/L,candidate
+val_b5a568269617587e,ev_9554c66179cef67f,doc_d0cdc7dd1f1baa66,10,mmol/L,concentration,10 mmol/L,candidate
+val_9a9e40ff3a15a958,ev_9554c66179cef67f,doc_d0cdc7dd1f1baa66,20,mg/L,concentration,20 mg/L,candidate
+val_02a4762eeb780302,ev_9554c66179cef67f,doc_d0cdc7dd1f1baa66,10,mg/L,concentration,10 mg/L,candidate
+val_106caefe2a0bbe02,ev_0bd412cccac6ff5b,doc_d0cdc7dd1f1baa66,14,nm,geometry,14 nm,candidate
+val_6ff3dc5b651c01f3,ev_2513a6360767d50a,doc_d0cdc7dd1f1baa66,10,nm,geometry,10nm,candidate
+val_6e15572906c95531,ev_cacedbd2d910bb05,doc_d0cdc7dd1f1baa66,24,nm,geometry,24nm,candidate
+val_93f91dc1f3e84510,ev_cacedbd2d910bb05,doc_d0cdc7dd1f1baa66,14,nm,geometry,14nm,candidate
+val_84502b4430781933,ev_81d97a13c817993c,doc_d0cdc7dd1f1baa66,7,nm,geometry,7 nm,candidate
+val_8f601982a181497d,ev_81d97a13c817993c,doc_d0cdc7dd1f1baa66,20,%,percentage,20%,candidate
+val_9c2cb5390eb565c0,ev_81d97a13c817993c,doc_d0cdc7dd1f1baa66,3,nm,geometry,3nm,candidate
+val_bdf0f6fe9c1aca7f,ev_8f71f6ed5c5845ea,doc_d0cdc7dd1f1baa66,90,%,percentage,90%,candidate
+val_5df700eeca56c4cc,ev_cfaceacfda371880,doc_d0cdc7dd1f1baa66,0.01,mol/L,concentration,0.01-0.07 mol/L,candidate
+val_cef7db641d8b4696,ev_cfaceacfda371880,doc_d0cdc7dd1f1baa66,0.12,mol/L,concentration,0.12mol/L,candidate
+val_8aaace04f5c5951c,ev_74bb1c499a1aa868,doc_d0cdc7dd1f1baa66,10,g/L,concentration,10 g/L,candidate
+val_80abc8df52b79cbf,ev_74bb1c499a1aa868,doc_d0cdc7dd1f1baa66,40,g/L,concentration,40 g/L,candidate
+val_f10b9cb3f7511af4,ev_24a4bb48672f8851,doc_d0cdc7dd1f1baa66,0.5,mol/L,concentration,0.5 mol/L,candidate
+val_b8e826b22150a3d4,ev_e1b341b8568ab61b,doc_d0cdc7dd1f1baa66,100,mg/L,concentration,100mg/L,candidate
+val_44bb272cedf24bc0,ev_e1b341b8568ab61b,doc_d0cdc7dd1f1baa66,500,mg/L,concentration,500 mg/L,candidate
+val_9839a8a3e2657af8,ev_e1b341b8568ab61b,doc_d0cdc7dd1f1baa66,2000,mg/L,concentration,2000 mg/L,candidate
+val_29af3fe6989ccd2d,ev_e1b341b8568ab61b,doc_d0cdc7dd1f1baa66,5000,mg/L,concentration,5000 mg/L,candidate
+val_c8699b4deee91026,ev_fa8645ec44cdd84e,doc_d0cdc7dd1f1baa66,-1.10,V,potential,-1.10V,candidate
+val_001edd8fc323e50f,ev_fa8645ec44cdd84e,doc_d0cdc7dd1f1baa66,-1.20,V,potential,-1.20V,candidate
+val_0e759b631352b006,ev_fa8645ec44cdd84e,doc_d0cdc7dd1f1baa66,-1.19,V,potential,-1.19 V,candidate
+val_30837f6b6c6635dd,ev_fa8645ec44cdd84e,doc_d0cdc7dd1f1baa66,-1.30,V,potential,-1.30 V,candidate
+val_5396b5e3c05b397d,ev_cbf4095a94405b80,doc_d0cdc7dd1f1baa66,25,°C,temperature,25℃,candidate
+val_30366a3e843054ed,ev_f079a8ae78965ab5,doc_d0cdc7dd1f1baa66,150,μmol/L,concentration,150μmol/L,candidate
+val_ba3079ec49c609f3,ev_f079a8ae78965ab5,doc_d0cdc7dd1f1baa66,-1.10,V,potential,-1.10V,candidate
+val_39affb7dd525d568,ev_f079a8ae78965ab5,doc_d0cdc7dd1f1baa66,500,rpm,rotation,500rpm,candidate
+val_6f96a2b35aa3cc92,ev_750106fb24a71f99,doc_d0cdc7dd1f1baa66,0.1,mmol/L,concentration,0.1 mmol/L,candidate
+val_665f494bb67d31d2,ev_750106fb24a71f99,doc_d0cdc7dd1f1baa66,0.05,mmol/L,concentration,0.05mmol/L,candidate
+val_495779766ee9c2e4,ev_94cf11c9f7a3de52,doc_d0cdc7dd1f1baa66,10,nm,geometry,10 nm,candidate
+val_f03f93c10c4bd4a7,ev_4c261cd946ca93dc,doc_d0cdc7dd1f1baa66,5,min,time,5 min,candidate
+val_ccfbf9232981b073,ev_a5475f688daf8962,doc_d0cdc7dd1f1baa66,4,cm,geometry,4cm,candidate
+val_81e1462075895200,ev_a5475f688daf8962,doc_d0cdc7dd1f1baa66,99.999,%,percentage,99.999%,candidate
+val_59f9be5e86848dff,ev_62fa1ace480f20ae,doc_d0cdc7dd1f1baa66,298,K,temperature,298 K,candidate
+val_e4f26b08d994074b,ev_96a56b9b25a90fac,doc_d0cdc7dd1f1baa66,2.99,nm,geometry,2.99nm,candidate
+val_8ae9dcc2be07575f,ev_96a56b9b25a90fac,doc_d0cdc7dd1f1baa66,6.31,nm,geometry,6.31 nm,candidate
+val_ac44b5776526ca17,ev_96a56b9b25a90fac,doc_d0cdc7dd1f1baa66,1,nm,geometry,1nm,candidate
+val_4631168b6030d953,ev_96a56b9b25a90fac,doc_d0cdc7dd1f1baa66,298,K,temperature,298 K,candidate
+val_5f19627540cd472b,ev_5844db189c532de8,doc_d0cdc7dd1f1baa66,300,nm,geometry,300 nm,candidate
+val_caec9828cc9f619e,ev_9202cc91ef590777,doc_d0cdc7dd1f1baa66,0.4,mol/L,concentration,0.4 mol/L,candidate
+val_ea7e445a7c2e1c52,ev_9202cc91ef590777,doc_d0cdc7dd1f1baa66,0.5,mol/L,concentration,0.5 mol/L,candidate
+val_257a88c109f75961,ev_9202cc91ef590777,doc_d0cdc7dd1f1baa66,-1.25,V,potential,-1.25V,candidate
+val_eb95341a6d327a9a,ev_9202cc91ef590777,doc_d0cdc7dd1f1baa66,5,min,time,5min,candidate
+val_a23a50d8c457ce09,ev_3ba2fefc55ba3987,doc_d0cdc7dd1f1baa66,499,μm,geometry,499 μm,candidate
+val_f659ff88154da9af,ev_f526d00f2a583971,doc_d0cdc7dd1f1baa66,0.1546,nm,geometry,0.1546 nm,candidate
+val_3ef094c65e6c8169,ev_0f2277c547adffb4,doc_d0cdc7dd1f1baa66,1,s,time,1s,candidate
+val_2be7a9405c68112e,ev_bd2843889930e09e,doc_d0cdc7dd1f1baa66,5,mm,geometry,5 mm,candidate
+val_a08e3442a440e6b0,ev_bd2843889930e09e,doc_d0cdc7dd1f1baa66,-1.25,V,potential,-1.25 V,candidate
+val_2b1f4cdfb229e158,ev_bd2843889930e09e,doc_d0cdc7dd1f1baa66,5,min,time,5 min,candidate
+val_6bd5376ce36c8cc7,ev_bd2843889930e09e,doc_d0cdc7dd1f1baa66,300,nm,geometry,300 nm,candidate
+val_8d9555e3c8e1519e,ev_bd2843889930e09e,doc_d0cdc7dd1f1baa66,5,mm,geometry,5mm,candidate
+val_59b5a88e6e685caf,ev_bd2843889930e09e,doc_d0cdc7dd1f1baa66,1.5,mm,geometry,1.5 mm,candidate
+val_d5650750b1da1768,ev_cd3a2967e31c64af,doc_d0cdc7dd1f1baa66,10,mV,potential,10 mV,candidate
+val_c32b00177745131a,ev_51fda7276d2561f1,doc_d0cdc7dd1f1baa66,14,nm,geometry,14nm,candidate
+val_736d056ef2207f6e,ev_a64bb2d32eed4199,doc_d0cdc7dd1f1baa66,0.4,mol/L,concentration,0.4 mol/L,candidate
+val_6f82613caf18f363,ev_a64bb2d32eed4199,doc_d0cdc7dd1f1baa66,0.5,mol/L,concentration,0.5 mol/L,candidate
+val_4264d2ce1b0b54ae,ev_a64bb2d32eed4199,doc_d0cdc7dd1f1baa66,10,mmol/L,concentration,10mmol/L,candidate
+val_484cecba9c0a9f1c,ev_a64bb2d32eed4199,doc_d0cdc7dd1f1baa66,20,μmol/L,concentration,20μmol/L,candidate
+val_596bd2ad8563c9e7,ev_a64bb2d32eed4199,doc_d0cdc7dd1f1baa66,-1.30,V,potential,-1.30V,candidate
+val_9d3bbd31188f1005,ev_a64bb2d32eed4199,doc_d0cdc7dd1f1baa66,10,min,time,10min,candidate
+val_95895d2903be21fd,ev_db64339710ec39b0,doc_d0cdc7dd1f1baa66,-1.30,V,potential,-1.30V,candidate
+val_5cd608860dc2771d,ev_91f17390102bae33,doc_d0cdc7dd1f1baa66,1000,rpm,rotation,1000rpm,candidate
+val_c295faf869e91de8,ev_91f17390102bae33,doc_d0cdc7dd1f1baa66,5,min,time,5 min,candidate
+val_f3e183437f5c2c76,ev_c0dc6c91dcfafd80,doc_d0cdc7dd1f1baa66,20,μmol/L,concentration,20μmol/L,candidate
+val_3d0b3b96388d6478,ev_c73c849261eb945e,doc_d0cdc7dd1f1baa66,-1.30,V,potential,-1.30V,candidate
+val_f45e195eb58f62ed,ev_c73c849261eb945e,doc_d0cdc7dd1f1baa66,1,h,time,1h,candidate
+val_b8f61f087dcffa26,ev_4c1333555287ea12,doc_d0cdc7dd1f1baa66,11.3,μm,geometry,11.3 μm,candidate
+val_c3218741d4722c0e,ev_cee0c6f6e0f60fc7,doc_d0cdc7dd1f1baa66,13,μm,geometry,13μm,candidate
+val_e3ba88a5bc004751,ev_cee0c6f6e0f60fc7,doc_d0cdc7dd1f1baa66,11.7,μm,geometry,11.7 μm,candidate
+val_fed752079e756538,ev_c663fb81d47cacb4,doc_d0cdc7dd1f1baa66,12.6,μm,geometry,12.6 μm,candidate
+val_aaf2aba9e33276ec,ev_c663fb81d47cacb4,doc_d0cdc7dd1f1baa66,7.4,μm,geometry,7.4 μm,candidate
+val_415f3e36fd195b7c,ev_7a21600f3d847146,doc_d0cdc7dd1f1baa66,11.7,μm,geometry,11.7 μm,candidate
+val_a25476177a598a9d,ev_7a21600f3d847146,doc_d0cdc7dd1f1baa66,13.9,μm,geometry,13.9 μm,candidate
+val_dcf6dc7c78a37710,ev_7a21600f3d847146,doc_d0cdc7dd1f1baa66,10.4,μm,geometry,10.4 μm,candidate
+val_fac1308d1b3bca16,ev_7a21600f3d847146,doc_d0cdc7dd1f1baa66,6.9,μm,geometry,6.9 μm,candidate
+val_ddad5a44d66a0b5b,ev_977736bbe0a958ae,doc_d0cdc7dd1f1baa66,20,μmol/L,concentration,20μmol/L,candidate
+val_a82f06a16dc99c88,ev_977736bbe0a958ae,doc_d0cdc7dd1f1baa66,10,mV,potential,10mV,candidate
+val_13aacdbb8df6d3c3,ev_977736bbe0a958ae,doc_d0cdc7dd1f1baa66,1000,rpm,rotation,1000 rpm,candidate
+val_7b7dc1aff3d7aaf7,ev_977736bbe0a958ae,doc_d0cdc7dd1f1baa66,500,rpm,rotation,500 rpm,candidate
+val_82785c1901c5685a,ev_7ec65c34a4c4b7ca,doc_d0cdc7dd1f1baa66,-1.26,V,potential,-1.26V,candidate
+val_24ef064755e371bc,ev_7ec65c34a4c4b7ca,doc_d0cdc7dd1f1baa66,500,rpm,rotation,500 rpm,candidate
+val_79d0f2fe53b1b6aa,ev_7ec65c34a4c4b7ca,doc_d0cdc7dd1f1baa66,1000,rpm,rotation,1000 rpm,candidate
+val_289f1f51abf444ef,ev_7ec65c34a4c4b7ca,doc_d0cdc7dd1f1baa66,0.03,V,potential,0.03 V,candidate
+val_27f29edb1dca4276,ev_7ec65c34a4c4b7ca,doc_d0cdc7dd1f1baa66,-1.25,V,potential,-1.25 V,candidate
+val_0816bd0218177e54,ev_6c91b229629864de,doc_d0cdc7dd1f1baa66,500,rpm,rotation,500 rpm,candidate
+val_132a6dd978c26105,ev_6c91b229629864de,doc_d0cdc7dd1f1baa66,-0.02,V,potential,-0.02V,candidate
+val_131f9a4128680e72,ev_6c91b229629864de,doc_d0cdc7dd1f1baa66,-0.04,V,potential,-0.04V,candidate
+val_0a8474f7bd6afac9,ev_6c91b229629864de,doc_d0cdc7dd1f1baa66,-0.05,V,potential,-0.05V,candidate
+val_0cceae5e32be18a9,ev_2ca4f63da7d8978f,doc_d0cdc7dd1f1baa66,500,rpm,rotation,500rpm,candidate
+val_77cbf2178e6e3751,ev_2ca4f63da7d8978f,doc_d0cdc7dd1f1baa66,-0.12,V,potential,-0.12 V,candidate
+val_ef9446ec799e3f5e,ev_2ca4f63da7d8978f,doc_d0cdc7dd1f1baa66,1000,rpm,rotation,1000 rpm,candidate
+val_e995eeecada431cf,ev_2ca4f63da7d8978f,doc_d0cdc7dd1f1baa66,-0.09,V,potential,-0.09V,candidate
+val_ca9750c61ff2ce45,ev_2ca4f63da7d8978f,doc_d0cdc7dd1f1baa66,-0.10,V,potential,-0.10V,candidate
+val_5b0795533f24578d,ev_2ca4f63da7d8978f,doc_d0cdc7dd1f1baa66,-1.35,V,potential,-1.35V,candidate
+val_0914c3c6ca727fac,ev_2ca4f63da7d8978f,doc_d0cdc7dd1f1baa66,-1.38,V,potential,-1.38V,candidate
+val_e44be6b0901d3c23,ev_640ef590c385ac39,doc_d0cdc7dd1f1baa66,20,μmol/L,concentration,20 μmol/L,candidate
+val_f38677bd363764fe,ev_d1088128c8932e0c,doc_d0cdc7dd1f1baa66,7,h,time,7 H,candidate
+val_8d22ae58fb688635,ev_b8d91eafc92311be,doc_d0cdc7dd1f1baa66,7,mg/L,concentration,7 mg/L,candidate
+val_37583afd2f6e00be,ev_b8d91eafc92311be,doc_d0cdc7dd1f1baa66,100,mg/L,concentration,100 mg/L,candidate
+val_e690a733210d84ca,ev_b8d91eafc92311be,doc_d0cdc7dd1f1baa66,20,mg/L,concentration,20mg/L,candidate
+val_795ae979446072f0,ev_355d96053a4cdd1a,doc_d0cdc7dd1f1baa66,20,mg/L,concentration,20 mg/L,candidate
+val_bb6376bbaa4efea7,ev_355d96053a4cdd1a,doc_d0cdc7dd1f1baa66,-1.24,V,potential,-1.24 V,candidate
+val_a08fa8a13169a8b5,ev_6030d88bea75d994,doc_d0cdc7dd1f1baa66,20,mg/L,concentration,20mg/L,candidate
+val_14dfca1d2493a66f,ev_2d7f2e3dd83d8b96,doc_d0cdc7dd1f1baa66,20,mg/L,concentration,20 mg/L,candidate
+val_a398b1ba3c69df15,ev_d4262e29129b059d,doc_d0cdc7dd1f1baa66,1,cm,geometry,1 cm,candidate
+val_aaf7a379beef0e75,ev_d4262e29129b059d,doc_d0cdc7dd1f1baa66,4,cm,geometry,4 cm,candidate
+val_e84ac75b4313838c,ev_d4262e29129b059d,doc_d0cdc7dd1f1baa66,100,rpm,rotation,100 rpm,candidate
+val_2f15c22cd0bb2392,ev_d4262e29129b059d,doc_d0cdc7dd1f1baa66,-1.20,V,potential,-1.20 V,candidate
+val_988ba5e3001ceb84,ev_d4262e29129b059d,doc_d0cdc7dd1f1baa66,600,s,time,600 s,candidate
+val_d08fbed713bb92ce,ev_9ec8ab9dfbdb37fd,doc_d0cdc7dd1f1baa66,20,mg/L,concentration,20 mg/L,candidate
+val_b6aef5c0cc3a2c3b,ev_b92ebb69ea8b6ee7,doc_d0cdc7dd1f1baa66,20,mg/L,concentration,20 mg/L,candidate
+val_8b075cbc4e72bc7c,ev_b92ebb69ea8b6ee7,doc_d0cdc7dd1f1baa66,1,μm,geometry,1 μm,candidate
+val_cd8da49bb0543bfc,ev_180faf9f644f10d2,doc_d0cdc7dd1f1baa66,5,min,time,5 min,candidate
+val_33e8033ed15cc9e6,ev_b7d4da16c50d745f,doc_d0cdc7dd1f1baa66,20,mg/L,concentration,20 mg/L,candidate
+val_dec82491b44e7fa6,ev_8c39328a381641ff,doc_d0cdc7dd1f1baa66,20,mg/L,concentration,20 mg/L,candidate
+val_2dcaab36fa4e751b,ev_8c39328a381641ff,doc_d0cdc7dd1f1baa66,2,h,time,2 h,candidate
+val_8f54349b76e78dcb,ev_8c39328a381641ff,doc_d0cdc7dd1f1baa66,10,mg/L,concentration,10mg/L,candidate
+val_cd81eb23ace8260a,ev_8c39328a381641ff,doc_d0cdc7dd1f1baa66,20,mg/L,concentration,20mg/L,candidate
+val_06e4abb00c826376,ev_8c39328a381641ff,doc_d0cdc7dd1f1baa66,-1.25,V,potential,-1.25 V,candidate
+val_c404e39302c6b740,ev_8c39328a381641ff,doc_d0cdc7dd1f1baa66,500,rpm,rotation,500 rpm,candidate
+val_478eac3a6635ccfa,ev_8c39328a381641ff,doc_d0cdc7dd1f1baa66,2,h,time,2h,candidate
+val_60e8ada3f81cbe73,ev_63ca53c2e2f92367,doc_d0cdc7dd1f1baa66,20,mg/L,concentration,20mg/L,candidate
+val_e609fb298a236185,ev_bd2e786efb140db6,doc_d0cdc7dd1f1baa66,500,rpm,rotation,500rpm,candidate
+val_7a8c9d103d46ffbd,ev_6291a830a034c97c,doc_d0cdc7dd1f1baa66,2,mg/L,concentration,2 mg/L,candidate
+val_1dabb5c88695e3d9,ev_6291a830a034c97c,doc_d0cdc7dd1f1baa66,20,mg/L,concentration,20 mg/L,candidate
+val_1469abe2c63cff63,ev_6291a830a034c97c,doc_d0cdc7dd1f1baa66,-1.25,V,potential,-1.25 V,candidate
+val_6cc99a981ace7186,ev_6291a830a034c97c,doc_d0cdc7dd1f1baa66,-1.40,V,potential,-1.40 V,candidate
+val_e5a6caf159606b0c,ev_6291a830a034c97c,doc_d0cdc7dd1f1baa66,10,mg/L,concentration,10 mg/L,candidate
+val_0d0b7675d26fcc31,ev_a7c81572e63614f2,doc_d0cdc7dd1f1baa66,-0.28,V,potential,-0.28 V,candidate
+val_d1b915f11e7b712e,ev_a7c81572e63614f2,doc_d0cdc7dd1f1baa66,0,V,potential,0 V,candidate
+val_f842d78f06074669,ev_05a98f4a2474ba5d,doc_d0cdc7dd1f1baa66,-1.60,V,potential,-1.60 V,candidate
+val_4e0d9d9cfe43c86a,ev_05a98f4a2474ba5d,doc_d0cdc7dd1f1baa66,-1.20,V,potential,-1.20 V,candidate
+val_2a1d057cbc03f24e,ev_33103e7d73ce556f,doc_d0cdc7dd1f1baa66,-1.25,V,potential,-1.25 V,candidate
+val_5cc2cb690dcff081,ev_33103e7d73ce556f,doc_d0cdc7dd1f1baa66,100,rpm,rotation,100 rpm,candidate
+val_24a593c0e1728037,ev_33103e7d73ce556f,doc_d0cdc7dd1f1baa66,500,rpm,rotation,500 rpm,candidate
+val_fa67b653a35a7645,ev_b932ac4b677fae5e,doc_d0cdc7dd1f1baa66,500,rpm,rotation,500 rpm,candidate
+val_87acfdf0a1eaeb99,ev_b02f3d0f859982c4,doc_d0cdc7dd1f1baa66,-1.25,V,potential,-1.25 V,candidate
+val_418fcb014962a649,ev_b02f3d0f859982c4,doc_d0cdc7dd1f1baa66,-1.30,V,potential,-1.30 V,candidate
+val_904dedc83e1e2935,ev_d565c4cb2f56cdb4,doc_d0cdc7dd1f1baa66,20,mg/L,concentration,20 mg/L,candidate
+val_47aa3cfde8905a60,ev_d565c4cb2f56cdb4,doc_d0cdc7dd1f1baa66,10,mg/L,concentration,10 mg/L,candidate
+val_9efe4168f156ed05,ev_d565c4cb2f56cdb4,doc_d0cdc7dd1f1baa66,-1.25,V,potential,-1.25V,candidate
+val_bce7959b98ba1349,ev_a149eb9e1392ab2a,doc_d0cdc7dd1f1baa66,-1.25,V,potential,-1.25 V,candidate
+val_170160f0abf7942b,ev_a149eb9e1392ab2a,doc_d0cdc7dd1f1baa66,2,h,time,2h,candidate
+val_2ef9f38425c7d578,ev_a149eb9e1392ab2a,doc_d0cdc7dd1f1baa66,100,rpm,rotation,100 rpm,candidate
+val_86fb4305d8846fd1,ev_dc54b0a841fe212c,doc_d0cdc7dd1f1baa66,5,mg/L,concentration,5mg/L,candidate
+val_e33bed00df81efe9,ev_dc54b0a841fe212c,doc_d0cdc7dd1f1baa66,15,mg/L,concentration,15 mg/L,candidate
+val_1a66afe38986f958,ev_dc54b0a841fe212c,doc_d0cdc7dd1f1baa66,20,mg/L,concentration,20 mg/L,candidate
+val_ec26ce39d422fbe7,ev_22f68becdd70f11a,doc_d0cdc7dd1f1baa66,10,mg/L,concentration,10mg/L,candidate
+val_ffddc5ab112eeb9e,ev_fa10f513731ba7da,doc_d0cdc7dd1f1baa66,-1.25,V,potential,-1.25 V,candidate
+val_04a96a924ac726b3,ev_fa10f513731ba7da,doc_d0cdc7dd1f1baa66,-1.30,V,potential,-1.30 V,candidate
+val_4a37b43b25cb44d4,ev_fa10f513731ba7da,doc_d0cdc7dd1f1baa66,2,h,time,2h,candidate
+val_4917dfeebfb4dd60,ev_fa10f513731ba7da,doc_d0cdc7dd1f1baa66,8.6,μm,geometry,8.6 μm,candidate
+val_bbbe10731c3ff4ea,ev_fa10f513731ba7da,doc_d0cdc7dd1f1baa66,10.4,μm,geometry,10.4 μm,candidate
+val_a9264e997c8bf86f,ev_fa10f513731ba7da,doc_d0cdc7dd1f1baa66,15.6,μm,geometry,15.6 μm,candidate
+val_c766fc72c0f578f0,ev_fa10f513731ba7da,doc_d0cdc7dd1f1baa66,19.2,μm,geometry,19.2 μm,candidate
+val_aea765c8f0e52aea,ev_1a0ff16c7d06c4c0,doc_d0cdc7dd1f1baa66,-1.25,V,potential,-1.25V,candidate
+val_630e660544221c8f,ev_1a0ff16c7d06c4c0,doc_d0cdc7dd1f1baa66,-1.30,V,potential,-1.30V,candidate
+val_c2904d7efb5a7873,ev_1a0ff16c7d06c4c0,doc_d0cdc7dd1f1baa66,10,h,time,10 h,candidate
+val_01460e908573472c,ev_1a0ff16c7d06c4c0,doc_d0cdc7dd1f1baa66,35.7,μm,geometry,35.7 μm,candidate
+val_214ddc385e87a7cf,ev_1a0ff16c7d06c4c0,doc_d0cdc7dd1f1baa66,43.4,μm,geometry,43.4 μm,candidate
+val_35b66b6b6a7a6cf5,ev_1a0ff16c7d06c4c0,doc_d0cdc7dd1f1baa66,70.8,μm,geometry,70.8 μm,candidate
+val_6c8cca193fd8a63e,ev_1a0ff16c7d06c4c0,doc_d0cdc7dd1f1baa66,114.8,μm,geometry,114.8 μm,candidate
+val_e93be1404c999a82,ev_1a0ff16c7d06c4c0,doc_d0cdc7dd1f1baa66,-1.30,V,potential,-1.30 V,candidate
+val_89147b08d5731a3f,ev_1a0ff16c7d06c4c0,doc_d0cdc7dd1f1baa66,10,h,time,10h,candidate
+val_0f4458ee972e5846,ev_1a0ff16c7d06c4c0,doc_d0cdc7dd1f1baa66,72.6,%,percentage,72.6%,candidate
+val_dfb06f85afadc34a,ev_2545ef44aab28060,doc_d0cdc7dd1f1baa66,-1.10,V,potential,-1.10 V,candidate
+val_a63401e965cc3d5d,ev_2545ef44aab28060,doc_d0cdc7dd1f1baa66,-1.14,V,potential,-1.14 V,candidate
+val_25188b6f8f0b3a6d,ev_2545ef44aab28060,doc_d0cdc7dd1f1baa66,-1.30,V,potential,-1.30 V,candidate
+val_03fd15e74305e00f,ev_61d39da14f7391f2,doc_d0cdc7dd1f1baa66,-1.0,V,potential,-1.0 V,candidate
+val_86ad4b744832e563,ev_61d39da14f7391f2,doc_d0cdc7dd1f1baa66,2,mg/L,concentration,2mg/L,candidate
+val_e9f250ce1630fb0d,ev_3b9f636502f6a132,doc_d0cdc7dd1f1baa66,0.4,mol/L,concentration,0.4 mol/L,candidate
+val_873dbaf76764f2c3,ev_3b9f636502f6a132,doc_d0cdc7dd1f1baa66,0.5,mol/L,concentration,0.5 mol/L,candidate
+val_d2633d02252d3296,ev_3b9f636502f6a132,doc_d0cdc7dd1f1baa66,10,mmol/L,concentration,10 mmol/L,candidate
+val_f48c9902cf66f554,ev_3b9f636502f6a132,doc_d0cdc7dd1f1baa66,20,mg/L,concentration,20 mg/L,candidate
+val_e865523bd3a46c34,ev_3b9f636502f6a132,doc_d0cdc7dd1f1baa66,10,mg/L,concentration,10 mg/L,candidate
+val_d2e650a0503963e8,ev_3b9f636502f6a132,doc_d0cdc7dd1f1baa66,298,K,temperature,298 K,candidate
+val_c8af7110c62167ff,ev_1cbd1eebb36fe1f9,doc_d0cdc7dd1f1baa66,0,rpm,rotation,0rpm,candidate
+val_203aaf0c8212c668,ev_1cbd1eebb36fe1f9,doc_d0cdc7dd1f1baa66,100,rpm,rotation,100rpm,candidate
+val_935d8e67dd2acd37,ev_1cbd1eebb36fe1f9,doc_d0cdc7dd1f1baa66,500,rpm,rotation,500rpm,candidate
+val_c82c9e6c36963bd0,ev_bf554003b4969d4d,doc_d0cdc7dd1f1baa66,2,h,time,2h,candidate
+val_6f245433b3293314,ev_b49cda787d1b6df5,doc_d0cdc7dd1f1baa66,2,h,time,2 h,candidate
+val_6d4e03b5fe0fce3f,ev_b49cda787d1b6df5,doc_d0cdc7dd1f1baa66,5,mg/L,concentration,5mg/L,candidate
+val_9c66026943d974a2,ev_b49cda787d1b6df5,doc_d0cdc7dd1f1baa66,10,mg/L,concentration,10mg/L,candidate
+val_a62b122d83bb7217,ev_e5b79ac0e522b369,doc_d0cdc7dd1f1baa66,2,h,time,2h,candidate
+val_5935f2b45fa308cb,ev_7d3d455601b4f303,doc_d0cdc7dd1f1baa66,500,rpm,rotation,500 rpm,candidate
+val_1678ad29e788a18b,ev_333e6c1d0e04c778,doc_d0cdc7dd1f1baa66,-1.19,V,potential,-1.19V,candidate
+val_8a4a41b5e901d8aa,ev_333e6c1d0e04c778,doc_d0cdc7dd1f1baa66,-1.19,V,potential,-1.19 V,candidate
+val_9a85b3f500df220f,ev_333e6c1d0e04c778,doc_d0cdc7dd1f1baa66,-1.20,V,potential,-1.20V,candidate
+val_708fcd9541859b76,ev_1078049a8bf029eb,doc_d0cdc7dd1f1baa66,2,h,time,2h,candidate
+val_f287b44359be1944,ev_b545f3dcfd309f58,doc_d0cdc7dd1f1baa66,10,mmol/L,concentration,10 mmol/L,candidate
+val_c70d64144cb37fe0,ev_b545f3dcfd309f58,doc_d0cdc7dd1f1baa66,20,mg/L,concentration,20 mg/L,candidate
+val_e9867d69386679d7,ev_b545f3dcfd309f58,doc_d0cdc7dd1f1baa66,10,mg/L,concentration,10 mg/L,candidate
+val_6646dc9951543482,ev_b545f3dcfd309f58,doc_d0cdc7dd1f1baa66,500,rpm,rotation,500 rpm,candidate
+val_0be65113388c5c63,ev_b545f3dcfd309f58,doc_d0cdc7dd1f1baa66,-1.20,V,potential,-1.20 V,candidate
+val_27f3eb43a22eb15f,ev_4af852b13848f294,doc_d0cdc7dd1f1baa66,-1.20,V,potential,-1.20 V,candidate
+val_973e05be08655dc5,ev_4af852b13848f294,doc_d0cdc7dd1f1baa66,1,h,time,1 h,candidate
+val_632e9f2a6d3f15a5,ev_4af852b13848f294,doc_d0cdc7dd1f1baa66,2,h,time,2 h,candidate
+val_f1226398b9888316,ev_3ce10ae45654d42e,doc_d0cdc7dd1f1baa66,2,h,time,2 h,candidate
+val_82a5c4d4cbe22949,ev_3ce10ae45654d42e,doc_d0cdc7dd1f1baa66,8,h,time,8 h,candidate
+val_27e6c605310a5d55,ev_3ce10ae45654d42e,doc_d0cdc7dd1f1baa66,16,h,time,16 h,candidate
+val_75dfe4c45503279a,ev_50ccad39a0596a58,doc_d0cdc7dd1f1baa66,100,μm,geometry,100 μm,candidate
+val_084aa7bab860bea0,ev_50ccad39a0596a58,doc_d0cdc7dd1f1baa66,150,μm,geometry,150 μm,candidate
+val_3bd96fc829e2aaed,ev_8eca8f11d91e78ff,doc_d0cdc7dd1f1baa66,0.4,mol/L,concentration,0.4 mol/L,candidate
+val_a3d519edba9a973a,ev_8eca8f11d91e78ff,doc_d0cdc7dd1f1baa66,10,mmol/L,concentration,10 mmol/L,candidate
+val_b34b1832384de781,ev_8eca8f11d91e78ff,doc_d0cdc7dd1f1baa66,20,mg/L,concentration,20 mg/L,candidate
+val_e0ef17ca81c27433,ev_8eca8f11d91e78ff,doc_d0cdc7dd1f1baa66,10,mg/L,concentration,10 mg/L,candidate
+val_f4e323e13d194041,ev_8eca8f11d91e78ff,doc_d0cdc7dd1f1baa66,50,μm,geometry,50 μm,candidate
+val_e966eb615c10b27b,ev_8eca8f11d91e78ff,doc_d0cdc7dd1f1baa66,102.3,μm,geometry,102.3 μm,candidate
+val_7bc869393cd517b5,ev_8eca8f11d91e78ff,doc_d0cdc7dd1f1baa66,90.3,%,percentage,90.3%,candidate
+val_7127ed2c7926bae3,ev_8eca8f11d91e78ff,doc_d0cdc7dd1f1baa66,16,h,time,16h,candidate
+val_c7f7ea4e278fc42b,ev_e04183cabeb412ea,doc_d0cdc7dd1f1baa66,-1.25,V,potential,-1.25V,candidate
+val_05c574e6e97ccad1,ev_da67ffca5d7bb5c3,doc_d0cdc7dd1f1baa66,-1.20,V,potential,-1.20V,candidate
+val_9a40f51446a62d5a,ev_08ed15205acc7c0e,doc_d0cdc7dd1f1baa66,0.4,mol/L,concentration,0.4 mol/L,candidate
+val_a8992e2de61187a4,ev_08ed15205acc7c0e,doc_d0cdc7dd1f1baa66,0.5,mol/L,concentration,0.5 mol/L,candidate
+val_96ae517b41badb99,ev_08ed15205acc7c0e,doc_d0cdc7dd1f1baa66,10,mmol/L,concentration,10mmol/L,candidate
+val_c2bdf518075af9b1,ev_08ed15205acc7c0e,doc_d0cdc7dd1f1baa66,20,mg/L,concentration,20mg/L,candidate
+val_d0b76917307de890,ev_08ed15205acc7c0e,doc_d0cdc7dd1f1baa66,10,mg/L,concentration,10mg/L,candidate
+val_ccc2826dd366bf47,ev_08ed15205acc7c0e,doc_d0cdc7dd1f1baa66,500,rpm,rotation,500 rpm,candidate
+val_ca45a041551e1a64,ev_08ed15205acc7c0e,doc_d0cdc7dd1f1baa66,-1.25,V,potential,-1.25V,candidate
+val_56adfa57410b81a1,ev_08ed15205acc7c0e,doc_d0cdc7dd1f1baa66,72.6,%,percentage,72.6%,candidate
+val_93e560acafe382d7,ev_08ed15205acc7c0e,doc_d0cdc7dd1f1baa66,-1.20,V,potential,-1.20V,candidate
+val_1a1926b3f0237271,ev_08ed15205acc7c0e,doc_d0cdc7dd1f1baa66,90.3,%,percentage,90.3%,candidate
+val_08a27af65d15fb67,ev_a3a47dc087eacb95,doc_d0cdc7dd1f1baa66,500,rpm,rotation,500rpm,candidate
+val_355640487afa07dc,ev_a3a47dc087eacb95,doc_d0cdc7dd1f1baa66,10,mV,potential,10 mV,candidate
+val_0abb0ebf386423e1,ev_a3a47dc087eacb95,doc_d0cdc7dd1f1baa66,0.4,mol/L,concentration,0.4 mol/L,candidate
+val_2abbbf1ce0b7ac9b,ev_a3a47dc087eacb95,doc_d0cdc7dd1f1baa66,0.5,mol/L,concentration,0.5mol/L,candidate
+val_c6e0de3e07fa64fb,ev_a3a47dc087eacb95,doc_d0cdc7dd1f1baa66,10,mmol/L,concentration,10 mmol/L,candidate
+val_b3367c8c878a306f,ev_a3a47dc087eacb95,doc_d0cdc7dd1f1baa66,298,K,temperature,298 K,candidate
+val_faec8bf83779fd03,ev_6dc051b1782b54ef,doc_d0cdc7dd1f1baa66,-1.10,V,potential,-1.10V,candidate
+val_c23146032dbfd743,ev_6dc051b1782b54ef,doc_d0cdc7dd1f1baa66,-1.50,V,potential,-1.50V,candidate
+val_fcce34351048a538,ev_6dc051b1782b54ef,doc_d0cdc7dd1f1baa66,500,rpm,rotation,500 rpm,candidate
+val_d7c97285e2d5886d,ev_6dc051b1782b54ef,doc_d0cdc7dd1f1baa66,10,mg/L,concentration,10mg/L,candidate
+val_63a1212d05cfa1bb,ev_6dc051b1782b54ef,doc_d0cdc7dd1f1baa66,-1.20,V,potential,-1.20V,candidate
+val_9656fd56c23f0ef8,ev_6dc051b1782b54ef,doc_d0cdc7dd1f1baa66,-1.25,V,potential,-1.25 V,candidate
+val_805ec9696e71dc72,ev_6dc051b1782b54ef,doc_d0cdc7dd1f1baa66,30,mg/L,concentration,30 mg/L,candidate
+val_e86177e75127fa40,ev_6dc051b1782b54ef,doc_d0cdc7dd1f1baa66,-1.33,V,potential,-1.33 V,candidate
+val_4ab4dbcf6c2b3485,ev_ea5d554bb854811b,doc_d0cdc7dd1f1baa66,0,mg/L,concentration,0mg/L,candidate
+val_cc2e7bc4c3921c3e,ev_ea5d554bb854811b,doc_d0cdc7dd1f1baa66,30,mg/L,concentration,30mg/L,candidate
+val_371f41a54c99f4cf,ev_82997b7fd3cc755b,doc_d0cdc7dd1f1baa66,20,mg/L,concentration,20mg/L,candidate
+val_269be908d781ff32,ev_6c0a1b708033b17b,doc_d0cdc7dd1f1baa66,20,mg/L,concentration,20mg/L,candidate
+val_12bed0f35fb59871,ev_6c0a1b708033b17b,doc_d0cdc7dd1f1baa66,50,rpm,rotation,50 rpm,candidate
+val_df76d5e1616d1377,ev_6c0a1b708033b17b,doc_d0cdc7dd1f1baa66,-1.29,V,potential,-1.29V,candidate
+val_c59a005f14c4dd7e,ev_6c0a1b708033b17b,doc_d0cdc7dd1f1baa66,1000,rpm,rotation,1000 rpm,candidate
+val_8b74b197327ae616,ev_6c0a1b708033b17b,doc_d0cdc7dd1f1baa66,-1.40,V,potential,-1.40 V,candidate
+val_ae4c2d00119ae882,ev_bad3b18553403814,doc_d0cdc7dd1f1baa66,500,rpm,rotation,500rpm,candidate
+val_f19e1d19eede457e,ev_bad3b18553403814,doc_d0cdc7dd1f1baa66,10,mV,potential,10mV,candidate
+val_9e81626ce6a1e520,ev_bad3b18553403814,doc_d0cdc7dd1f1baa66,500,rpm,rotation,500 rpm,candidate
+val_ee60f319a0437a50,ev_bad3b18553403814,doc_d0cdc7dd1f1baa66,-1.25,V,potential,-1.25V,candidate
+val_d37c7c69cedf79b7,ev_bad3b18553403814,doc_d0cdc7dd1f1baa66,300,s,time,300s,candidate
+val_17a90950f9f2d9b8,ev_bad3b18553403814,doc_d0cdc7dd1f1baa66,0.4,mol/L,concentration,0.4 mol/L,candidate
+val_236a0908148a3214,ev_bad3b18553403814,doc_d0cdc7dd1f1baa66,0.5,mol/L,concentration,0.5 mol/L,candidate
+val_ad80b310aa5a6e7f,ev_bad3b18553403814,doc_d0cdc7dd1f1baa66,10,mmol/L,concentration,10 mmol/L,candidate
+val_9b451b7d2b91f56b,ev_bad3b18553403814,doc_d0cdc7dd1f1baa66,298,K,temperature,298 K,candidate
+val_6832c7f8a09714d3,ev_e217ae113be862ec,doc_d0cdc7dd1f1baa66,-1.20,V,potential,-1.20V,candidate
+val_833316532447771e,ev_e217ae113be862ec,doc_d0cdc7dd1f1baa66,20,mg/L,concentration,20mg/L,candidate
+val_d84cf8b33a717576,ev_e217ae113be862ec,doc_d0cdc7dd1f1baa66,-1.23,V,potential,-1.23V,candidate
+val_bb3539b9d98592e7,ev_e217ae113be862ec,doc_d0cdc7dd1f1baa66,40,mg/L,concentration,40 mg/L,candidate
+val_f07e43744f48ac02,ev_e217ae113be862ec,doc_d0cdc7dd1f1baa66,-1.50,V,potential,-1.50V,candidate
+val_c45a2be7d014ab5e,ev_e217ae113be862ec,doc_d0cdc7dd1f1baa66,20,mg/L,concentration,20 mg/L,candidate
+val_00975b0b29306083,ev_beab7bc85455de33,doc_d0cdc7dd1f1baa66,-1.25,V,potential,-1.25V,candidate
+val_64c01a3425ffbd6d,ev_1e91c64a04d4bd24,doc_d0cdc7dd1f1baa66,800,rpm,rotation,800 rpm,candidate
+val_d6fcc29e0d70c467,ev_1e91c64a04d4bd24,doc_d0cdc7dd1f1baa66,0,rpm,rotation,0 rpm,candidate
+val_71bacc0d4148298a,ev_1e91c64a04d4bd24,doc_d0cdc7dd1f1baa66,100,rpm,rotation,100rpm,candidate
+val_e26a9dfd961e802d,ev_1e91c64a04d4bd24,doc_d0cdc7dd1f1baa66,0,rpm,rotation,0rpm,candidate
+val_466a6fc3d72041da,ev_30e54846cfac825f,doc_d0cdc7dd1f1baa66,0,rpm,rotation,0 rpm,candidate
+val_71e275c1371cd267,ev_30e54846cfac825f,doc_d0cdc7dd1f1baa66,10,mV,potential,10 mV,candidate
+val_bcaaa5545261ff06,ev_30e54846cfac825f,doc_d0cdc7dd1f1baa66,298,K,temperature,298 K,candidate
+val_784b469504fc2155,ev_30e54846cfac825f,doc_d0cdc7dd1f1baa66,10,mg/L,concentration,10 mg/L,candidate
+val_c9f0a70dbb7bc737,ev_30e54846cfac825f,doc_d0cdc7dd1f1baa66,-1.20,V,potential,-1.20 V,candidate
+val_8ebb1e1223ee9136,ev_30e54846cfac825f,doc_d0cdc7dd1f1baa66,40,mg/L,concentration,40mg/L,candidate
+val_15faf41530e3edcd,ev_30e54846cfac825f,doc_d0cdc7dd1f1baa66,-1.30,V,potential,-1.30 V,candidate
+val_c38dd4e4a3a4d23b,ev_30e54846cfac825f,doc_d0cdc7dd1f1baa66,-1.10,V,potential,-1.10 V,candidate
+val_bbd0fe81bfee4fe2,ev_30e54846cfac825f,doc_d0cdc7dd1f1baa66,-1.10,V,potential,-1.10V,candidate
+val_93f20512f250308e,ev_30e54846cfac825f,doc_d0cdc7dd1f1baa66,-1.20,V,potential,-1.20V,candidate
+val_33091c0f0cce0231,ev_6bbae1023d09a6df,doc_d0cdc7dd1f1baa66,20,mg/L,concentration,20 mg/L,candidate
+val_303a771b13659026,ev_6bbae1023d09a6df,doc_d0cdc7dd1f1baa66,-1.20,V,potential,-1.20 V,candidate
+val_494497e282faf6b0,ev_6bbae1023d09a6df,doc_d0cdc7dd1f1baa66,-1.23,V,potential,-1.23V,candidate
+val_977125a1f4af3a21,ev_6bbae1023d09a6df,doc_d0cdc7dd1f1baa66,10,%,percentage,10%,candidate
+val_0a7f7b34d73499b0,ev_afcf5027c217d456,doc_d0cdc7dd1f1baa66,20,mg/L,concentration,20 mg/L,candidate
+val_7d1a88074a46c878,ev_f76b13e0eef61e8e,doc_d0cdc7dd1f1baa66,-1.25,V,potential,-1.25V,candidate
+val_9980181d0a4a7d24,ev_f76b13e0eef61e8e,doc_d0cdc7dd1f1baa66,-1.25,V,potential,-1.25 V,candidate
+val_21d99a5d9fd84cda,ev_24491ec4566a0419,doc_d0cdc7dd1f1baa66,0.4,mol/L,concentration,0.4 mol/L,candidate
+val_9c4320b1563e0a34,ev_24491ec4566a0419,doc_d0cdc7dd1f1baa66,0.5,mol/L,concentration,0.5 mol/L,candidate
+val_ea65ed4d2a06c4a2,ev_24491ec4566a0419,doc_d0cdc7dd1f1baa66,10,mmol/L,concentration,10 mmol/L,candidate
+val_3237aeefc88f82bf,ev_24491ec4566a0419,doc_d0cdc7dd1f1baa66,500,rpm,rotation,500 rpm,candidate
+val_528e1870a82077b1,ev_24491ec4566a0419,doc_d0cdc7dd1f1baa66,-1.25,V,potential,-1.25 V,candidate
+val_477eb2ebea5afbc7,ev_24491ec4566a0419,doc_d0cdc7dd1f1baa66,1800,s,time,1800 s,candidate
+val_c5d85bde3b1cf28a,ev_26153338d5b2ac8c,doc_d0cdc7dd1f1baa66,0,rpm,rotation,0rpm,candidate
+val_1c12ab3fa140f44f,ev_26153338d5b2ac8c,doc_d0cdc7dd1f1baa66,500,rpm,rotation,500rpm,candidate
+val_0b399429d521ab51,ev_26153338d5b2ac8c,doc_d0cdc7dd1f1baa66,20,mg/L,concentration,20mg/L,candidate
+val_af56a19c60e93d22,ev_26153338d5b2ac8c,doc_d0cdc7dd1f1baa66,20,mg/L,concentration,20 mg/L,candidate
+val_bcd201bd5f01bc3e,ev_2504697029a2c74f,doc_d0cdc7dd1f1baa66,2,h,time,2 h,candidate
+val_d21c73374bd4ba05,ev_abacaf977f7f4cab,doc_d0cdc7dd1f1baa66,1,cm,geometry,1 cm,candidate
+val_a74d98e8504904fd,ev_abacaf977f7f4cab,doc_d0cdc7dd1f1baa66,2,cm,geometry,2 cm,candidate
+val_ea6a8b0515a7ee47,ev_9df49329ed423b21,doc_d0cdc7dd1f1baa66,4,cm,geometry,4cm,candidate
+val_827e586a4a518633,ev_9df49329ed423b21,doc_d0cdc7dd1f1baa66,-1.25,V,potential,-1.25V,candidate
+val_28a6b3554edb1527,ev_9df49329ed423b21,doc_d0cdc7dd1f1baa66,500,rpm,rotation,500 rpm,candidate
+val_4c0a318301b2c4eb,ev_9df49329ed423b21,doc_d0cdc7dd1f1baa66,2,h,time,2 h,candidate
+val_189e4d130710c862,ev_a4e9600dd07c89e0,doc_d0cdc7dd1f1baa66,2,h,time,2h,candidate
+val_3621f480bcc81ccf,ev_a4e9600dd07c89e0,doc_d0cdc7dd1f1baa66,11.0,μm,geometry,11.0 μm,candidate
+val_746f5b934de8987a,ev_a4e9600dd07c89e0,doc_d0cdc7dd1f1baa66,11.6,μm,geometry,11.6 μm,candidate
+val_54098577a0f71d07,ev_a4e9600dd07c89e0,doc_d0cdc7dd1f1baa66,9.2,μm,geometry,9.2 μm,candidate
+val_2dc06c2921821198,ev_a4e9600dd07c89e0,doc_d0cdc7dd1f1baa66,25.4,μm,geometry,25.4μm,candidate
+val_76219cf4d15c87e8,ev_a4e9600dd07c89e0,doc_d0cdc7dd1f1baa66,23.2,μm,geometry,23.2μm,candidate
+val_1e6d354a182a7f78,ev_a4e9600dd07c89e0,doc_d0cdc7dd1f1baa66,24.1,μm,geometry,24.1μm,candidate
+val_be15a58f63c8bdad,ev_a4e9600dd07c89e0,doc_d0cdc7dd1f1baa66,100,μm,geometry,100μm,candidate
+val_a40436477f0a104d,ev_a4e9600dd07c89e0,doc_d0cdc7dd1f1baa66,109.3,μm,geometry,109.3 μm,candidate
+val_a9a3cea8c3ba6c74,ev_a4e9600dd07c89e0,doc_d0cdc7dd1f1baa66,116.2,μm,geometry,116.2 μm,candidate
+val_2926ea7fd3e8f3b9,ev_a4e9600dd07c89e0,doc_d0cdc7dd1f1baa66,108.9,μm,geometry,108.9 μm,candidate
+val_59f2242d24e99334,ev_a4e9600dd07c89e0,doc_d0cdc7dd1f1baa66,79.6,%,percentage,79.6%,candidate
+val_4ba935ca72aee732,ev_a4e9600dd07c89e0,doc_d0cdc7dd1f1baa66,84.5,%,percentage,84.5%,candidate
+val_61a1fa39f7ff75cf,ev_a4e9600dd07c89e0,doc_d0cdc7dd1f1baa66,80.2,%,percentage,80.2%,candidate
+val_ff2c67c6afe9adde,ev_909e3d662c6a97c9,doc_d0cdc7dd1f1baa66,20,mg/L,concentration,20 mg/L,candidate
+val_22c7b605d9c93838,ev_caaf414ccd6e38fc,doc_d0cdc7dd1f1baa66,-1.25,V,potential,-1.25 V,candidate
+val_6093a3723aec2b15,ev_caaf414ccd6e38fc,doc_d0cdc7dd1f1baa66,-1.19,V,potential,-1.19 V,candidate
+val_cb717a0654ae1b45,ev_caaf414ccd6e38fc,doc_d0cdc7dd1f1baa66,60,s,time,60 s,candidate
+val_94969fde380b971d,ev_edf1d6a8c53fe42f,doc_d0cdc7dd1f1baa66,500,rpm,rotation,500 rpm,candidate
+val_07ea96f1fa3df048,ev_56942ff088a07bf7,doc_d0cdc7dd1f1baa66,-1.19,V,potential,-1.19V,candidate
+val_c2ba5488361faf0d,ev_3993572e318f8c2b,doc_d0cdc7dd1f1baa66,20,mg/L,concentration,20 mg/L,candidate
+val_52901bc1ac70664d,ev_3993572e318f8c2b,doc_d0cdc7dd1f1baa66,1,h,time,1h,candidate
+val_ecc6d3e0cfbf571a,ev_3993572e318f8c2b,doc_d0cdc7dd1f1baa66,6,h,time,6h,candidate
+val_54a30560ad9c052a,ev_3993572e318f8c2b,doc_d0cdc7dd1f1baa66,33.3,μm,geometry,33.3μm,candidate
+val_4bd58c6daa883324,ev_3993572e318f8c2b,doc_d0cdc7dd1f1baa66,29.1,μm,geometry,29.1μm,candidate
+val_435939825c10e3a8,ev_3993572e318f8c2b,doc_d0cdc7dd1f1baa66,26.5,μm,geometry,26.5μm,candidate
+val_719cb131377191cc,ev_55a152726ff7001d,doc_d0cdc7dd1f1baa66,-1.19,V,potential,-1.19V,candidate
+val_e5d8386539d0ba90,ev_55a152726ff7001d,doc_d0cdc7dd1f1baa66,96.8,μm,geometry,96.8μm,candidate
+val_ad021ec4695cf42a,ev_55a152726ff7001d,doc_d0cdc7dd1f1baa66,97.4,μm,geometry,97.4μm,candidate
+val_9d5b61ef8dc8ba3f,ev_55a152726ff7001d,doc_d0cdc7dd1f1baa66,93.6,%,percentage,93.6%,candidate
+val_b46834da87d8dc18,ev_55a152726ff7001d,doc_d0cdc7dd1f1baa66,93.8,%,percentage,93.8%,candidate
+val_364e601b5acea6d8,ev_55a152726ff7001d,doc_d0cdc7dd1f1baa66,91.9,%,percentage,91.9%,candidate
+val_fce69a0f87558a5e,ev_53dc4bb826160cac,doc_d0cdc7dd1f1baa66,2,h,time,2 h,candidate
+val_75f31c0984081217,ev_ece7545bd13baa66,doc_d0cdc7dd1f1baa66,-1.20,V,potential,-1.20 V,candidate
+val_fb457153bb1f0b40,ev_ece7545bd13baa66,doc_d0cdc7dd1f1baa66,0,rpm,rotation,0 rpm,candidate
+val_d41611a21da22e22,ev_ece7545bd13baa66,doc_d0cdc7dd1f1baa66,20,min,time,20 min,candidate
+val_9a0cd3b2fc7cfe58,ev_ece7545bd13baa66,doc_d0cdc7dd1f1baa66,10,mg/L,concentration,10 mg/L,candidate
+val_eb44d704c5db6eb2,ev_cfe792b94c07b521,doc_d0cdc7dd1f1baa66,300,μm,geometry,300 μm,candidate
+val_ac6b21d6950fd7a5,ev_f7c0fdfab98de568,doc_d0cdc7dd1f1baa66,8.2,μm,geometry,8.2μm,candidate
+val_ccc333d1f572371c,ev_f7c0fdfab98de568,doc_d0cdc7dd1f1baa66,7.1,μm,geometry,7.1 μm,candidate
+val_3990735a7815209a,ev_f7c0fdfab98de568,doc_d0cdc7dd1f1baa66,60,mg/L,concentration,60 mg/L,candidate
+val_5fa9c0e1ced30349,ev_f7c0fdfab98de568,doc_d0cdc7dd1f1baa66,1,g/L,concentration,1g/L,candidate
+val_4cb28243c3b64afe,ev_f7c0fdfab98de568,doc_d0cdc7dd1f1baa66,15,mg/L,concentration,15 mg/L,candidate
+val_eb26165bf4410aed,ev_05f2073126de2a0c,doc_d0cdc7dd1f1baa66,0.01,mol/L,concentration,0.01 mol/L,candidate
+val_eb602c8bb8c10024,ev_05f2073126de2a0c,doc_d0cdc7dd1f1baa66,0.5,mol/L,concentration,0.5 mol/L,candidate
+val_f3005e5dad8ff8bb,ev_b96e19de146e95b2,doc_d0cdc7dd1f1baa66,-1.10,V,potential,-1.10V,candidate
+val_5bb8b357c34a5b37,ev_72d65cb411a70749,doc_d0cdc7dd1f1baa66,20,mg/L,concentration,20 mg/L,candidate
+val_2f6f6673a544dc4c,ev_72d65cb411a70749,doc_d0cdc7dd1f1baa66,0.4,mol/L,concentration,0.4 mol/L,candidate
+val_0f85bb46575167d2,ev_72d65cb411a70749,doc_d0cdc7dd1f1baa66,500,rpm,rotation,500 rpm,candidate
+val_562a94bfb813a850,ev_ac67ae274548614b,doc_d0cdc7dd1f1baa66,-1.30,V,potential,-1.30V,candidate
+val_fbf3bd30dcb65bc6,ev_ac67ae274548614b,doc_d0cdc7dd1f1baa66,2,h,time,2h,candidate
+val_f3e46e5655f64aaf,ev_ac67ae274548614b,doc_d0cdc7dd1f1baa66,6,h,time,6h,candidate
+val_7ce9565fe78ec47a,ev_937664be47c13513,doc_d0cdc7dd1f1baa66,6,h,time,6 h,candidate
+val_fd00cc9d73913ae0,ev_937664be47c13513,doc_d0cdc7dd1f1baa66,86.1,%,percentage,86.1%,candidate
+val_8a3876a83e022276,ev_59a6a806e9f8e33a,doc_d0cdc7dd1f1baa66,20,mg/L,concentration,20mg/L,candidate
+val_f6b67deab25565cb,ev_ae531df4dbbd4824,doc_d0cdc7dd1f1baa66,0.4,mol/L,concentration,0.4 mol/L,candidate
+val_be7d55ada341a982,ev_ae531df4dbbd4824,doc_d0cdc7dd1f1baa66,0.5,mol/L,concentration,0.5 mol/L,candidate
+val_0908f4110a8675f7,ev_ae531df4dbbd4824,doc_d0cdc7dd1f1baa66,10,mmol/L,concentration,10 mmol/L,candidate
+val_d01396790b3cf9b1,ev_ae531df4dbbd4824,doc_d0cdc7dd1f1baa66,20,mg/L,concentration,20 mg/L,candidate
+val_9ffd67db42f5a7f1,ev_ae531df4dbbd4824,doc_d0cdc7dd1f1baa66,-1.20,V,potential,-1.20V,candidate
+val_483cfde6902d439f,ev_ae531df4dbbd4824,doc_d0cdc7dd1f1baa66,91.9,%,percentage,91.9%,candidate
+val_3016c5756dc4bc40,ev_6102d81d4aee95c9,doc_d0cdc7dd1f1baa66,-1.25,V,potential,-1.25 V,candidate
+val_b630b960e525d9e8,ev_6102d81d4aee95c9,doc_d0cdc7dd1f1baa66,-1.20,V,potential,-1.20 V,candidate
+val_ce225107ae264882,ev_6102d81d4aee95c9,doc_d0cdc7dd1f1baa66,90.3,%,percentage,90.3%,candidate
+val_7aa5334a8eec1aeb,ev_71b02095a6e252f2,doc_d0cdc7dd1f1baa66,-1.20,V,potential,-1.20V,candidate
+val_37739ab1e5248331,ev_36796f3cc705d5bf,doc_d0cdc7dd1f1baa66,-1.25,V,potential,-1.25V,candidate
+val_18e6bee4d1d5c3b0,ev_36796f3cc705d5bf,doc_d0cdc7dd1f1baa66,-1.20,V,potential,-1.20V,candidate
+val_b297db643d78f173,ev_36796f3cc705d5bf,doc_d0cdc7dd1f1baa66,91.9,%,percentage,91.9%,candidate
+val_bae93967c280ca74,ev_36796f3cc705d5bf,doc_d0cdc7dd1f1baa66,15,mg/L,concentration,15mg/L,candidate
+val_8c6919db72261f60,ev_36796f3cc705d5bf,doc_d0cdc7dd1f1baa66,10,mg/L,concentration,10 mg/L,candidate
+val_9af8a2e44b77ce3f,ev_36796f3cc705d5bf,doc_d0cdc7dd1f1baa66,20,mg/L,concentration,20 mg/L,candidate
+val_0f120597d0b3c330,ev_2aa0c9806b034c1c,doc_d0cdc7dd1f1baa66,100,μm,geometry,100μm,candidate
+val_45fb5016f7e94bbe,ev_2aa0c9806b034c1c,doc_d0cdc7dd1f1baa66,50,μm,geometry,50μm,candidate
+val_ed5da0e596fa8fb2,ev_2aa0c9806b034c1c,doc_d0cdc7dd1f1baa66,90,%,percentage,90%,candidate
+val_50ae44c4b5d7727d,ev_4965c7d5e910ec37,doc_d0cdc7dd1f1baa66,7,nm,geometry,7nm,candidate
+val_c540ca51e7da8321,ev_2e38885808395f4e,doc_f26773ae580236d3,20,ppm,concentration,20 ppm,candidate
+val_35c8e023c39a3b2c,ev_2e38885808395f4e,doc_f26773ae580236d3,3.9,nm,geometry,3.9 nm,candidate
+val_f7c6ee4106d9bc7f,ev_18d31d36aac5daec,doc_0108761933b3809f,10,nm,geometry,10 nm,candidate
+val_b03341f321cb6ada,ev_16a050a4df3b4dde,doc_0108761933b3809f,5,mm,geometry,5 mm,candidate
+val_e74298d1ee6d7305,ev_16a050a4df3b4dde,doc_0108761933b3809f,1600,rpm,rotation,1600 rpm,candidate
+val_090edf2f736fed4c,ev_16a050a4df3b4dde,doc_0108761933b3809f,100,rpm,rotation,100 rpm,candidate
+val_70ead538391e7962,ev_16a050a4df3b4dde,doc_0108761933b3809f,-1.6,V,potential,−1.6 V,candidate
+val_47fb70b6496d6dfd,ev_16a050a4df3b4dde,doc_0108761933b3809f,0.02,V,potential,0.02 V,candidate
+val_0e6603dda32c9d20,ev_16a050a4df3b4dde,doc_0108761933b3809f,300,s,time,300 s,candidate
+val_11331545d6b05cdb,ev_16a050a4df3b4dde,doc_0108761933b3809f,1000,rpm,rotation,1000 rpm,candidate
+val_67f3fd0e4e4a1980,ev_16a050a4df3b4dde,doc_0108761933b3809f,-0.15,V,potential,−0.15 V,candidate
+val_0696eb73ccf76516,ev_d3ccb81aed9c9d5d,doc_0108761933b3809f,50,ppm,concentration,50 ppm,candidate
+val_046cb43c6191e48b,ev_d3ccb81aed9c9d5d,doc_0108761933b3809f,14,ppm,concentration,14 ppm,candidate
+val_8a094dc44f5daab8,ev_d3ccb81aed9c9d5d,doc_0108761933b3809f,0.005,g/L,concentration,0.005 g/L,candidate
+val_e40eab4f9343c80f,ev_d3ccb81aed9c9d5d,doc_0108761933b3809f,9,ppm,concentration,9-15 ppm,candidate
+val_fcf38abb9c8cea4d,ev_d3ccb81aed9c9d5d,doc_0108761933b3809f,2,h,time,2 h,candidate
+val_cbc6bf7063f67b90,ev_d3ccb81aed9c9d5d,doc_0108761933b3809f,5,h,time,5 h,candidate
+val_43e9def72ff1fc1b,ev_d3ccb81aed9c9d5d,doc_0108761933b3809f,1,mol/L,concentration,1 mol/L,candidate
+val_800cc1de1ef48ac8,ev_d3ccb81aed9c9d5d,doc_0108761933b3809f,3,min,time,3 min,candidate
+val_acae64709b73f163,ev_ace3739e66cb812c,doc_0108761933b3809f,100,rpm,rotation,100 rpm,candidate
+val_404585c46bd5aa37,ev_ace3739e66cb812c,doc_0108761933b3809f,1600,rpm,rotation,1600 rpm,candidate
+val_806b8c11f3de6fc2,ev_ace3739e66cb812c,doc_0108761933b3809f,1,ppm,concentration,1 ppm,candidate
+val_dc606705199beb5a,ev_ace3739e66cb812c,doc_0108761933b3809f,13,ppm,concentration,13 ppm,candidate
+val_110fd73f036d439a,ev_0c9b042f1fa6aa2a,doc_0108761933b3809f,-1.367,V,potential,−1.367 V,candidate
+val_cd69396d6bc7e759,ev_0c9b042f1fa6aa2a,doc_0108761933b3809f,-1.396,V,potential,−1.396 V,candidate
+val_99f93b8a0849dfea,ev_0c9b042f1fa6aa2a,doc_0108761933b3809f,100,rpm,rotation,100 rpm,candidate
+val_dd16262fa04adbe5,ev_0c9b042f1fa6aa2a,doc_0108761933b3809f,1600,rpm,rotation,1600 rpm,candidate
+val_7ae1513927203218,ev_0c9b042f1fa6aa2a,doc_0108761933b3809f,29,mV,potential,29 mV,candidate
+val_f5a9c56937b84f9a,ev_c40a3a2c5ccc55db,doc_0108761933b3809f,0,V,potential,0 V,candidate
+val_22d519818bb0fe8e,ev_c40a3a2c5ccc55db,doc_0108761933b3809f,-1.2,V,potential,−1.2 V,candidate
+val_c0c4480ab98fdb4b,ev_c40a3a2c5ccc55db,doc_0108761933b3809f,-1.3,V,potential,−1.3 V,candidate
+val_34aaf44475213906,ev_c40a3a2c5ccc55db,doc_0108761933b3809f,1143,cm,geometry,1143cm,candidate
+val_5930ee1860e210b3,ev_3267bbb3161031ff,doc_0108761933b3809f,125,μm,geometry,125 μm,candidate
+val_f7dd9440dffbac63,ev_3267bbb3161031ff,doc_0108761933b3809f,14,ppm,concentration,14 ppm,candidate
+val_a78aef824a9576e8,ev_3267bbb3161031ff,doc_0108761933b3809f,13,ppm,concentration,13 ppm,candidate
+val_f6d78308ca470c35,ev_3267bbb3161031ff,doc_0108761933b3809f,100,μm,geometry,100 µm,candidate
+val_d1d5c408e1f1e7f7,ev_3267bbb3161031ff,doc_0108761933b3809f,120,μm,geometry,120 µm,candidate
+val_7db768318be637c1,ev_3267bbb3161031ff,doc_0108761933b3809f,8,h,time,8–10 h,candidate
+val_1758add13d27beab,ev_3267bbb3161031ff,doc_0108761933b3809f,30,μm,geometry,30 µm,candidate
+val_614dac8c59e836b1,ev_0bedcf2dc1478bdb,doc_0108761933b3809f,125,μm,geometry,125 μm,candidate
+val_ac5627969c37f1df,ev_0bedcf2dc1478bdb,doc_0108761933b3809f,14,ppm,concentration,14 ppm,candidate
+val_dabe4300d69bf253,ev_0bedcf2dc1478bdb,doc_0108761933b3809f,13,ppm,concentration,13 ppm,candidate
+val_4bf07dd89f75bb5a,ev_0bedcf2dc1478bdb,doc_0108761933b3809f,0,h,time,0 h,candidate
+val_90074515f25cfa6c,ev_0bedcf2dc1478bdb,doc_0108761933b3809f,1,h,time,1 h,candidate
+val_9ee97f332c6a5080,ev_0bedcf2dc1478bdb,doc_0108761933b3809f,2,h,time,2 h,candidate
+val_bca2b67995ff3694,ev_0bedcf2dc1478bdb,doc_0108761933b3809f,5,h,time,5 h,candidate
+val_e001b869dc0ab653,ev_961da53009164abe,doc_0108761933b3809f,100,μm,geometry,100 μm,candidate
+val_f299dbbe12d80a1d,ev_961da53009164abe,doc_0108761933b3809f,125,μm,geometry,125 μm,candidate
+val_6248f8b3750469f4,ev_961da53009164abe,doc_0108761933b3809f,14,ppm,concentration,14 ppm,candidate
+val_876a3d1304d0b350,ev_961da53009164abe,doc_0108761933b3809f,13,ppm,concentration,13 ppm,candidate
+val_ce620fafa7740c26,ev_961da53009164abe,doc_0108761933b3809f,0,h,time,0 h,candidate
+val_3ccdf2967d0b47df,ev_961da53009164abe,doc_0108761933b3809f,1,h,time,1 h,candidate
+val_6fca4020f946f1f0,ev_961da53009164abe,doc_0108761933b3809f,2,h,time,2 h,candidate
+val_f6380bb61c2f12c7,ev_961da53009164abe,doc_0108761933b3809f,5,h,time,5 h,candidate
+val_8fba23eef66fe218,ev_d07ca1dac0be00b5,doc_0108761933b3809f,3,h,time,3–5 h,candidate
+val_b02abddba298ae12,ev_98f5934e66809c2c,doc_0108761933b3809f,-1.1,V,potential,−1.1 V,candidate
+val_d2fa182d0e715aec,ev_98f5934e66809c2c,doc_0108761933b3809f,-1.5,V,potential,−1.5 V,candidate
+val_1e5ce24be1da06a4,ev_98f5934e66809c2c,doc_0108761933b3809f,1600,rpm,rotation,1600 rpm,candidate
+val_fed0d2278a6de663,ev_98f5934e66809c2c,doc_0108761933b3809f,100,rpm,rotation,100 rpm,candidate
+val_5dde7d35cd3edd10,ev_98f5934e66809c2c,doc_0108761933b3809f,-1.2,V,potential,−1.2 V,candidate
+val_d94b47b9d79b2967,ev_98f5934e66809c2c,doc_0108761933b3809f,2,s,time,2–3 s,candidate
+val_bb41520973311019,ev_98f5934e66809c2c,doc_0108761933b3809f,-1.25,V,potential,−1.25 V,candidate
+val_a8652a51ef669bd1,ev_98f5934e66809c2c,doc_0108761933b3809f,1.3,V,potential,1.3 V,candidate
+val_e2aabb4d56bed102,ev_98f5934e66809c2c,doc_0108761933b3809f,-1.3,V,potential,−1.3 V,candidate
+val_28f73cfdb9466d0d,ev_6389fff4f1e26249,doc_0108761933b3809f,-1.25,V,potential,−1.25 V,candidate
+val_23b6070a383c5f3e,ev_6389fff4f1e26249,doc_0108761933b3809f,-1.3,V,potential,−1.3 V,candidate
+val_61ec04fd3db36101,ev_6389fff4f1e26249,doc_0108761933b3809f,-1.35,V,potential,−1.35 V,candidate
+val_5693aaabf88aaf3c,ev_6389fff4f1e26249,doc_0108761933b3809f,-1.5,V,potential,−1.5 V,candidate
+val_308b027da770d239,ev_6389fff4f1e26249,doc_0108761933b3809f,1600,rpm,rotation,1600 rpm,candidate
+val_eb7da2778607120e,ev_6389fff4f1e26249,doc_0108761933b3809f,100,rpm,rotation,100 rpm,candidate
+val_1ca460a14b340d6d,ev_c768f70c352f3991,doc_0108761933b3809f,14,ppm,concentration,14 ppm,candidate
+val_6ae55786ea981387,ev_c768f70c352f3991,doc_0108761933b3809f,13,ppm,concentration,13 ppm,candidate
+val_25eb9b7b28319010,ev_c83fae6416dbc81b,doc_d00535a667f26b68,10,nm,geometry,10 nm,candidate
+val_a8ea62d4e3df0b7b,ev_c83fae6416dbc81b,doc_d00535a667f26b68,4.58,nm,geometry,4.58 nm,candidate
+val_d7b852e0c32f8df0,ev_0c6ebb038bb5f6dd,doc_d00535a667f26b68,60,%,percentage,60%,candidate
+val_96f26a97a5740362,ev_0c6ebb038bb5f6dd,doc_d00535a667f26b68,20,%,percentage,20%,candidate
+val_00267aabb8484462,ev_37f9f698847a63d9,doc_d00535a667f26b68,500,nm,geometry,500 nm,candidate
+val_a385063ed30da45b,ev_37f9f698847a63d9,doc_d00535a667f26b68,99.99,%,percentage,99.99%,candidate
+val_8a4cd648f71c95c6,ev_37f9f698847a63d9,doc_d00535a667f26b68,500,rpm,rotation,500 rpm,candidate
+val_f064d5374386e509,ev_37f9f698847a63d9,doc_d00535a667f26b68,10,min,time,10 min,candidate
+val_6f4e725f366420fb,ev_20cf83b1d554f0d9,doc_d00535a667f26b68,50,ppm,concentration,50 ppm,candidate
+val_4cf419f811e70d1c,ev_20cf83b1d554f0d9,doc_d00535a667f26b68,119,mV,potential,119 mV,candidate
+val_80f152c3a2945465,ev_f9349e0643f8985f,doc_d00535a667f26b68,20,ppm,concentration,20 ppm,candidate
+val_99073806625d129e,ev_f9349e0643f8985f,doc_d00535a667f26b68,10,ppm,concentration,10 ppm,candidate
+val_90be21eeda3b6993,ev_f9349e0643f8985f,doc_d00535a667f26b68,50,ppm,concentration,50 ppm,candidate
+val_e10f42256fa9652b,ev_21aee5c4655e4096,doc_d00535a667f26b68,9.95,nm,geometry,9.95 nm,candidate
+val_fb0d1124e8c72f2e,ev_21aee5c4655e4096,doc_d00535a667f26b68,4.58,nm,geometry,4.58 nm,candidate
+val_9fcef597ada14ca4,ev_21aee5c4655e4096,doc_d00535a667f26b68,8.38,nm,geometry,8.38 nm,candidate
+val_e930e0f762b4bc94,ev_c7160eccf87f7e43,doc_d00535a667f26b68,20,ppm,concentration,20 ppm,candidate
+val_a1239c88f542b224,ev_c7160eccf87f7e43,doc_d00535a667f26b68,10,ppm,concentration,10 ppm,candidate
+val_a541f24c06478215,ev_c7160eccf87f7e43,doc_d00535a667f26b68,50,ppm,concentration,50 ppm,candidate
+val_df24a704e01bdd3e,ev_65bf11e633afb9c4,doc_d00535a667f26b68,69.4,nm,geometry,69.4 nm,candidate
+val_a92d69ae1e4a37a9,ev_65bf11e633afb9c4,doc_d00535a667f26b68,10,nm,geometry,10 nm,candidate
+val_c566a6acb87b93d4,ev_65bf11e633afb9c4,doc_d00535a667f26b68,4.58,nm,geometry,4.58 nm,candidate
+val_87dc0e0db2f7a3c0,ev_eed0a1ff9101fe2e,doc_d00535a667f26b68,20,ppm,concentration,20 ppm,candidate
+val_6ddf51453936e17d,ev_eed0a1ff9101fe2e,doc_d00535a667f26b68,10,ppm,concentration,10 ppm,candidate
+val_375bf20f00d54fff,ev_eed0a1ff9101fe2e,doc_d00535a667f26b68,50,ppm,concentration,50 ppm,candidate
+val_96e113445d7713d5,ev_449138d271bd95a7,doc_53768851a2c1dc97,30,mm,geometry,30-60 mM,candidate
+val_ed5b7fa5a17691da,ev_91e55e786c731021,doc_81731ce36fa294f0,10,mm,geometry,10 mM,candidate
+val_9d85071358c9648e,ev_91e55e786c731021,doc_81731ce36fa294f0,20,ppm,concentration,20 ppm,candidate
+val_49e1896399e57adb,ev_91e55e786c731021,doc_81731ce36fa294f0,10,ppm,concentration,10 ppm,candidate
+val_f8fd3df7bb14bf14,ev_91e55e786c731021,doc_81731ce36fa294f0,298,K,temperature,298 K,candidate
+val_1e6112408079152e,ev_91e55e786c731021,doc_81731ce36fa294f0,500,rpm,rotation,500 rpm,candidate
+val_02188ba476e68e7c,ev_91e55e786c731021,doc_81731ce36fa294f0,99.99,%,percentage,99.99%,candidate
+val_d02b0eeb082a2c80,ev_91e55e786c731021,doc_81731ce36fa294f0,100,μm,geometry,100 μm,candidate
+val_636d3e69850ef30a,ev_91e55e786c731021,doc_81731ce36fa294f0,150,μm,geometry,150 μm,candidate
+val_480df3ce655b6511,ev_91e55e786c731021,doc_81731ce36fa294f0,5,min,time,5 min,candidate
+val_b1d658c5d784722f,ev_91e55e786c731021,doc_81731ce36fa294f0,10,%,percentage,10%,candidate
+val_1450f95d96979f72,ev_536c0a477f0cbc91,doc_81731ce36fa294f0,10,ppm,concentration,10ppm,candidate
+val_894efec26e9271bf,ev_536c0a477f0cbc91,doc_81731ce36fa294f0,0,rpm,rotation,0 rpm,candidate
+val_92a7fbe3b9f9ba3a,ev_536c0a477f0cbc91,doc_81731ce36fa294f0,800,rpm,rotation,800 rpm,candidate
+val_26ce51dd37593a9b,ev_536c0a477f0cbc91,doc_81731ce36fa294f0,-1.24,V,potential,−1.24 V,candidate
+val_e3d62e708482028b,ev_536c0a477f0cbc91,doc_81731ce36fa294f0,-1.31,V,potential,−1.31 V,candidate
+val_c1b25e1945aa1713,ev_536c0a477f0cbc91,doc_81731ce36fa294f0,-1.26,V,potential,−1.26 V,candidate
+val_992be73eccb85dca,ev_536c0a477f0cbc91,doc_81731ce36fa294f0,-1.15,V,potential,−1.15 V,candidate
+val_4667293b18152502,ev_0695f19ea5b7022a,doc_81731ce36fa294f0,2,ppm,concentration,2 ppm,candidate
+val_e9591c938d05bd41,ev_0695f19ea5b7022a,doc_81731ce36fa294f0,-1.40,V,potential,−1.40 V,candidate
+val_09c0d21e8ebd574c,ev_0695f19ea5b7022a,doc_81731ce36fa294f0,20,ppm,concentration,20 ppm,candidate
+val_b7714262933c1810,ev_0695f19ea5b7022a,doc_81731ce36fa294f0,10,ppm,concentration,10 ppm,candidate
+val_54c4ac0a9828706d,ev_16f73c199d0c3a1d,doc_81731ce36fa294f0,-1.14,V,potential,−1.14 V,candidate
+val_8183e166ad4cb892,ev_89eb8d267351ec6c,doc_81731ce36fa294f0,-1.0,V,potential,−1.0 V,candidate
+val_15a112e922d66f5a,ev_89eb8d267351ec6c,doc_81731ce36fa294f0,2,ppm,concentration,2 ppm,candidate
+val_98faf3c2c967ffe4,ev_eb20346228cb3000,doc_81731ce36fa294f0,-1.19,V,potential,−1.19 V,candidate
+val_776727b59fcf7837,ev_eb20346228cb3000,doc_81731ce36fa294f0,-1.22,V,potential,−1.22 V,candidate
+val_0198cc7feb6fdfab,ev_eb20346228cb3000,doc_81731ce36fa294f0,-1.20,V,potential,−1.20 V,candidate
+val_75a551c2ba655b4e,ev_d78266671d90401c,doc_81731ce36fa294f0,2,h,time,2 h,candidate
+val_66ca234b1b9acd7f,ev_d78266671d90401c,doc_81731ce36fa294f0,1.19,V,potential,1.19 V,candidate
+val_541a5e31ac7e5873,ev_d78266671d90401c,doc_81731ce36fa294f0,1.20,V,potential,1.20 V,candidate
+val_d8fa63495a5f0eb8,ev_d78266671d90401c,doc_81731ce36fa294f0,1.22,V,potential,1.22 V,candidate
+val_dea3baf139da262f,ev_d78266671d90401c,doc_81731ce36fa294f0,20,ppm,concentration,20 ppm,candidate
+val_d538415708693a9b,ev_d78266671d90401c,doc_81731ce36fa294f0,10,ppm,concentration,10 ppm,candidate
+val_09e2570dffb03acd,ev_ed99a872781a6d74,doc_81731ce36fa294f0,-1.20,V,potential,−1.20 V,candidate
+val_7e895caecb7f76eb,ev_ed99a872781a6d74,doc_81731ce36fa294f0,10,mm,geometry,10 mM,candidate
+val_73f10702327f69cd,ev_ed99a872781a6d74,doc_81731ce36fa294f0,20,ppm,concentration,20 ppm,candidate
+val_0d0f5314587a3298,ev_ed99a872781a6d74,doc_81731ce36fa294f0,10,ppm,concentration,10 ppm,candidate
+val_886a9b6321507a39,ev_9f43e274d6a2cf61,doc_81731ce36fa294f0,-1.20,V,potential,−1.20 V,candidate
+val_c53125bc5428af66,ev_9f43e274d6a2cf61,doc_81731ce36fa294f0,1,h,time,1 h,candidate
+val_1f8b838b078c1b69,ev_9f43e274d6a2cf61,doc_81731ce36fa294f0,2,h,time,2 h,candidate
+val_fa494d8835a93a7f,ev_9f43e274d6a2cf61,doc_81731ce36fa294f0,4,h,time,4 h,candidate
+val_3fe2b11666e97b8f,ev_9f43e274d6a2cf61,doc_81731ce36fa294f0,8,h,time,8 h,candidate
+val_e9d30995002a2065,ev_9f43e274d6a2cf61,doc_81731ce36fa294f0,16,h,time,16 h,candidate
+val_774bae0f8ec2e49e,ev_9f43e274d6a2cf61,doc_81731ce36fa294f0,10,mm,geometry,10 mM,candidate
+val_b42077e36c0ea3c5,ev_9f43e274d6a2cf61,doc_81731ce36fa294f0,20,ppm,concentration,20 ppm,candidate
+val_ff9f7fddcb901636,ev_9f43e274d6a2cf61,doc_81731ce36fa294f0,10,ppm,concentration,10 ppm,candidate
+val_5f84aaac7f3cbdeb,ev_e7da88b4738e84b7,doc_c76517f24e629b55,15.9,μm,geometry,15.9 μm,candidate
+val_97c7962bb468a37b,ev_e7da88b4738e84b7,doc_c76517f24e629b55,8.8,μm,geometry,8.8 μm,candidate
+val_c57b05f6a6f74fd7,ev_e7da88b4738e84b7,doc_c76517f24e629b55,4.9,μm,geometry,4.9 μm,candidate
+val_60859effc965d62c,ev_51175773b5d3122e,doc_c76517f24e629b55,7,h,time,7H,candidate
+val_5ae6147377ac7b17,ev_26a5da4a3ab7df67,doc_c76517f24e629b55,5,mV,potential,5 mV,candidate
+val_3bcbc06ccc0ab853,ev_26a5da4a3ab7df67,doc_c76517f24e629b55,1000,rpm,rotation,1000 rpm,candidate
+val_40ba7f71691c7de8,ev_26a5da4a3ab7df67,doc_c76517f24e629b55,60,s,time,60 s,candidate
+val_464d032c2f3f5290,ev_26a5da4a3ab7df67,doc_c76517f24e629b55,7,h,time,7 H,candidate
+val_203e85691338549e,ev_26a5da4a3ab7df67,doc_c76517f24e629b55,-1.2,V,potential,−1.2 V,candidate
+val_fadcc1f19b77e8e6,ev_1b950d2996684196,doc_c76517f24e629b55,0.4,mol/L,concentration,0.4 mol/L,candidate
+val_20adae2314563090,ev_1b950d2996684196,doc_c76517f24e629b55,7,h,time,7H,candidate
+val_d18ce789c8fd551e,ev_1b950d2996684196,doc_c76517f24e629b55,0.5,mol/L,concentration,0.5 mol/L,candidate
+val_d123cc369b217ef8,ev_1b950d2996684196,doc_c76517f24e629b55,6,mg/L,concentration,6 mg/L,candidate
+val_080751353ccb9bce,ev_1b950d2996684196,doc_c76517f24e629b55,150,μm,geometry,150 μm,candidate
+val_ddfad1178e1ab468,ev_1b950d2996684196,doc_c76517f24e629b55,100,μm,geometry,100 μm,candidate
+val_21e3635aee553d59,ev_1b950d2996684196,doc_c76517f24e629b55,50,μm,geometry,50 μm,candidate
+val_2a88887c4355326c,ev_1b950d2996684196,doc_c76517f24e629b55,1,min,time,1 min,candidate
+val_eaf0b64c7b6bb7d1,ev_76859c07b089fc7a,doc_c76517f24e629b55,-1.2,V,potential,−1.2 V,candidate
+val_1cdc8d108006c286,ev_76859c07b089fc7a,doc_c76517f24e629b55,10,min,time,10 min,candidate
+val_7035bb27990f8621,ev_76859c07b089fc7a,doc_c76517f24e629b55,0,mg/L,concentration,0 mg/L,candidate
+val_53ceaccd4134e9e1,ev_76859c07b089fc7a,doc_c76517f24e629b55,5,mg/L,concentration,5 mg/L,candidate
+val_1e950bc248f8b9f6,ev_76859c07b089fc7a,doc_c76517f24e629b55,10,mg/L,concentration,10 mg/L,candidate
+val_7c496f5e77094a55,ev_76859c07b089fc7a,doc_c76517f24e629b55,15,mg/L,concentration,15 mg/L,candidate
+val_714dbb7443d4a8ec,ev_76859c07b089fc7a,doc_c76517f24e629b55,6,mg/L,concentration,6 mg/L,candidate
+val_37138da2873cbdfb,ev_cee5e53832da28d4,doc_c76517f24e629b55,-1.180,V,potential,−1.180 V,candidate
+val_54b05d82dca1dca9,ev_cee5e53832da28d4,doc_c76517f24e629b55,0,mg/L,concentration,0 mg/L,candidate
+val_1ee14c6307a1676c,ev_cee5e53832da28d4,doc_c76517f24e629b55,35,mV,potential,35 mV,candidate
+val_65cfbc50345135f3,ev_cee5e53832da28d4,doc_c76517f24e629b55,5,mg/L,concentration,5 mg/L,candidate
+val_2dae0d5cdb1dc84b,ev_cee5e53832da28d4,doc_c76517f24e629b55,-1.215,V,potential,−1.215 V,candidate
+val_fa45c67e9bfd4648,ev_cee5e53832da28d4,doc_c76517f24e629b55,-1.250,V,potential,−1.250 V,candidate
+val_e9db4bb2847d8f23,ev_cee5e53832da28d4,doc_c76517f24e629b55,20,mg/L,concentration,20 mg/L,candidate
+val_de7218a1c755fb60,ev_d0f152cad9ccc6d0,doc_c76517f24e629b55,30.8,Ω,impedance,30.8 Ω,candidate
+val_c44d02c0f3a51a15,ev_d0f152cad9ccc6d0,doc_c76517f24e629b55,5,mg/L,concentration,5 mg/L,candidate
+val_33dc419252d54ef2,ev_d0f152cad9ccc6d0,doc_c76517f24e629b55,596.6,Ω,impedance,596.6 Ω,candidate
+val_842138ab374cec91,ev_d0f152cad9ccc6d0,doc_c76517f24e629b55,400.5,Ω,impedance,400.5 Ω,candidate
+val_4597be2b773b9403,ev_d0f152cad9ccc6d0,doc_c76517f24e629b55,15,mg/L,concentration,15 mg/L,candidate
+val_d25089f4121992d4,ev_d0f152cad9ccc6d0,doc_c76517f24e629b55,1250,Ω,impedance,1250 Ω,candidate
+val_c0eef63056201753,ev_c2a67ac7f4f1b593,doc_c76517f24e629b55,150,μm,geometry,150 μm,candidate
+val_87ce8d7269f631eb,ev_c2a67ac7f4f1b593,doc_c76517f24e629b55,100,μm,geometry,100 μm,candidate
+val_9e3e6b1b8c63db25,ev_c2a67ac7f4f1b593,doc_c76517f24e629b55,50,μm,geometry,50 μm,candidate
+val_a241ae66a60b8de3,ev_c2a67ac7f4f1b593,doc_c76517f24e629b55,-1.2,V,potential,−1.2 V,candidate
+val_51aa6d8dcb14188f,ev_c2a67ac7f4f1b593,doc_c76517f24e629b55,7,h,time,7H,candidate
+val_589908c48bd9482f,ev_c2a67ac7f4f1b593,doc_c76517f24e629b55,6,mg/L,concentration,6 mg/L,candidate
+val_681e4b78df9f665c,ev_c2a67ac7f4f1b593,doc_c76517f24e629b55,15,mg/L,concentration,15 mg/L,candidate
+val_d7222246ec385040,ev_423a1f79f217a8ba,doc_c76517f24e629b55,40,%,percentage,40 %,candidate
+val_c771b3fa6def663b,ev_423a1f79f217a8ba,doc_c76517f24e629b55,150,μm,geometry,150 μm,candidate
+val_0ebe1ed56acc3140,ev_423a1f79f217a8ba,doc_c76517f24e629b55,8,h,time,8h,candidate
+val_8eb1bf182de032b6,ev_423a1f79f217a8ba,doc_c76517f24e629b55,16,h,time,16 h,candidate
+val_ea60a3933668fc51,ev_423a1f79f217a8ba,doc_c76517f24e629b55,16,μm,geometry,16 μm,candidate
+val_86297770d9fac65f,ev_2ad4132cf825d172,doc_c76517f24e629b55,100,μm,geometry,100 μm,candidate
+val_033935fbeda5d4af,ev_2ad4132cf825d172,doc_c76517f24e629b55,50,μm,geometry,50 μm,candidate
+val_0611e722eb01515c,ev_2ad4132cf825d172,doc_c76517f24e629b55,6,h,time,6 h,candidate
+val_98aef80605e465c2,ev_2ad4132cf825d172,doc_c76517f24e629b55,12,h,time,12 h,candidate
+val_821c3a0b8e2e1cab,ev_2ad4132cf825d172,doc_c76517f24e629b55,4,h,time,4 h,candidate
+val_a9f32919688fd835,ev_2ad4132cf825d172,doc_c76517f24e629b55,8,h,time,8 h,candidate
+val_1342049627a888a7,ev_2ad4132cf825d172,doc_c76517f24e629b55,8.8,μm,geometry,8.8 μm,candidate
+val_61cf6661e010e06a,ev_2ad4132cf825d172,doc_c76517f24e629b55,4.9,μm,geometry,4.9 μm,candidate
+val_fa4e76d4382c532e,ev_3296cefb09bd32ed,doc_c76517f24e629b55,15.9,μm,geometry,15.9 μm,candidate
+val_289bd1daa2ef28b8,ev_3296cefb09bd32ed,doc_c76517f24e629b55,150,μm,geometry,150 μm,candidate
+val_a248d34575442280,ev_3296cefb09bd32ed,doc_c76517f24e629b55,8.8,μm,geometry,8.8 μm,candidate
+val_ce674b98d618a83c,ev_3296cefb09bd32ed,doc_c76517f24e629b55,100,μm,geometry,100 μm,candidate
+val_7d7ba80f5985108e,ev_3296cefb09bd32ed,doc_c76517f24e629b55,4.9,μm,geometry,4.9 μm,candidate
+val_5a7e298a5bdf0489,ev_3296cefb09bd32ed,doc_c76517f24e629b55,50,μm,geometry,50 μm,candidate
+val_46f341e5e49ce46a,ev_e47708182c59f73f,doc_15ea7ad971a4d81c,0.3,mg/L,concentration,0.3 mg/l,candidate
+val_c2e5c38651c0a10c,ev_02f7324e0c7b215b,doc_15ea7ad971a4d81c,200,nm,geometry,200–300 nm,candidate
+val_7c6b08409f235b07,ev_db4451d0c0cd697f,doc_81284dae509b2ecf,24,μm,geometry,24 μm,candidate
+val_1e8c0a698f0e589e,ev_db4451d0c0cd697f,doc_81284dae509b2ecf,45,μm,geometry,45 μm,candidate
+val_3fc1aae7b2b1107c,ev_db4451d0c0cd697f,doc_81284dae509b2ecf,75.4,%,percentage,75.4 %,candidate
+val_755d161429ba4636,ev_db4451d0c0cd697f,doc_81284dae509b2ecf,150,μm,geometry,150 μm,candidate
+val_4af47b945b42a115,ev_db4451d0c0cd697f,doc_81284dae509b2ecf,88.9,%,percentage,88.9 %,candidate
+val_a3ad1dc044b1de1b,ev_db4451d0c0cd697f,doc_81284dae509b2ecf,100,μm,geometry,100 μm,candidate
+val_fb451508dae31a69,ev_db4451d0c0cd697f,doc_81284dae509b2ecf,87.2,%,percentage,87.2 %,candidate
+val_eff373b2038851ea,ev_db4451d0c0cd697f,doc_81284dae509b2ecf,50,μm,geometry,50 μm,candidate
+val_03bcca6775ac432c,ev_8ef8fa9c7cfdbd3b,doc_81284dae509b2ecf,7,h,time,7 H,candidate
+val_57d40c8b1ecc17e5,ev_93cdd09950d9da2f,doc_81284dae509b2ecf,0.4,mol/L,concentration,0.4 mol/L,candidate
+val_7c950230be651aca,ev_93cdd09950d9da2f,doc_81284dae509b2ecf,0.5,mol/L,concentration,0.5 mol/L,candidate
+val_4f0c74787f8f21a4,ev_93cdd09950d9da2f,doc_81284dae509b2ecf,6,mg/L,concentration,6 mg/L,candidate
+val_2bcaff19c8ceaa67,ev_93cdd09950d9da2f,doc_81284dae509b2ecf,150,μm,geometry,150 μm,candidate
+val_f989872034cf9c77,ev_93cdd09950d9da2f,doc_81284dae509b2ecf,100,μm,geometry,100 μm,candidate
+val_4f468140787d5a17,ev_93cdd09950d9da2f,doc_81284dae509b2ecf,50,μm,geometry,50 μm,candidate
+val_e0a230ba641b25c9,ev_343006682b540012,doc_81284dae509b2ecf,-1.2,V,potential,−1.2 V,candidate
+val_b9dd7e4d0f2d8fa1,ev_343006682b540012,doc_81284dae509b2ecf,-1.4,V,potential,−1.4 V,candidate
+val_09c6dfebc5212ce2,ev_343006682b540012,doc_81284dae509b2ecf,0,mg/L,concentration,0 mg/L,candidate
+val_6c6b7967f2297001,ev_343006682b540012,doc_81284dae509b2ecf,20,mg/L,concentration,20 mg/L,candidate
+val_0ccb1a39181e642d,ev_d7f0c9c9fa2586f3,doc_81284dae509b2ecf,40,%,percentage,40%,candidate
+val_b88af948cc8413f1,ev_d7f0c9c9fa2586f3,doc_81284dae509b2ecf,60,%,percentage,60%,candidate
+val_c1490b9c10a721b5,ev_d7f0c9c9fa2586f3,doc_81284dae509b2ecf,15,mg/L,concentration,15 mg/L,candidate
+val_b6489492d4dcc457,ev_4a99869c98fe5c91,doc_81284dae509b2ecf,500,rpm,rotation,500 rpm,candidate
+val_3c5cf8a80a4351d6,ev_4a99869c98fe5c91,doc_81284dae509b2ecf,5,mV,potential,5 mV,candidate
+val_9de27e57b5d1aee0,ev_4a99869c98fe5c91,doc_81284dae509b2ecf,0,mg/L,concentration,0 mg/L,candidate
+val_6655e332a0344a24,ev_4a99869c98fe5c91,doc_81284dae509b2ecf,24,mg/L,concentration,24 mg/L,candidate
+val_2d13e3e631858392,ev_4a99869c98fe5c91,doc_81284dae509b2ecf,4,mol/L,concentration,4 mol/L,candidate
+val_d3d8b123738b85da,ev_4a99869c98fe5c91,doc_81284dae509b2ecf,0.5,mol/L,concentration,0.5 mol/L,candidate
+val_be7c28a43e6aa42e,ev_4a99869c98fe5c91,doc_81284dae509b2ecf,6,mg/L,concentration,6 mg/L,candidate
+val_955a9941e6a1b0a2,ev_7ca81c61e04ab1a0,doc_81284dae509b2ecf,107.5,Ω,impedance,107.5 Ω,candidate
+val_c85718397463bbdb,ev_7ca81c61e04ab1a0,doc_81284dae509b2ecf,374.1,Ω,impedance,374.1 Ω,candidate
+val_b5f6b19153fec76f,ev_7ca81c61e04ab1a0,doc_81284dae509b2ecf,0,mg/L,concentration,0 mg/L,candidate
+val_3f1bf577b5889ddb,ev_7ca81c61e04ab1a0,doc_81284dae509b2ecf,20,mg/L,concentration,20 mg/L,candidate
+val_428d480d2921803d,ev_0ab4b17c4c8ac32c,doc_81284dae509b2ecf,0,mg/L,concentration,0 mg/L,candidate
+val_89b64bfd690216d4,ev_0ab4b17c4c8ac32c,doc_81284dae509b2ecf,20,mg/L,concentration,20 mg/L,candidate
+val_1d4a43bfbbd9af3b,ev_a407b486f3b4e397,doc_81284dae509b2ecf,-1.25,V,potential,−1.25 V,candidate
+val_5080acc4af49d285,ev_a407b486f3b4e397,doc_81284dae509b2ecf,500,rpm,rotation,500 rpm,candidate
+val_b150123b87bbbc49,ev_a407b486f3b4e397,doc_81284dae509b2ecf,4,mol/L,concentration,4 mol/L,candidate
+val_9cbe400fea401c66,ev_a407b486f3b4e397,doc_81284dae509b2ecf,0.5,mol/L,concentration,0.5 mol/L,candidate
+val_f7b2460a119c6d0c,ev_a407b486f3b4e397,doc_81284dae509b2ecf,6,mg/L,concentration,6 mg/L,candidate
+val_e3ff5f5822108a06,ev_e0ba0d80e37993e8,doc_81284dae509b2ecf,1363,cm,geometry,1363 cm,candidate
+val_6d24a687d831f32b,ev_aa4b07573a48b238,doc_81284dae509b2ecf,5,mV,potential,5 mV,candidate
+val_1cf5989f92b6b028,ev_aa4b07573a48b238,doc_81284dae509b2ecf,4,mol/L,concentration,4 mol/L,candidate
+val_dd458e8d3c55494d,ev_aa4b07573a48b238,doc_81284dae509b2ecf,0.5,mol/L,concentration,0.5 mol/L,candidate
+val_2ffb5fa94b46bb2b,ev_aa4b07573a48b238,doc_81284dae509b2ecf,6,mg/L,concentration,6 mg/L,candidate
+val_dde53ab3e82345b7,ev_aa4b07573a48b238,doc_81284dae509b2ecf,40,mm,geometry,40 mM,candidate
+val_8fbb699c0a84fc1a,ev_aa4b07573a48b238,doc_81284dae509b2ecf,-1.9,V,potential,−1.9 V,candidate
+val_60d77a26554c1cd1,ev_d03377ab707f00f0,doc_81284dae509b2ecf,5,mV,potential,5 mV,candidate
+val_da4579557e23828a,ev_d03377ab707f00f0,doc_81284dae509b2ecf,4,mol/L,concentration,4 mol/L,candidate
+val_cb520d659562043f,ev_d03377ab707f00f0,doc_81284dae509b2ecf,0.5,mol/L,concentration,0.5 mol/L,candidate
+val_dae0a4a3bb5103c6,ev_d03377ab707f00f0,doc_81284dae509b2ecf,6,mg/L,concentration,6 mg/L,candidate
+val_403dcbfea199c214,ev_1372d9fb0e6d5675,doc_81284dae509b2ecf,-1.25,V,potential,−1.25 V,candidate
+val_49d26cdb6dad2a8a,ev_1372d9fb0e6d5675,doc_81284dae509b2ecf,60,s,time,60 s,candidate
+val_140838d92c98a597,ev_1372d9fb0e6d5675,doc_81284dae509b2ecf,4,mol/L,concentration,4 mol/L,candidate
+val_b69ddea8572bb1de,ev_1372d9fb0e6d5675,doc_81284dae509b2ecf,0.5,mol/L,concentration,0.5 mol/L,candidate
+val_5d65cb1919cb9ba6,ev_1372d9fb0e6d5675,doc_81284dae509b2ecf,6,mg/L,concentration,6 mg/L,candidate
+val_d92c677eb44c2e23,ev_1372d9fb0e6d5675,doc_81284dae509b2ecf,0,mg/L,concentration,0 mg/L,candidate
+val_56df22bfb98663c3,ev_1372d9fb0e6d5675,doc_81284dae509b2ecf,0,rpm,rotation,0 rpm,candidate
+val_784e61b7fa465b47,ev_1372d9fb0e6d5675,doc_81284dae509b2ecf,500,rpm,rotation,500 rpm,candidate
+val_7f4c5e423bd31a22,ev_1372d9fb0e6d5675,doc_81284dae509b2ecf,15,mg/L,concentration,15 mg/L,candidate
+val_4cf2a278174d7acb,ev_5401874bc5e2f07a,doc_81284dae509b2ecf,150,μm,geometry,150 μm,candidate
+val_8659535b25504463,ev_5401874bc5e2f07a,doc_81284dae509b2ecf,100,μm,geometry,100 μm,candidate
+val_83dd784e508d8a4b,ev_5401874bc5e2f07a,doc_81284dae509b2ecf,50,μm,geometry,50 μm,candidate
+val_3b09e29a705fcfee,ev_5401874bc5e2f07a,doc_81284dae509b2ecf,-1.25,V,potential,−1.25 V,candidate
+val_4f0ea190b8999f54,ev_5401874bc5e2f07a,doc_81284dae509b2ecf,7,h,time,7H,candidate
+val_4483cc68b88258c8,ev_5401874bc5e2f07a,doc_81284dae509b2ecf,15,mg/L,concentration,15 mg/L,candidate
+val_46dbe42f1ae597ea,ev_5401874bc5e2f07a,doc_81284dae509b2ecf,10,mg/L,concentration,10 mg/L,candidate
+val_9df1ea9f4ec8bd42,ev_61ab924b06a80277,doc_81284dae509b2ecf,150,μm,geometry,150 μm,candidate
+val_9bda0480153a4c37,ev_61ab924b06a80277,doc_81284dae509b2ecf,4,h,time,4 h,candidate
+val_9146112bde538177,ev_61ab924b06a80277,doc_81284dae509b2ecf,45.0,μm,geometry,45.0 μm,candidate
+val_f956f56a76bb797a,ev_61ab924b06a80277,doc_81284dae509b2ecf,75.4,%,percentage,75.4 %,candidate
+val_fc26921deb3af2c4,ev_61ab924b06a80277,doc_81284dae509b2ecf,10,h,time,10 h,candidate
+val_d372fb821c7f330b,ev_15053f15fe0b1440,doc_81284dae509b2ecf,8,h,time,8 h,candidate
+val_c61a0f32d8dce9d3,ev_15053f15fe0b1440,doc_81284dae509b2ecf,100,μm,geometry,100 μm,candidate
+val_5f6c313a3af5dc54,ev_15053f15fe0b1440,doc_81284dae509b2ecf,6,h,time,6 h,candidate
+val_921917cf68ca2640,ev_15053f15fe0b1440,doc_81284dae509b2ecf,50,μm,geometry,50 μm,candidate
+val_ac4011ca03e083e0,ev_15053f15fe0b1440,doc_81284dae509b2ecf,88.9,%,percentage,88.9 %,candidate
+val_804a51cc9a2bd867,ev_15053f15fe0b1440,doc_81284dae509b2ecf,87.2,%,percentage,87.2 %,candidate
+val_a9420106d85131c7,ev_15053f15fe0b1440,doc_81284dae509b2ecf,30.7,μm,geometry,30.7 μm,candidate
+val_3835247f029430f3,ev_15053f15fe0b1440,doc_81284dae509b2ecf,24.9,μm,geometry,24.9 μm,candidate
+val_4dddfa8ddf4f3725,ev_06cd1a99d43e1048,doc_81284dae509b2ecf,150,μm,geometry,150 μm,candidate
+val_bae40be5b490bd60,ev_06cd1a99d43e1048,doc_81284dae509b2ecf,100,μm,geometry,100 μm,candidate
+val_703f0b2b1ed1e6b3,ev_06cd1a99d43e1048,doc_81284dae509b2ecf,50,μm,geometry,50 μm,candidate
+val_90fa7254cd71da35,ev_06cd1a99d43e1048,doc_81284dae509b2ecf,45.0,μm,geometry,45.0 μm,candidate
+val_0aa68fe3a6955c0f,ev_06cd1a99d43e1048,doc_81284dae509b2ecf,30.7,μm,geometry,30.7 μm,candidate
+val_82067f19f19eaa68,ev_06cd1a99d43e1048,doc_81284dae509b2ecf,24.9,μm,geometry,24.9 μm,candidate
+val_1635b9b2d61d4abf,ev_06cd1a99d43e1048,doc_81284dae509b2ecf,75.4,%,percentage,75.4 %,candidate
+val_10686ef878c1de54,ev_06cd1a99d43e1048,doc_81284dae509b2ecf,88.9,%,percentage,88.9 %,candidate
+val_6fb201e7bb25ba3a,ev_06cd1a99d43e1048,doc_81284dae509b2ecf,87.2,%,percentage,87.2 %,candidate
+val_99fa4949f2352b4f,ev_6045b796f7de66f8,doc_6ffd6e15724d1c5e,7,h,time,7 H,candidate
+val_3a0673c49b728f02,ev_e5c6a5cdf1071b92,doc_6ffd6e15724d1c5e,99.99,%,percentage,99.99%,candidate
+val_5e6f0d2b118595df,ev_e5c6a5cdf1071b92,doc_6ffd6e15724d1c5e,1.5,cm,geometry,1.5 cm,candidate
+val_bfa7fe9276d2b49d,ev_e5c6a5cdf1071b92,doc_6ffd6e15724d1c5e,500,nm,geometry,500 nm,candidate
+val_d952eaadc17cbdfe,ev_e5c6a5cdf1071b92,doc_6ffd6e15724d1c5e,500,rpm,rotation,500 rpm,candidate
+val_f492876185879994,ev_e5c6a5cdf1071b92,doc_6ffd6e15724d1c5e,10,min,time,10 min,candidate
+val_51088d7faeb43154,ev_e5c6a5cdf1071b92,doc_6ffd6e15724d1c5e,100,nm,geometry,100 nm,candidate
+val_62b4108e8df2dd2f,ev_54efedf5eb8134ff,doc_6ffd6e15724d1c5e,100,ppm,concentration,100 ppm,candidate
+val_3943f0e2975750d8,ev_0aeb85b57340d82a,doc_6ffd6e15724d1c5e,100,rpm,rotation,100 rpm,candidate
+val_28a414168aa760b1,ev_0aeb85b57340d82a,doc_6ffd6e15724d1c5e,1000,rpm,rotation,1000 rpm,candidate
+val_d3f1defaf572c88b,ev_4b84e4c0f15f4b69,doc_6ffd6e15724d1c5e,5,ppm,concentration,5 ppm,candidate
+val_5026b985e11b09c1,ev_44eb98f171f5e5bb,doc_6ffd6e15724d1c5e,5,ppm,concentration,5 ppm,candidate
+val_c244597d8493cfbd,ev_dbed387e7e7ef869,doc_6ffd6e15724d1c5e,5,ppm,concentration,5ppm,candidate
+val_f89d6517d174d820,ev_2808ff465bb6cad7,doc_c40c87ed5452cdc2,3,μm,geometry,3 µm,candidate
+val_312c7d4c7b854ef2,ev_2808ff465bb6cad7,doc_c40c87ed5452cdc2,1,μm,geometry,1 µm,candidate
+val_a8a5ca99d6d85f6d,ev_2808ff465bb6cad7,doc_c40c87ed5452cdc2,56.5,min,time,56.5 min,candidate
+val_57cb223a36db8386,ev_2808ff465bb6cad7,doc_c40c87ed5452cdc2,-1.0,V,potential,−1.0 V,candidate
+val_8c70c99eaa15db36,ev_fa5df1bac4147a1d,doc_c40c87ed5452cdc2,0,V,potential,0 V,candidate
+val_ba95b13e3b2697ee,ev_fa5df1bac4147a1d,doc_c40c87ed5452cdc2,-1,V,potential,−1 V,candidate
+val_ad84e4f624b1b67d,ev_fa5df1bac4147a1d,doc_c40c87ed5452cdc2,-0.795,V,potential,−0.795 V,candidate
+val_295db3110bcfec5b,ev_fa5df1bac4147a1d,doc_c40c87ed5452cdc2,-0.838,V,potential,−0.838 V,candidate
+val_f8de6f2e6a68a4e3,ev_fa5df1bac4147a1d,doc_c40c87ed5452cdc2,-0.862,V,potential,−0.862 V,candidate
+val_075e237a24799c83,ev_30bef1d3bff39706,doc_c40c87ed5452cdc2,3,h,time,3h,candidate
+val_bcd39267de896580,ev_5cd09478f9f03a23,doc_c40c87ed5452cdc2,100,nm,geometry,100 nm,candidate
+val_4f733e61de63c906,ev_e88d7e11c5dd1bd2,doc_50a8fad705615a46,7,nm,geometry,7 nm,candidate
+val_81898debf6a05f49,ev_e88d7e11c5dd1bd2,doc_50a8fad705615a46,2,nm,geometry,2 nm,candidate
+val_75b6d61d655c40ff,ev_a2b1cedda744d7b4,doc_50a8fad705615a46,25,mm,geometry,25 mm,candidate
+val_7d1130d7d9571972,ev_a2b1cedda744d7b4,doc_50a8fad705615a46,40,mm,geometry,40 mm,candidate
+val_429287358092ed27,ev_a2b1cedda744d7b4,doc_50a8fad705615a46,99,%,percentage,99%,candidate
+val_7a140cfffb4e411c,ev_a2b1cedda744d7b4,doc_50a8fad705615a46,85,%,percentage,85%,candidate
+val_b04f488a69e3d295,ev_a2b1cedda744d7b4,doc_50a8fad705615a46,98,%,percentage,98%,candidate
+val_d1743783e759ee2e,ev_a2b1cedda744d7b4,doc_50a8fad705615a46,2,h,time,2 h,candidate
+val_e267a3a468df01ca,ev_a2b1cedda744d7b4,doc_50a8fad705615a46,65,°C,temperature,65 °C,candidate
+val_d19e81fe24887744,ev_a2b1cedda744d7b4,doc_50a8fad705615a46,96,%,percentage,96%,candidate
+val_301e781f82b12fef,ev_a2b1cedda744d7b4,doc_50a8fad705615a46,300,°C,temperature,300 °C,candidate
+val_67468cb0877678e8,ev_a2b1cedda744d7b4,doc_50a8fad705615a46,60,min,time,60 min,candidate
+val_4db81dc3dd983b52,ev_4bc5868cf965123a,doc_50a8fad705615a46,5.0,mm,geometry,5.0 mm,candidate
+val_be582a8a9bbf7e7d,ev_bc114cd42b0e2906,doc_50a8fad705615a46,30,min,time,30 min,candidate
+val_4bbf51781896a3e5,ev_bc114cd42b0e2906,doc_50a8fad705615a46,60,min,time,60 min,candidate
+val_3e1c37e0cc390bb8,ev_bc114cd42b0e2906,doc_50a8fad705615a46,90,min,time,90 min,candidate
+val_0ad085eca729cb7d,ev_bc114cd42b0e2906,doc_50a8fad705615a46,120,min,time,120 min,candidate
+val_b22f8a274b26c7eb,ev_8f83888423a5da2a,doc_50a8fad705615a46,60,min,time,60 minutes,candidate
+val_fa88e5fe7fad2910,ev_922ee3c69bf6a535,doc_50a8fad705615a46,5.05,μm,geometry,5.05 µm,candidate
+val_93350be38d52d382,ev_922ee3c69bf6a535,doc_50a8fad705615a46,4.31,μm,geometry,4.31 µm,candidate
+val_5b34e281f2c8396c,ev_922ee3c69bf6a535,doc_50a8fad705615a46,2.58,μm,geometry,2.58 µm,candidate
+val_43b5ede062630a5c,ev_922ee3c69bf6a535,doc_50a8fad705615a46,0.68,V,potential,0.68 V,candidate
+val_2a814e0f259e3f7c,ev_922ee3c69bf6a535,doc_50a8fad705615a46,0.95,V,potential,0.95 V,candidate
+val_a3cabe946d399939,ev_4d608befb6d08d34,doc_50a8fad705615a46,30,min,time,30 minutes,candidate
+val_0e14f2c3898f2b9e,ev_562798eaa73ba226,doc_68c8cb490bc6794f,0.3,mol/L,concentration,0.3 mol/L,candidate
+val_88437c68bdcc178a,ev_562798eaa73ba226,doc_68c8cb490bc6794f,0.84,mmol/L,concentration,0.84 mmol/L,candidate
+val_0d3a410807242e07,ev_562798eaa73ba226,doc_68c8cb490bc6794f,7,h,time,7 H,candidate
+val_dc2011ba5b66d538,ev_562798eaa73ba226,doc_68c8cb490bc6794f,100,mm,geometry,100 mm,candidate
+val_956965687fdb9714,ev_562798eaa73ba226,doc_68c8cb490bc6794f,500,nm,geometry,500 nm,candidate
+val_8340f99d89b7c1c6,ev_cebf003cd9b71429,doc_68c8cb490bc6794f,5,mg/L,concentration,5 mg/L,candidate
+val_229094d0981f9a6d,ev_cebf003cd9b71429,doc_68c8cb490bc6794f,80,mV,potential,80 mV,candidate
+val_3d1ba9867e1a1704,ev_cebf003cd9b71429,doc_68c8cb490bc6794f,0.36,V,potential,0.36 V,candidate
+val_bb12fb2f2cad181c,ev_cebf003cd9b71429,doc_68c8cb490bc6794f,0.44,V,potential,0.44 V,candidate
+val_597d181ddd4c3652,ev_fa524e3cadca7f57,doc_68c8cb490bc6794f,15,mg/L,concentration,15 mg/L,candidate
+val_cc659184e7a0c1e8,ev_fa524e3cadca7f57,doc_68c8cb490bc6794f,81,mg/L,concentration,81 mg/L,candidate
+val_4805eaa4c5271131,ev_5483144d12b2c9ef,doc_68c8cb490bc6794f,5,mg/L,concentration,5 mg/L,candidate
+val_0319ff5425ee90ee,ev_5483144d12b2c9ef,doc_68c8cb490bc6794f,10.65,mg/L,concentration,10.65 mg/L,candidate
+val_aec7830651accd13,ev_5483144d12b2c9ef,doc_68c8cb490bc6794f,10,mg/L,concentration,10 mg/L,candidate
+val_807079a7d0424adc,ev_4aa09df64a4b752f,doc_68c8cb490bc6794f,160,mV,potential,160 mV,candidate
+val_ce864ae120ff37ed,ev_4aa09df64a4b752f,doc_68c8cb490bc6794f,5,mg/L,concentration,5 mg/L,candidate
+val_ecb917252dd29c8f,ev_4aa09df64a4b752f,doc_68c8cb490bc6794f,2000,rpm,rotation,2000 rpm,candidate
+val_5eac9bf557c16165,ev_4aa09df64a4b752f,doc_68c8cb490bc6794f,200,rpm,rotation,200 rpm,candidate
+val_9292b4f6a1bd4888,ev_4aa09df64a4b752f,doc_68c8cb490bc6794f,100,mV,potential,100 mV,candidate
+val_ec6a977beaa96f4f,ev_4aa09df64a4b752f,doc_68c8cb490bc6794f,2000,s,time,2000s,candidate
+val_f1e55447787c7774,ev_4f6edf05855f594f,doc_68c8cb490bc6794f,100,mg/L,concentration,100 mg/L,candidate
+val_2f74e61ccf7cf163,ev_b4c93865a1164d54,doc_68c8cb490bc6794f,0,mg/L,concentration,0 mg/L,candidate
+val_84283d58d5d64d8e,ev_b4c93865a1164d54,doc_68c8cb490bc6794f,100,mg/L,concentration,100 mg/L,candidate
+val_4b655b5cc443c0df,ev_06ab24786a5a7a96,doc_68c8cb490bc6794f,6,h,time,6h,candidate
+val_259ab2764942c4cb,ev_06ab24786a5a7a96,doc_68c8cb490bc6794f,100,mg/L,concentration,100 mg/L,candidate
+val_5bc70062f0eeb0ab,ev_dee18f3678a3cebd,doc_6a9fbc467d829656,1.2,μm,geometry,1.2 μm,candidate
+val_4a9e85039d6b97f9,ev_dee18f3678a3cebd,doc_6a9fbc467d829656,90,%,percentage,90 %,candidate
+val_245650908a231c26,ev_71a0ef75d6def41d,doc_6a9fbc467d829656,0.3,mol/L,concentration,0.3 mol/ L,candidate
+val_d14b68c0d48e2cd9,ev_71a0ef75d6def41d,doc_6a9fbc467d829656,7,h,time,7H,candidate
+val_158e90346dbac287,ev_71a0ef75d6def41d,doc_6a9fbc467d829656,0.57,mol/L,concentration,0.57 mol/L,candidate
+val_02d5e8c1c4ea8ca2,ev_71a0ef75d6def41d,doc_6a9fbc467d829656,60,mg/L,concentration,60 mg/L,candidate
+val_cc7645a7cc7bef5f,ev_71a0ef75d6def41d,doc_6a9fbc467d829656,0.7,mol/L,concentration,0.7 mol/L,candidate
+val_1e5392004355db60,ev_71a0ef75d6def41d,doc_6a9fbc467d829656,50,mg/L,concentration,50 mg/L,candidate
+val_21221734aef73764,ev_71a0ef75d6def41d,doc_6a9fbc467d829656,160,μm,geometry,160 μm,candidate
+val_54b6cf4ee311ae4a,ev_71a0ef75d6def41d,doc_6a9fbc467d829656,80,μm,geometry,80 μm,candidate
+val_8bc209da331590e8,ev_71a0ef75d6def41d,doc_6a9fbc467d829656,40,μm,geometry,40 μm,candidate
+val_6c820c9aa4469657,ev_17ebe54b891ea183,doc_6a9fbc467d829656,150,mg/L,concentration,150 mg/L,candidate
+val_40fcad0c79a5e139,ev_17ebe54b891ea183,doc_6a9fbc467d829656,107.55,%,percentage,107.55 %,candidate
+val_6b908bb7a06e631d,ev_17ebe54b891ea183,doc_6a9fbc467d829656,98.79,%,percentage,98.79 %,candidate
+val_30bf96d01d8a4417,ev_17ebe54b891ea183,doc_6a9fbc467d829656,84.96,%,percentage,84.96 %,candidate
+val_1d28641e3131bd01,ev_17ebe54b891ea183,doc_6a9fbc467d829656,5,mg/L,concentration,5 mg/L,candidate
+val_44c2f71d89a902f3,ev_17ebe54b891ea183,doc_6a9fbc467d829656,10,mg/L,concentration,10 mg/L,candidate
+val_5fb28fcf0b17bfea,ev_b29800f1987e6014,doc_6a9fbc467d829656,50,mg/L,concentration,50 mg/L,candidate
+val_3161d43bef95629d,ev_d92163ae16455edb,doc_6a9fbc467d829656,10,mg/L,concentration,10 mg/L,candidate
+val_07387ca2dcd27b76,ev_d92163ae16455edb,doc_6a9fbc467d829656,50,mg/L,concentration,50 mg/L,candidate
+val_549aedfd36e59fc3,ev_6b819ac371f1bc0c,doc_6a9fbc467d829656,4,h,time,4 h,candidate
+val_6a058b59e595b180,ev_6b819ac371f1bc0c,doc_6a9fbc467d829656,50,mg/L,concentration,50 mg/L,candidate
+val_3bc138fe70713dc7,ev_6b819ac371f1bc0c,doc_6a9fbc467d829656,1.2,μm,geometry,1.2 μm,candidate
+val_5c94e3b48e713843,ev_6b819ac371f1bc0c,doc_6a9fbc467d829656,1,h,time,1 h,candidate
+val_5bb2ec396157b201,ev_6b819ac371f1bc0c,doc_6a9fbc467d829656,2,h,time,2 h,candidate
+val_869ba2525cbd62f1,ev_ec91d651c9809fc0,doc_6a9fbc467d829656,1,h,time,1 h,candidate
+val_e91442749234a1bc,ev_ec91d651c9809fc0,doc_6a9fbc467d829656,1,μm,geometry,1 μm,candidate
+val_1cd5f93cd61f707a,ev_ec91d651c9809fc0,doc_6a9fbc467d829656,4,h,time,4 h,candidate
+val_2974d27734074c2b,ev_ec91d651c9809fc0,doc_6a9fbc467d829656,90,%,percentage,90 %,candidate
+val_83e88c19c2407636,ev_ec91d651c9809fc0,doc_6a9fbc467d829656,1.2,μm,geometry,1.2 μm,candidate
+val_af29ee849832bb38,ev_a985cf40c7d8f302,doc_6a9fbc467d829656,0.5,h,time,0.5 h,candidate
+val_3861d8f310eddc5b,ev_a985cf40c7d8f302,doc_6a9fbc467d829656,1,h,time,1 h,candidate
+val_e6154afa6028c158,ev_a985cf40c7d8f302,doc_6a9fbc467d829656,2,h,time,2 h,candidate
+val_66ea2d298626a8ab,ev_a985cf40c7d8f302,doc_6a9fbc467d829656,3,h,time,3 h,candidate
+val_4ce7ed75a4e2cdfa,ev_a985cf40c7d8f302,doc_6a9fbc467d829656,4,h,time,4 h,candidate
+val_5d0c47a96ee7873b,ev_9dfd26b7b644d1a4,doc_6a9fbc467d829656,1.2,μm,geometry,1.2 μm,candidate

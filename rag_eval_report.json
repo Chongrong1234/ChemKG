@@ -1,0 +1,22 @@
+{
+  "n": 1,
+  "k": 5,
+  "evidence_recall_at_k": 1.0,
+  "sufficient_evidence_rate": 1.0,
+  "required_term_coverage": 1.0,
+  "per_question": [
+    {
+      "id": "example_1",
+      "evidence_recall": 1.0,
+      "sufficient_evidence": true,
+      "required_term_coverage": 1.0,
+      "retrieved_ids": [
+        "ev_719aa11ee0a20820",
+        "ev_51fda7276d2561f1",
+        "ev_834adb39704594d5",
+        "ev_9554c66179cef67f",
+        "ev_fdbf68fae832db0b"
+      ]
+    }
+  ]
+}
