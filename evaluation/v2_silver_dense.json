@@ -1,0 +1,12 @@
+{
+  "model": "BAAI/bge-small-zh-v1.5",
+  "corpus_n": 1411,
+  "encode_ms_total": 27284.5,
+  "k": 5,
+  "hit_at_k": 0.5133333333333333,
+  "evidence_recall_at_k": 0.055627322193245066,
+  "sufficient_evidence_rate": 0.0,
+  "latency_ms_p50": 0.10277330875396729,
+  "latency_ms_mean": 0.4421975705530736,
+  "warning": "silver labels; dense baseline only, no KG features"
+}

@@ -1,0 +1,16 @@
+{
+  "documents": 48,
+  "evidence": 1290,
+  "entities": 64,
+  "mentions": 3216,
+  "values": 1295,
+  "relations": 119,
+  "relation_types": {
+    "accelerates_deposition": 22,
+    "improves_filling": 26,
+    "inhibits_deposition": 64,
+    "synergizes_with": 7
+  },
+  "llm_enabled": false,
+  "filter": "strict domain + contamination/reference exclusion + clause-local subject/object"
+}

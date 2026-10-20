@@ -1,0 +1,93 @@
+{
+  "dataset": "evaluation/v2_silver_clue.jsonl",
+  "k": 5,
+  "systems": {
+    "lexical": {
+      "n": 150,
+      "evidence_recall_at_k": 1.0,
+      "hit_at_k": 1.0,
+      "sufficient_evidence_rate": 1.0,
+      "latency_ms_p50": 16.210582107305527,
+      "latency_ms_mean": 23.681341856718063
+    },
+    "kg_aware": {
+      "n": 150,
+      "evidence_recall_at_k": 1.0,
+      "hit_at_k": 1.0,
+      "sufficient_evidence_rate": 1.0,
+      "latency_ms_p50": 32.44650363922119,
+      "latency_ms_mean": 38.75490585962931
+    }
+  },
+  "by_predicate": {
+    "lexical": {
+      "accelerates_deposition": {
+        "n": 28,
+        "evidence_recall_at_k": 1.0,
+        "hit_at_k": 1.0,
+        "sufficient_evidence_rate": 1.0,
+        "latency_ms_p50": 26.65683627128601,
+        "latency_ms_mean": 26.225808475698745
+      },
+      "improves_filling": {
+        "n": 54,
+        "evidence_recall_at_k": 1.0,
+        "hit_at_k": 1.0,
+        "sufficient_evidence_rate": 1.0,
+        "latency_ms_p50": 14.575736597180367,
+        "latency_ms_mean": 16.931491317572416
+      },
+      "inhibits_deposition": {
+        "n": 66,
+        "evidence_recall_at_k": 1.0,
+        "hit_at_k": 1.0,
+        "sufficient_evidence_rate": 1.0,
+        "latency_ms_p50": 14.513254165649414,
+        "latency_ms_mean": 18.06362814298182
+      },
+      "synergizes_with": {
+        "n": 2,
+        "evidence_recall_at_k": 1.0,
+        "hit_at_k": 1.0,
+        "sufficient_evidence_rate": 1.0,
+        "latency_ms_p50": 18.4357650578022,
+        "latency_ms_mean": 18.4357650578022
+      }
+    },
+    "kg_aware": {
+      "accelerates_deposition": {
+        "n": 28,
+        "evidence_recall_at_k": 1.0,
+        "hit_at_k": 1.0,
+        "sufficient_evidence_rate": 1.0,
+        "latency_ms_p50": 54.958852007985115,
+        "latency_ms_mean": 54.22452770705734
+      },
+      "improves_filling": {
+        "n": 54,
+        "evidence_recall_at_k": 1.0,
+        "hit_at_k": 1.0,
+        "sufficient_evidence_rate": 1.0,
+        "latency_ms_p50": 30.104832723736763,
+        "latency_ms_mean": 34.22332375689789
+      },
+      "inhibits_deposition": {
+        "n": 66,
+        "evidence_recall_at_k": 1.0,
+        "hit_at_k": 1.0,
+        "sufficient_evidence_rate": 1.0,
+        "latency_ms_p50": 29.803015291690826,
+        "latency_ms_mean": 36.250125447457485
+      },
+      "synergizes_with": {
+        "n": 2,
+        "evidence_recall_at_k": 1.0,
+        "hit_at_k": 1.0,
+        "sufficient_evidence_rate": 1.0,
+        "latency_ms_p50": 38.90359587967396,
+        "latency_ms_mean": 38.90359587967396
+      }
+    }
+  },
+  "warning": "automatic silver labels; audit before publication"
+}

@@ -1,0 +1,14 @@
+{
+  "model": "BAAI/bge-small-zh-v1.5",
+  "strategy": "bm25_candidates+dense_rerank",
+  "candidates": 50,
+  "kg_boost": true,
+  "k": 5,
+  "n": 154,
+  "hit_at_k": 0.6133333333333333,
+  "evidence_recall_at_k": 0.09502536667749666,
+  "sufficient_evidence_rate": 0.006493506493506494,
+  "latency_ms_p50": 2474.1493053734303,
+  "latency_ms_mean": 2476.0120253429395,
+  "warning": "silver labels; per-query embedding, slower than precomputed variants"
+}

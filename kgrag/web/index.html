@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>电镀文献 KG-RAG 问答系统</title>
+  <link rel="stylesheet" href="/static/css/app.css" />
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>⚡</text></svg>" />
+</head>
+<body>
+  <div id="app">
+    <!-- ======================= 侧边栏 ======================= -->
+    <aside id="sidebar">
+      <div class="brand">
+        <div class="brand-logo">⚡</div>
+        <div class="brand-text">
+          <h1>KG-RAG 问答</h1>
+          <span id="brand-sub">电镀领域文献知识库</span>
+        </div>
+      </div>
+
+      <button id="btn-new-chat" class="btn-new-chat">＋ 新建对话</button>
+
+      <nav id="chat-list" class="chat-list" aria-label="历史对话"></nav>
+
+      <div class="sidebar-footer">
+        <div class="stat-chips" id="stat-chips">
+          <span class="chip" id="chip-evidence" title="证据条数">证据加载中…</span>
+          <span class="chip" id="chip-model" title="生成模型">模型 -</span>
+        </div>
+        <button id="btn-settings" class="btn-ghost" title="检索与显示设置">⚙ 设置</button>
+      </div>
+    </aside>
+
+    <!-- ======================= 主区域 ======================= -->
+    <main id="main">
+      <header class="topbar">
+        <button id="btn-toggle-sidebar" class="icon-btn" title="收起/展开侧栏">☰</button>
+        <div class="topbar-title" id="topbar-title">新对话</div>
+        <div class="topbar-strategy" id="topbar-strategy"></div>
+      </header>
+
+      <section id="messages" class="messages">
+        <!-- 欢迎屏 -->
+        <div id="welcome" class="welcome">
+          <div class="welcome-hero">
+            <div class="welcome-logo">⚡</div>
+            <h2>电镀领域文献智能问答</h2>
+            <p>基于 <b>知识图谱增强检索</b>，从 4,300+ 条文献证据中定位答案，逐条引用可回溯。</p>
+          </div>
+          <div class="example-grid" id="examples">
+            <button class="example-card" data-q="PVP 在钴电沉积中起什么作用？">
+              <span class="ex-tag">机理</span>PVP 在钴电沉积中起什么作用？
+            </button>
+            <button class="example-card" data-q="哪些添加剂能够改善铜微孔填充？">
+              <span class="ex-tag">工艺</span>哪些添加剂能够改善铜微孔填充？
+            </button>
+            <button class="example-card" data-q="JGB 整平剂的作用机制是什么？">
+              <span class="ex-tag">整平剂</span>JGB 整平剂的作用机制是什么？
+            </button>
+            <button class="example-card" data-q="钴超共形填充是如何实现的？">
+              <span class="ex-tag">超填充</span>钴超共形填充是如何实现的？
+            </button>
+          </div>
+        </div>
+      </section>
+
+      <footer class="composer-wrap">
+        <div class="composer">
+          <textarea id="input" rows="1" placeholder="向知识库提问，例如：MPS 在超填充中起什么作用？"
+                    maxlength="4000"></textarea>
+          <button id="btn-send" class="btn-send" title="发送 (Enter)">➤</button>
+        </div>
+        <div class="composer-hint">回答仅基于知识库证据，每个结论标注 evidence_id 引用 · Enter 发送 / Shift+Enter 换行</div>
+      </footer>
+    </main>
+
+    <!-- ======================= 设置抽屉 ======================= -->
+    <div id="settings-mask" class="mask hidden"></div>
+    <aside id="settings" class="settings hidden" aria-label="设置">
+      <div class="settings-head">
+        <h3>⚙ 检索与显示设置</h3>
+        <button id="btn-close-settings" class="icon-btn">✕</button>
+      </div>
+
+      <label class="field">
+        <span class="field-label">检索策略</span>
+        <select id="set-strategy">
+          <option value="kg">KG 增强（推荐）</option>
+          <option value="lexical">纯词法 BM25</option>
+          <option value="anchored">主体锚定（指明材料时）</option>
+          <option value="graph">图扩展（沿实体/谓词扩展）</option>
+        </select>
+        <span class="field-desc" id="strategy-desc"></span>
+      </label>
+
+      <label class="field">
+        <span class="field-label">证据条数 top-k：<b id="topk-val">8</b></span>
+        <input type="range" id="set-topk" min="3" max="20" value="8" />
+      </label>
+
+      <label class="field">
+        <span class="field-label">主体实体锚点（可选）</span>
+        <input type="text" id="set-subject" placeholder="如 PVP / JGB / SPS" maxlength="200" />
+        <span class="field-desc">使用「主体锚定」策略时，指明材料名可显著提升命中率</span>
+      </label>
+
+      <label class="field checkbox">
+        <input type="checkbox" id="set-thinking" checked />
+        <span>深度思考（更严谨，速度较慢）</span>
+      </label>
+
+      <label class="field checkbox">
+        <input type="checkbox" id="set-show-reasoning" />
+        <span>显示模型思考过程</span>
+      </label>
+
+      <label class="field checkbox">
+        <input type="checkbox" id="set-web-search" checked />
+        <span>🌐 联网搜索学术期刊（补充外部证据至 20 条）</span>
+      </label>
+
+      <label class="field checkbox">
+        <input type="checkbox" id="set-collapse-evidence" checked />
+        <span>默认折叠证据列表</span>
+      </label>
+
+      <div class="settings-divider"></div>
+
+      <div class="settings-section">
+        <div class="settings-section-title">🔌 模型接口（可选 · 自带额度）</div>
+        <label class="field">
+          <span class="field-label">API 地址（Base URL）</span>
+          <input type="text" id="set-llm-base" placeholder="https://api.epicllmrouter.top/v1" maxlength="500" />
+        </label>
+        <label class="field">
+          <span class="field-label">API Key</span>
+          <input type="password" id="set-llm-key" placeholder="留空使用服务端默认 Key" maxlength="500" autocomplete="new-password" />
+        </label>
+        <label class="field">
+          <span class="field-label">模型名</span>
+          <input type="text" id="set-llm-model" placeholder="deepseek-v4-pro-0813" maxlength="200" />
+        </label>
+        <div class="llm-test-row">
+          <button id="btn-llm-test" class="btn-ghost" type="button">测试连接</button>
+          <span id="llm-test-result" class="llm-test-result"></span>
+        </div>
+        <span class="field-desc">填入自己的 OpenAI 兼容接口后，问答消耗你的额度；全部留空则使用服务端默认配置</span>
+      </div>
+
+      <div class="settings-actions">
+        <button id="btn-save-settings" class="btn-primary">保存设置</button>
+      </div>
+    </aside>
+  </div>
+
+  <script src="/static/js/app.js?v=3"></script>
+</body>
+</html>

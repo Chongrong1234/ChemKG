@@ -1,0 +1,35 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "kgrag"
+version = "1.0.0"
+description = "Evidence-first KG-augmented RAG system for the electroplating literature, with a chat web frontend"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [{ name = "KG_RAG Team" }]
+keywords = ["knowledge-graph", "rag", "retrieval-augmented-generation", "electroplating"]
+dependencies = [
+    "fastapi>=0.110",
+    "uvicorn>=0.29",
+    "pydantic>=2.6",
+    "sse-starlette>=2.0",
+    "python-dotenv>=1.0",
+    "httpx>=0.27",
+    "jieba>=0.42",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8.0"]
+
+[project.scripts]
+kgrag-build = "kgrag.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q"

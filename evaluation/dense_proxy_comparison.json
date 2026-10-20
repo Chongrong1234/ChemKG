@@ -1,0 +1,11 @@
+{
+  "system": "char_tfidf_proxy",
+  "result": {
+    "n": 237,
+    "evidence_recall_at_k": 0.017055905467922627,
+    "sufficient_evidence_rate": 0.008438818565400843,
+    "latency_ms_p50": 59.61311608552933,
+    "latency_ms_mean": 59.800370301626906
+  },
+  "warning": "not a neural embedding; use a fixed embedding model for publication"
+}

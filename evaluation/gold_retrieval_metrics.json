@@ -1,0 +1,56 @@
+{
+  "dataset": "evaluation/gold_qa.jsonl",
+  "index": "rag_index_strict",
+  "corpus_rows": 1290,
+  "systems": {
+    "lexical_bm25": {
+      "k=5": {
+        "n": 19,
+        "hit_at_k": 0.4211,
+        "mrr": 0.1746,
+        "latency_ms_p50": 4.15,
+        "adversarial_evidence_hit_at_k": "2/5"
+      },
+      "k=10": {
+        "n": 19,
+        "hit_at_k": 0.5789,
+        "mrr": 0.1952,
+        "latency_ms_p50": 4.12,
+        "adversarial_evidence_hit_at_k": "2/5"
+      }
+    },
+    "kg_aware_bm25": {
+      "k=5": {
+        "n": 19,
+        "hit_at_k": 0.4737,
+        "mrr": 0.2579,
+        "latency_ms_p50": 6.0,
+        "adversarial_evidence_hit_at_k": "3/5"
+      },
+      "k=10": {
+        "n": 19,
+        "hit_at_k": 0.5789,
+        "mrr": 0.2729,
+        "latency_ms_p50": 6.0,
+        "adversarial_evidence_hit_at_k": "3/5"
+      }
+    },
+    "subject_anchored_v3": {
+      "k=5": {
+        "n": 19,
+        "hit_at_k": 0.6316,
+        "mrr": 0.3939,
+        "latency_ms_p50": 6.35,
+        "adversarial_evidence_hit_at_k": "4/5"
+      },
+      "k=10": {
+        "n": 19,
+        "hit_at_k": 0.7895,
+        "mrr": 0.4177,
+        "latency_ms_p50": 6.49,
+        "adversarial_evidence_hit_at_k": "4/5"
+      }
+    }
+  },
+  "warning": "gold labels are model-judged (gpt-5.6-terra), not human; n=19 answerable is small"
+}

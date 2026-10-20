@@ -1,0 +1,132 @@
+{
+  "n_items": 34,
+  "n_answerable": 25,
+  "n_adversarial": 9,
+  "judges": [
+    "deepseek-v4-pro-0813",
+    "glm-5.3",
+    "kimi-k2.6",
+    "qwen3.7-max"
+  ],
+  "systems": {
+    "deepseek-v4-pro-0813": {
+      "n_answerable_scores": 80,
+      "correctness": 0.6562,
+      "evidence_support": 0.8375,
+      "condition_retention": 0.425,
+      "adversarial_abstention": 0.7419,
+      "n_adversarial_scores": 31
+    },
+    "extractive": {
+      "n_answerable_scores": 87,
+      "correctness": 0.5402,
+      "evidence_support": 0.592,
+      "condition_retention": 0.4138,
+      "adversarial_abstention": 0,
+      "n_adversarial_scores": 29
+    },
+    "glm-5.3": {
+      "n_answerable_scores": 75,
+      "correctness": 0.64,
+      "evidence_support": 0.8,
+      "condition_retention": 0.4467,
+      "adversarial_abstention": 0.7333,
+      "n_adversarial_scores": 30
+    },
+    "kimi-k2.6": {
+      "n_answerable_scores": 77,
+      "correctness": 0.6688,
+      "evidence_support": 0.8117,
+      "condition_retention": 0.4221,
+      "adversarial_abstention": 0.6897,
+      "n_adversarial_scores": 29
+    },
+    "qwen3.7-max": {
+      "n_answerable_scores": 77,
+      "correctness": 0.6169,
+      "evidence_support": 0.7857,
+      "condition_retention": 0.4286,
+      "adversarial_abstention": 0.7419,
+      "n_adversarial_scores": 31
+    }
+  },
+  "judge_agreement": {
+    "deepseek-v4-pro-0813|glm-5.3": {
+      "exact": 0.8409,
+      "within_1": 0.9773,
+      "n": 44
+    },
+    "deepseek-v4-pro-0813|kimi-k2.6": {
+      "exact": 0.7872,
+      "within_1": 0.9468,
+      "n": 94
+    },
+    "deepseek-v4-pro-0813|qwen3.7-max": {
+      "exact": 0.883,
+      "within_1": 0.9894,
+      "n": 94
+    },
+    "glm-5.3|kimi-k2.6": {
+      "exact": 0.8654,
+      "within_1": 0.9615,
+      "n": 52
+    },
+    "glm-5.3|qwen3.7-max": {
+      "exact": 0.9423,
+      "within_1": 1.0,
+      "n": 52
+    },
+    "kimi-k2.6|qwen3.7-max": {
+      "exact": 0.792,
+      "within_1": 0.936,
+      "n": 125
+    }
+  },
+  "per_predicate": {
+    "deepseek-v4-pro-0813": {
+      "used_as_inhibitor": 1.0,
+      "adsorbs_on": 0.5882,
+      "used_as_suppressor": 0.125,
+      "used_as_leveler": 0.0,
+      "inhibits_deposition": 0.9423,
+      "improves_filling": 0.5,
+      "accelerates_deposition": 0.6875
+    },
+    "extractive": {
+      "used_as_inhibitor": 1.0,
+      "adsorbs_on": 0.3947,
+      "used_as_suppressor": 0.0,
+      "used_as_leveler": 0.0,
+      "inhibits_deposition": 0.8929,
+      "improves_filling": 0.3333,
+      "accelerates_deposition": 0.55
+    },
+    "glm-5.3": {
+      "used_as_inhibitor": 1.0,
+      "adsorbs_on": 0.7812,
+      "used_as_suppressor": 0.5,
+      "used_as_leveler": 0.0,
+      "inhibits_deposition": 0.7917,
+      "improves_filling": 0.5,
+      "accelerates_deposition": 0.55
+    },
+    "kimi-k2.6": {
+      "used_as_inhibitor": 1.0,
+      "adsorbs_on": 0.6667,
+      "used_as_suppressor": 0.5,
+      "used_as_leveler": 0.0833,
+      "inhibits_deposition": 0.92,
+      "improves_filling": 0.5625,
+      "accelerates_deposition": 0.5
+    },
+    "qwen3.7-max": {
+      "used_as_inhibitor": 1.0,
+      "adsorbs_on": 0.6176,
+      "used_as_suppressor": 0.1667,
+      "used_as_leveler": 0.0,
+      "inhibits_deposition": 0.9,
+      "improves_filling": 0.4706,
+      "accelerates_deposition": 0.4286
+    }
+  }
+}

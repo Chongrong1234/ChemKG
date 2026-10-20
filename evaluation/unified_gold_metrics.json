@@ -1,0 +1,426 @@
+{
+  "protocol": "unified gold retrieval evaluation (multi-gold hit semantics)",
+  "warning": "v1 gold is model-judged (gpt-5.6-terra, predicate-level protocol); v2 gold is five-model panel consensus (triple-level); neither is human gold",
+  "combos": {
+    "v1_gpt56": {
+      "desc": "v1 gold (gpt-5.6 model-judged) × strict-v1 index",
+      "index": "rag_index_strict",
+      "gold": "evaluation/gold_qa_v1.jsonl",
+      "corpus_rows": 1290,
+      "items": 23,
+      "question_types": {
+        "factual": 18,
+        "partial": 0,
+        "adversarial": 5,
+        "ambiguous": 0
+      },
+      "systems": {
+        "lexical_bm25": {
+          "k=5": {
+            "factual": {
+              "n": 18,
+              "hit_at_k": 0.4444,
+              "mrr": 0.1843,
+              "latency_ms_p50": 5.14
+            },
+            "partial": {
+              "n": 0
+            },
+            "adversarial": {
+              "n": 5,
+              "refuting_evidence_hit_at_k": "2/5",
+              "refuting_hit_rate": 0.4,
+              "latency_ms_p50": 4.03
+            }
+          },
+          "k=10": {
+            "factual": {
+              "n": 18,
+              "hit_at_k": 0.6111,
+              "mrr": 0.206,
+              "latency_ms_p50": 4.4
+            },
+            "partial": {
+              "n": 0
+            },
+            "adversarial": {
+              "n": 5,
+              "refuting_evidence_hit_at_k": "2/5",
+              "refuting_hit_rate": 0.4,
+              "latency_ms_p50": 4.11
+            }
+          }
+        },
+        "kg_aware_bm25": {
+          "k=5": {
+            "factual": {
+              "n": 18,
+              "hit_at_k": 0.5,
+              "mrr": 0.2722,
+              "latency_ms_p50": 7.63
+            },
+            "partial": {
+              "n": 0
+            },
+            "adversarial": {
+              "n": 5,
+              "refuting_evidence_hit_at_k": "3/5",
+              "refuting_hit_rate": 0.6,
+              "latency_ms_p50": 7.35
+            }
+          },
+          "k=10": {
+            "factual": {
+              "n": 18,
+              "hit_at_k": 0.6111,
+              "mrr": 0.2881,
+              "latency_ms_p50": 7.88
+            },
+            "partial": {
+              "n": 0
+            },
+            "adversarial": {
+              "n": 5,
+              "refuting_evidence_hit_at_k": "3/5",
+              "refuting_hit_rate": 0.6,
+              "latency_ms_p50": 7.3
+            }
+          }
+        },
+        "subject_anchored_v3": {
+          "k=5": {
+            "factual": {
+              "n": 18,
+              "hit_at_k": 0.6667,
+              "mrr": 0.4157,
+              "latency_ms_p50": 8.03
+            },
+            "partial": {
+              "n": 0
+            },
+            "adversarial": {
+              "n": 5,
+              "refuting_evidence_hit_at_k": "4/5",
+              "refuting_hit_rate": 0.8,
+              "latency_ms_p50": 7.99
+            }
+          },
+          "k=10": {
+            "factual": {
+              "n": 18,
+              "hit_at_k": 0.8333,
+              "mrr": 0.4409,
+              "latency_ms_p50": 8.1
+            },
+            "partial": {
+              "n": 0
+            },
+            "adversarial": {
+              "n": 5,
+              "refuting_evidence_hit_at_k": "4/5",
+              "refuting_hit_rate": 0.8,
+              "latency_ms_p50": 7.87
+            }
+          }
+        },
+        "v3_panel_trust": {
+          "k=5": {
+            "factual": {
+              "n": 18,
+              "hit_at_k": 0.6667,
+              "mrr": 0.4157,
+              "latency_ms_p50": 8.0
+            },
+            "partial": {
+              "n": 0
+            },
+            "adversarial": {
+              "n": 5,
+              "refuting_evidence_hit_at_k": "4/5",
+              "refuting_hit_rate": 0.8,
+              "latency_ms_p50": 7.79
+            }
+          },
+          "k=10": {
+            "factual": {
+              "n": 18,
+              "hit_at_k": 0.8333,
+              "mrr": 0.4409,
+              "latency_ms_p50": 8.05
+            },
+            "partial": {
+              "n": 0
+            },
+            "adversarial": {
+              "n": 5,
+              "refuting_evidence_hit_at_k": "4/5",
+              "refuting_hit_rate": 0.8,
+              "latency_ms_p50": 7.8
+            }
+          }
+        },
+        "v3_intent_routed": {
+          "k=5": {
+            "factual": {
+              "n": 18,
+              "hit_at_k": 0.6667,
+              "mrr": 0.4157,
+              "latency_ms_p50": 8.11
+            },
+            "partial": {
+              "n": 0
+            },
+            "adversarial": {
+              "n": 5,
+              "refuting_evidence_hit_at_k": "4/5",
+              "refuting_hit_rate": 0.8,
+              "latency_ms_p50": 7.9
+            }
+          },
+          "k=10": {
+            "factual": {
+              "n": 18,
+              "hit_at_k": 0.8333,
+              "mrr": 0.4409,
+              "latency_ms_p50": 8.12
+            },
+            "partial": {
+              "n": 0
+            },
+            "adversarial": {
+              "n": 5,
+              "refuting_evidence_hit_at_k": "4/5",
+              "refuting_hit_rate": 0.8,
+              "latency_ms_p50": 8.08
+            }
+          }
+        }
+      }
+    },
+    "v2_panel": {
+      "desc": "v2 gold (five-model panel consensus) × unified-v2 index (panel status + conditions)",
+      "index": "rag_index_v2",
+      "gold": "evaluation/gold_qa_v2.jsonl",
+      "corpus_rows": 1411,
+      "items": 34,
+      "question_types": {
+        "factual": 22,
+        "partial": 3,
+        "adversarial": 8,
+        "ambiguous": 1
+      },
+      "systems": {
+        "lexical_bm25": {
+          "k=5": {
+            "factual": {
+              "n": 22,
+              "hit_at_k": 0.2273,
+              "mrr": 0.1212,
+              "latency_ms_p50": 4.77
+            },
+            "partial": {
+              "n": 3,
+              "hit_at_k": 0.3333,
+              "mrr": 0.1111,
+              "latency_ms_p50": 4.05
+            },
+            "adversarial": {
+              "n": 8,
+              "refuting_evidence_hit_at_k": "1/8",
+              "refuting_hit_rate": 0.125,
+              "latency_ms_p50": 8.7
+            }
+          },
+          "k=10": {
+            "factual": {
+              "n": 22,
+              "hit_at_k": 0.4091,
+              "mrr": 0.1504,
+              "latency_ms_p50": 4.85
+            },
+            "partial": {
+              "n": 3,
+              "hit_at_k": 0.6667,
+              "mrr": 0.1587,
+              "latency_ms_p50": 4.28
+            },
+            "adversarial": {
+              "n": 8,
+              "refuting_evidence_hit_at_k": "3/8",
+              "refuting_hit_rate": 0.375,
+              "latency_ms_p50": 9.64
+            }
+          }
+        },
+        "kg_aware_bm25": {
+          "k=5": {
+            "factual": {
+              "n": 22,
+              "hit_at_k": 0.3636,
+              "mrr": 0.2273,
+              "latency_ms_p50": 9.02
+            },
+            "partial": {
+              "n": 3,
+              "hit_at_k": 0.6667,
+              "mrr": 0.1778,
+              "latency_ms_p50": 7.08
+            },
+            "adversarial": {
+              "n": 8,
+              "refuting_evidence_hit_at_k": "2/8",
+              "refuting_hit_rate": 0.25,
+              "latency_ms_p50": 15.79
+            }
+          },
+          "k=10": {
+            "factual": {
+              "n": 22,
+              "hit_at_k": 0.4091,
+              "mrr": 0.2348,
+              "latency_ms_p50": 8.96
+            },
+            "partial": {
+              "n": 3,
+              "hit_at_k": 0.6667,
+              "mrr": 0.1778,
+              "latency_ms_p50": 7.26
+            },
+            "adversarial": {
+              "n": 8,
+              "refuting_evidence_hit_at_k": "3/8",
+              "refuting_hit_rate": 0.375,
+              "latency_ms_p50": 15.88
+            }
+          }
+        },
+        "subject_anchored_v3": {
+          "k=5": {
+            "factual": {
+              "n": 22,
+              "hit_at_k": 0.5909,
+              "mrr": 0.4068,
+              "latency_ms_p50": 9.06
+            },
+            "partial": {
+              "n": 3,
+              "hit_at_k": 0.6667,
+              "mrr": 0.1778,
+              "latency_ms_p50": 7.39
+            },
+            "adversarial": {
+              "n": 8,
+              "refuting_evidence_hit_at_k": "4/8",
+              "refuting_hit_rate": 0.5,
+              "latency_ms_p50": 16.13
+            }
+          },
+          "k=10": {
+            "factual": {
+              "n": 22,
+              "hit_at_k": 0.7727,
+              "mrr": 0.4324,
+              "latency_ms_p50": 9.25
+            },
+            "partial": {
+              "n": 3,
+              "hit_at_k": 0.6667,
+              "mrr": 0.1778,
+              "latency_ms_p50": 7.51
+            },
+            "adversarial": {
+              "n": 8,
+              "refuting_evidence_hit_at_k": "5/8",
+              "refuting_hit_rate": 0.625,
+              "latency_ms_p50": 16.25
+            }
+          }
+        },
+        "v3_panel_trust": {
+          "k=5": {
+            "factual": {
+              "n": 22,
+              "hit_at_k": 0.7273,
+              "mrr": 0.4773,
+              "latency_ms_p50": 9.24
+            },
+            "partial": {
+              "n": 3,
+              "hit_at_k": 0.3333,
+              "mrr": 0.1111,
+              "latency_ms_p50": 7.39
+            },
+            "adversarial": {
+              "n": 8,
+              "refuting_evidence_hit_at_k": "3/8",
+              "refuting_hit_rate": 0.375,
+              "latency_ms_p50": 16.92
+            }
+          },
+          "k=10": {
+            "factual": {
+              "n": 22,
+              "hit_at_k": 0.7727,
+              "mrr": 0.4823,
+              "latency_ms_p50": 9.16
+            },
+            "partial": {
+              "n": 3,
+              "hit_at_k": 0.3333,
+              "mrr": 0.1111,
+              "latency_ms_p50": 7.56
+            },
+            "adversarial": {
+              "n": 8,
+              "refuting_evidence_hit_at_k": "4/8",
+              "refuting_hit_rate": 0.5,
+              "latency_ms_p50": 16.21
+            }
+          }
+        },
+        "v3_intent_routed": {
+          "k=5": {
+            "factual": {
+              "n": 22,
+              "hit_at_k": 0.7273,
+              "mrr": 0.4773,
+              "latency_ms_p50": 9.12
+            },
+            "partial": {
+              "n": 3,
+              "hit_at_k": 0.3333,
+              "mrr": 0.1111,
+              "latency_ms_p50": 7.3
+            },
+            "adversarial": {
+              "n": 8,
+              "refuting_evidence_hit_at_k": "6/8",
+              "refuting_hit_rate": 0.75,
+              "latency_ms_p50": 16.01
+            }
+          },
+          "k=10": {
+            "factual": {
+              "n": 22,
+              "hit_at_k": 0.7727,
+              "mrr": 0.4823,
+              "latency_ms_p50": 9.12
+            },
+            "partial": {
+              "n": 3,
+              "hit_at_k": 0.3333,
+              "mrr": 0.1111,
+              "latency_ms_p50": 7.44
+            },
+            "adversarial": {
+              "n": 8,
+              "refuting_evidence_hit_at_k": "6/8",
+              "refuting_hit_rate": 0.75,
+              "latency_ms_p50": 15.98
+            }
+          }
+        }
+      }
+    }
+  }
+}

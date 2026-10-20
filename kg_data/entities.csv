@@ -1,0 +1,37 @@
+entity_id,name,entity_type,normalized_name,review_status
+ent_79dfbc4735b9f935,gm,Method,gm,candidate
+ent_f680baf0cdce9f89,eis,Method,eis,candidate
+ent_f572c5a0b7ceff82,deposition,Process,deposition,candidate
+ent_3b8b329fe0b169db,PEG,Chemical,peg,candidate
+ent_8aa246108f440a06,PVP,Chemical,pvp,candidate
+ent_42e7c40a2a70ff4d,filling,Process,filling,candidate
+ent_2bddf91987a60a8d,electroplating,Process,electroplating,candidate
+ent_a58be42e3184f2e2,JGB,Chemical,jgb,candidate
+ent_63a836fa42834e84,filling performance,Property,filling performance,candidate
+ent_046962eb23922097,electrodeposition,Process,electrodeposition,candidate
+ent_d7910009d82f2e15,conductivity,Property,conductivity,candidate
+ent_e90212b93f813c94,SPS,Chemical,sps,candidate
+ent_126ce94a9a74dcf4,polarization,Property,polarization,candidate
+ent_68dc264930ae0a8e,surface copper,Property,surface copper,candidate
+ent_f6f53a462881cf22,Cyclic voltammetry,Method,cyclic voltammetry,candidate
+ent_13168fa77dea3161,CV,Method,cv,candidate
+ent_bf029a7aabab9a3b,Cl-,Chemical,cl-,candidate
+ent_da7196deb08b6d7c,Chronoamperometry,Method,chronoamperometry,candidate
+ent_47b73a2d2d2dfb27,overpotential,Property,overpotential,candidate
+ent_053b41e771b7431d,PEP,Chemical,pep,candidate
+ent_2f374d6aab3dfe48,CuSO4,Chemical,cuso4,candidate
+ent_22e7f79308fa4980,hardness,Property,hardness,candidate
+ent_03fdedef4cede16e,H2SO4,Chemical,h2so4,candidate
+ent_0adda5e4cb62245b,CMHT,Chemical,cmht,candidate
+ent_e53149fc745951b6,DMG,Chemical,dmg,candidate
+ent_1f5f47938fa946d8,CuSO4·5H2O,Chemical,cuso4·5h2o,candidate
+ent_89bd3cd3b54e5c7a,钴,Chemical,钴,candidate
+ent_20790793b40a2d06,填充,Process,填充,candidate
+ent_f6837bf214f1b7bb,电镀,Process,电镀,candidate
+ent_ba07acd1db7dc542,伏安,Method,伏安,candidate
+ent_25b6813436b80c9f,极化,Property,极化,candidate
+ent_babb138b49e31469,过电位,Property,过电位,candidate
+ent_611d01b4339ba84b,阻抗,Method,阻抗,candidate
+ent_6f6a62ee859b4285,铜,Chemical,铜,candidate
+ent_75796993fe1c866b,硫酸铜,Chemical,硫酸铜,candidate
+ent_d646c793c4140c41,氯离子,Chemical,氯离子,candidate

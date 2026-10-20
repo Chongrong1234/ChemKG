@@ -1,0 +1,278 @@
+{
+  "signed": 46,
+  "packet_total": 46,
+  "exact_agreement_5class": 0.6739,
+  "agreement_binary_accepted": 0.9348,
+  "cohen_kappa_5class": 0.3789,
+  "cohen_kappa_binary": 0.7837,
+  "panel_vs_human_confusion": {
+    "tp": 14,
+    "fp": 1,
+    "tn": 7,
+    "fn": 24
+  },
+  "panel_accept_precision_vs_human": 0.9333,
+  "panel_accept_precision_wilson95": [
+    0.7018,
+    0.9881
+  ],
+  "panel_accept_recall_vs_human": 0.3684,
+  "mismatches": [
+    {
+      "fact_id": "fact_e9ae78765a2baeb3",
+      "human": "partial",
+      "panel": "supported",
+      "panel_votes": {
+        "deepseek-v4-pro-0813": "unsupported",
+        "glm-5.3-shouyun": "partial",
+        "kimi-k2.6": "supported",
+        "qwen3.6-plus": "supported",
+        "qwen3.7-max": "supported"
+      },
+      "subject": "SPS",
+      "predicate": "accelerates_deposition",
+      "object": "copper electrodeposition",
+      "evidence": " and SPS–Cl has been confirmed to be an accelerator for copper electrodeposition [5,7,8,10,26–52].",
+      "human_note": "证据明确称SPS–Cl是铜电沉积加速剂，而非单独SPS；主体应修正为SPS–Cl"
+    },
+    {
+      "fact_id": "fact_9d0c77ba7799d181",
+      "human": "partial",
+      "panel": "supported",
+      "panel_votes": {
+        "deepseek-v4-pro-0813": "unsupported",
+        "glm-5.3-shouyun": "partial",
+        "kimi-k2.6": "supported",
+        "qwen3.6-plus": "supported",
+        "qwen3.7-max": "supported"
+      },
+      "subject": "TPM",
+      "predicate": "improves_filling",
+      "object": "Microvia",
+      "evidence": " all TPM-based levelers show excellent microvia filling performances in copper electroplating and their effective concentrations are related to their antagonistic ability against the accelerator SPS.",
+      "human_note": "证据明确提到‘all TPM-based levelers show excellent microvia filling performances’，表明基于TPM的整平剂具有改善微孔填充的效果，而非TPM本身。故主体应修正为‘TPM-based levelers’。"
+    },
+    {
+      "fact_id": "fact_e98c1e5e9edd71ac",
+      "human": "partial",
+      "panel": "supported",
+      "panel_votes": {
+        "deepseek-v4-pro-0813": "partial",
+        "glm-5.3-shouyun": "supported",
+        "kimi-k2.6": "supported",
+        "qwen3.6-plus": "supported",
+        "qwen3.7-max": "partial"
+      },
+      "subject": "SPS",
+      "predicate": "accelerates_deposition",
+      "object": "Microvia",
+      "evidence": " the SPS has an accelerated effect of deposited copper on the bottom of the microvia due to the concentration gradient distribution on the bottom of the microvia.",
+      "human_note": "证据明确说明SPS加速了微孔底部的铜沉积，而非加速微孔本身，客体应为铜(Cu)。"
+    },
+    {
+      "fact_id": "fact_21b0457430862afa",
+      "human": "partial",
+      "panel": "supported",
+      "panel_votes": {
+        "deepseek-v4-pro-0813": "partial",
+        "glm-5.3-shouyun": "partial",
+        "kimi-k2.6": "supported",
+        "qwen3.6-plus": "supported",
+        "qwen3.7-max": "supported"
+      },
+      "subject": "MG",
+      "predicate": "inhibits_deposition",
+      "object": "电沉积",
+      "evidence": "从图 4-8(a)中可以看出，MG 加入后，钴的沉积电量下降，同时沉积电位发生负移，说明 MG 抑制了钴电沉积过程。",
+      "human_note": "证据明确指出MG抑制了钴的电沉积，客体‘电沉积’过于宽泛，应具体为‘钴电沉积’。"
+    },
+    {
+      "fact_id": "fact_bc3143a03160573d",
+      "human": "partial",
+      "panel": "supported",
+      "panel_votes": {
+        "deepseek-v4-pro-0813": "partial",
+        "glm-5.3-shouyun": "supported",
+        "kimi-k2.6": "supported",
+        "qwen3.6-plus": "supported",
+        "qwen3.7-max": "partial"
+      },
+      "subject": "MG",
+      "predicate": "inhibits_deposition",
+      "object": "镀层",
+      "evidence": "然而盲孔底部吸附的 MG 在还原过程中被击穿或掺杂进镀层，浓度开始下降，抑制效果逐渐变弱，同时受传质的影响不能得到及时补充，因此底部的抑制作用逐渐失效。",
+      "human_note": "证据显示MG有抑制作用，但客体应为电沉积过程，而非'镀层'这一结果实体。"
+    },
+    {
+      "fact_id": "fact_34f1d3f6f8e2d845",
+      "human": "partial",
+      "panel": "supported",
+      "panel_votes": {
+        "deepseek-v4-pro-0813": "unsupported",
+        "glm-5.3-shouyun": "supported",
+        "kimi-k2.6": "supported",
+        "qwen3.6-plus": "supported",
+        "qwen3.7-max": "partial"
+      },
+      "subject": "MG",
+      "predicate": "adsorbs_on",
+      "object": "Co",
+      "evidence": "综上所述，本文提出了吸附-诱导-扩散机制，即 MG 吸附在阴极表面，在盲孔内形成抑制梯度，同时 MG 对 HER 的诱导效应导致 pH 值升高，由于受到扩散控制，盲孔底部 MG 抑制效果减弱，pH值在底部作用明显，从而导致 Co 开始自底而上填充整个盲孔。",
+      "human_note": "证据提到MG吸附在阴极表面，但未明确指定吸附在Co金属上，客体'Co'粒度偏粗，修正为'阴极表面'更准确。"
+    },
+    {
+      "fact_id": "fact_f2e5ffdf5944dc09",
+      "human": "partial",
+      "panel": "supported",
+      "panel_votes": {
+        "deepseek-v4-pro-0813": "partial",
+        "glm-5.3-shouyun": "partial",
+        "kimi-k2.6": "supported",
+        "qwen3.6-plus": "supported",
+        "qwen3.7-max": "supported"
+      },
+      "subject": "NBT",
+      "predicate": "inhibits_deposition",
+      "object": "镀层",
+      "evidence": " 6 ~ \\mathrm { m Q } / \\mathrm { c m } ^ { 2 }$ ，说明添加 NBT 之后，抑制了金属钴沉积，钴镀层的质量降低，并且随着浓度的增加，沉积抑制作用增加，导致的沉积层沉积效率逐渐降低。",
+      "human_note": "证据明确表明NBT抑制了金属钴沉积，但客体“镀层”过于宽泛，应具体为钴镀层。"
+    },
+    {
+      "fact_id": "fact_7a07538692dde1c8",
+      "human": "partial",
+      "panel": "supported",
+      "panel_votes": {
+        "deepseek-v4-pro-0813": "partial",
+        "glm-5.3-shouyun": "supported",
+        "kimi-k2.6": "supported",
+        "qwen3.6-plus": "supported",
+        "qwen3.7-max": "partial"
+      },
+      "subject": "NBT",
+      "predicate": "accelerates_deposition",
+      "object": "镀层",
+      "evidence": "从图(c)中可以看出，相较于图(a)，NBT 加入之后，镀层颗粒较大(沉积层质量升高，此处并未列出)，说明添加的 NBT 促进了钴沉积过程。",
+      "human_note": "证据明确指出NBT促进了钴沉积过程，支持‘accelerates_deposition’关系，但客体‘镀层’过于宽泛，应修正为‘钴沉积’更精确。"
+    },
+    {
+      "fact_id": "fact_ac594f9d4aacc385",
+      "human": "partial",
+      "panel": "supported",
+      "panel_votes": {
+        "deepseek-v4-pro-0813": "partial",
+        "glm-5.3-shouyun": "supported",
+        "kimi-k2.6": "partial",
+        "qwen3.6-plus": "supported",
+        "qwen3.7-max": "supported"
+      },
+      "subject": "MPS",
+      "predicate": "accelerates_deposition",
+      "object": "electroplating",
+      "evidence": " in the electroplating solution containing only the accelerator MPS,",
+      "human_note": "证据中仅提及电镀液中含有加速剂MPS，由此可推断MPS用于加速电沉积，但未直接描述MPS加速电镀的具体作用，且客体“electroplating”过于宽泛，证据未限定镀种。"
+    },
+    {
+      "fact_id": "fact_91db30ce6e6a746b",
+      "human": "partial",
+      "panel": "supported",
+      "panel_votes": {
+        "deepseek-v4-pro-0813": "partial",
+        "glm-5.3-shouyun": "partial",
+        "kimi-k2.6": "supported",
+        "qwen3.6-plus": "supported",
+        "qwen3.7-max": "supported"
+      },
+      "subject": "NBT",
+      "predicate": "inhibits_deposition",
+      "object": "electrodeposition",
+      "evidence": " which illustrates that suppressing effect for the electrodeposition of cobalt is intensified with the increase of NBT concentration and NBT is an effective suppressor for cobalt electrodeposition.",
+      "human_note": "证据明确表明NBT抑制钴电沉积，而非泛指所有电沉积，客体粒度过粗，应修正为钴电沉积。"
+    },
+    {
+      "fact_id": "fact_cc3e80e44c4055aa",
+      "human": "partial",
+      "panel": "supported",
+      "panel_votes": {
+        "deepseek-v4-pro-0813": "supported",
+        "glm-5.3-shouyun": "partial",
+        "kimi-k2.6": "supported",
+        "qwen3.6-plus": "supported",
+        "qwen3.7-max": "partial"
+      },
+      "subject": "NBT",
+      "predicate": "adsorbs_on",
+      "object": "electrode surface",
+      "evidence": " demonstrating that NBT is of potential to adsorb on the cobalt surface during electrodeposition.",
+      "human_note": "证据指出吸附于钴表面，而非一般的电极表面，客体粒度过粗。"
+    },
+    {
+      "fact_id": "fact_c256284c38fddda6",
+      "human": "unsupported",
+      "panel": "supported",
+      "panel_votes": {
+        "deepseek-v4-pro-0813": "supported",
+        "glm-5.3-shouyun": "supported",
+        "kimi-k2.6": "supported",
+        "qwen3.6-plus": "supported",
+        "qwen3.7-max": "supported"
+      },
+      "subject": "NBT",
+      "predicate": "used_as_inhibitor",
+      "object": "inhibitor",
+      "evidence": "而氯化硝基四氮唑蓝作为抑制剂时，盲孔底部沉积速率几乎是外表面沉积速率的 2 倍，说明氯化硝基四氮唑蓝适合作为镀 Co 的抑制剂。",
+      "human_note": "证据表明NBT用作镀钴的抑制剂（抑制电沉积），而非缓蚀剂（used_as_inhibitor定义）。谓词错误，应修正为抑制沉积。"
+    },
+    {
+      "fact_id": "fact_855d8726897365b4",
+      "human": "supported",
+      "panel": "unsupported",
+      "panel_votes": {
+        "deepseek-v4-pro-0813": "unsupported",
+        "glm-5.3-shouyun": "partial",
+        "kimi-k2.6": "supported",
+        "qwen3.6-plus": "unsupported",
+        "qwen3.7-max": "unsupported"
+      },
+      "subject": "SA",
+      "predicate": "improves_filling",
+      "object": "void",
+      "evidence": "• A novel safranine (SA)-based acidic sulfate copper plating behaves the excellent copper void-free filling of through hole.",
+      "human_note": "证据明确表明基于SA的酸性硫酸铜电镀实现了优异的通孔无空洞填充，因此SA改善填充（避免空洞）。"
+    },
+    {
+      "fact_id": "fact_9c7536f1ca3aae5f",
+      "human": "supported",
+      "panel": "partial",
+      "panel_votes": {
+        "deepseek-v4-pro-0813": "partial",
+        "glm-5.3-shouyun": "supported",
+        "kimi-k2.6": "partial",
+        "qwen3.6-plus": "partial",
+        "qwen3.7-max": "unsupported"
+      },
+      "subject": "JGB",
+      "predicate": "adsorbs_on",
+      "object": "electrode surface",
+      "evidence": " we compared the properties of thiamine with those of the published leveling agent JGB and found that it has a better inhibition of copper electroplating deposition and a stronger adsorption capacity on the copper surface.",
+      "human_note": "证据明确提到JGB在铜表面有更强的吸附能力，铜表面属于电极表面的一种，因此三元组成立。"
+    },
+    {
+      "fact_id": "fact_7d0ce8940377fa38",
+      "human": "partial",
+      "panel": "unsupported",
+      "panel_votes": {
+        "deepseek-v4-pro-0813": "unsupported",
+        "glm-5.3-shouyun": "partial",
+        "kimi-k2.6": "supported",
+        "qwen3.6-plus": "unsupported",
+        "qwen3.7-max": "partial"
+      },
+      "subject": "SA",
+      "predicate": "improves_filling",
+      "object": "void",
+      "evidence": " we develop a novel safranine (SA)-based acidic sulfate copper electronic plating process for through-hole copper void-free filling for high-quality electronics interconnection,",
+      "human_note": "证据显示SA基电镀实现无空洞的通孔填充，表明SA改善了填充性能，但客体应为填充过程或填充质量，而非“空洞”本身。"
+    }
+  ],
+  "note": "人工标签为最终真值；panel 一致率用于刻画 LLM 评审团相对专家的可靠性。"
+}

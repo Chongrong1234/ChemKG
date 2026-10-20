@@ -1,0 +1,404 @@
+cond_id,fact_id,slot,value,value2,unit,raw,scope,evidence_id,doc_id
+cond_dc9f5c34ee369cfc,fact_e9ae78765a2baeb3,concentration,0.3,,ppm,0.3 ppm,line,ev_9c50efdef05d6632,doc_be9c8777d893c4b9
+cond_06ea421928794ba6,fact_e9ae78765a2baeb3,concentration,1,,ppm,1 ppm,line,ev_9c50efdef05d6632,doc_be9c8777d893c4b9
+cond_9f5531b623ec3760,fact_eeca0c7d26709ff9,concentration,200,,ppm,200 ppm,clause,ev_d928a4661d40eeb0,doc_be9c8777d893c4b9
+cond_a040fe5265250f6e,fact_f435c870d5eb5fab,concentration,1.484,,μmol/L,1.484 μmol/L,line,ev_65ab4aa4bd8116e0,doc_b2eba6884e6cbbba
+cond_f1043898090dbaef,fact_f435c870d5eb5fab,potential,0.712,,V,0.712 V,line,ev_65ab4aa4bd8116e0,doc_b2eba6884e6cbbba
+cond_941ce6e604203db2,fact_f435c870d5eb5fab,potential,0.654,,V,0.654 V,line,ev_65ab4aa4bd8116e0,doc_b2eba6884e6cbbba
+cond_5b6d08b071540d42,fact_f435c870d5eb5fab,potential,0.547,,V,0.547 V,line,ev_65ab4aa4bd8116e0,doc_b2eba6884e6cbbba
+cond_243af85dae668a7b,fact_a390edc6f4e4a887,geometry,3.29,,μm,3.29 μm,line,ev_50cf206ba4431d5c,doc_87673a2e0d190bd4
+cond_8b1e5ccd8186d47b,fact_a390edc6f4e4a887,geometry,2.60,,μm,2.60 μm,line,ev_50cf206ba4431d5c,doc_87673a2e0d190bd4
+cond_3da26ca1343387b1,fact_a390edc6f4e4a887,concentration,30,,mg/L,30 mg/L,line,ev_50cf206ba4431d5c,doc_87673a2e0d190bd4
+cond_816e50b52b90c966,fact_a390edc6f4e4a887,percentage,3.78,,%,3.78 %,line,ev_50cf206ba4431d5c,doc_87673a2e0d190bd4
+cond_3731d00d8dc9acdc,fact_6d6355f4c016c05f,potential,-0.525,,V,−0.525 V,line,ev_ec2f31e91187cab6,doc_87673a2e0d190bd4
+cond_e9cff64ab7b5e652,fact_6d6355f4c016c05f,concentration,40,,mg/L,40 mg/L,line,ev_ec2f31e91187cab6,doc_87673a2e0d190bd4
+cond_856a4d78535944e7,fact_6d6355f4c016c05f,potential,-0.425,,V,−0.425 V,line,ev_ec2f31e91187cab6,doc_87673a2e0d190bd4
+cond_850ffce68aa3a32c,fact_6d6355f4c016c05f,concentration,5,,mg/L,5 mg/L,line,ev_ec2f31e91187cab6,doc_87673a2e0d190bd4
+cond_db624df908b87d85,fact_6d6355f4c016c05f,concentration,10,,mg/L,10 mg/L,line,ev_ec2f31e91187cab6,doc_87673a2e0d190bd4
+cond_1ea76b8e87143de7,fact_6d6355f4c016c05f,concentration,30,,mg/L,30 mg/L,line,ev_ec2f31e91187cab6,doc_87673a2e0d190bd4
+cond_8cdc96c171e3f3a3,fact_070c31b489d8b87d,impedance,5.9,,Ω,5.9 Ω,line,ev_cc1445dc2b47525c,doc_87673a2e0d190bd4
+cond_c650d50484ea04f3,fact_070c31b489d8b87d,concentration,5,,mg/L,5 mg/L,line,ev_cc1445dc2b47525c,doc_87673a2e0d190bd4
+cond_897a97cb47d8219b,fact_070c31b489d8b87d,concentration,10,,mg/L,10 mg/L,line,ev_cc1445dc2b47525c,doc_87673a2e0d190bd4
+cond_593fa25519a2c1f8,fact_070c31b489d8b87d,impedance,5.5,,Ω,5.5 Ω,line,ev_cc1445dc2b47525c,doc_87673a2e0d190bd4
+cond_8d226da8b3cd228b,fact_070c31b489d8b87d,impedance,5.1,,Ω,5.1 Ω,line,ev_cc1445dc2b47525c,doc_87673a2e0d190bd4
+cond_29ffc94884243356,fact_070c31b489d8b87d,concentration,20,,mg/L,20 mg/L,line,ev_cc1445dc2b47525c,doc_87673a2e0d190bd4
+cond_6c5cffb1b7e9e8cf,fact_070c31b489d8b87d,concentration,40,,mg/L,40 mg/L,line,ev_cc1445dc2b47525c,doc_87673a2e0d190bd4
+cond_35f94c227ceabb2c,fact_070c31b489d8b87d,impedance,4.9,,Ω,4.9 Ω,line,ev_cc1445dc2b47525c,doc_87673a2e0d190bd4
+cond_247f40c3afed80dd,fact_070c31b489d8b87d,impedance,4.6,,Ω,4.6 Ω,line,ev_cc1445dc2b47525c,doc_87673a2e0d190bd4
+cond_88217398f0b44ff7,fact_58faac053a4a5565,geometry,3.29,,μm,3.29 μm,line,ev_ef4b5a2f0e65ad6c,doc_87673a2e0d190bd4
+cond_0b04b33b8c5bc0e1,fact_58faac053a4a5565,geometry,2.60,,μm,2.60 μm,line,ev_ef4b5a2f0e65ad6c,doc_87673a2e0d190bd4
+cond_df20fb6632754c71,fact_58faac053a4a5565,concentration,30,,mg/L,30 mg/L,line,ev_ef4b5a2f0e65ad6c,doc_87673a2e0d190bd4
+cond_9fe4eeb9a3cdbda8,fact_58faac053a4a5565,percentage,3.78,,%,3.78 %,line,ev_ef4b5a2f0e65ad6c,doc_87673a2e0d190bd4
+cond_18a68c6ccb5e136e,fact_dee21eb00948b969,percentage,100,,%,100 %,line,ev_6b52836ee4b439e8,doc_993113d3d1cc9178
+cond_890980d1377c1016,fact_9e6cfc86b3b7f6cf,concentration,200,,ppm,200 ppm,line,ev_c64e1982a72719ed,doc_993113d3d1cc9178
+cond_7f507422daa9220a,fact_9e6cfc86b3b7f6cf,concentration,2,,ppm,2 ppm,line,ev_c64e1982a72719ed,doc_993113d3d1cc9178
+cond_478bf3d583db090d,fact_9e6cfc86b3b7f6cf,concentration,0.1,,ppm,0.1 ppm,line,ev_c64e1982a72719ed,doc_993113d3d1cc9178
+cond_b57701b72dab3a6c,fact_9e6cfc86b3b7f6cf,concentration,0.3,,ppm,0.3 ppm,line,ev_c64e1982a72719ed,doc_993113d3d1cc9178
+cond_26ed281c868927b7,fact_9e6cfc86b3b7f6cf,concentration,0.5,,ppm,0.5 ppm,line,ev_c64e1982a72719ed,doc_993113d3d1cc9178
+cond_1d3b778a665c878b,fact_c9ac896dee8a3ed0,concentration,0.5,,ppm,0.5 ppm,line,ev_c4865b334563821e,doc_993113d3d1cc9178
+cond_c234c297f4d142f1,fact_c9ac896dee8a3ed0,potential,-0.30,,V,−0.30 V,line,ev_c4865b334563821e,doc_993113d3d1cc9178
+cond_16738b9a4e74a468,fact_7d0ce8940377fa38,percentage,0.04,22.53,%,0.04–22.53%,line,ev_6a0fa3ff0673bec7,doc_e4d0aec36424f1af
+cond_ebc8d8715344f822,fact_87d8309411a9c1ac,percentage,0.04,22.53,%,0.04–22.53%,line,ev_6a0fa3ff0673bec7,doc_e4d0aec36424f1af
+cond_69a0570e8ca45008,fact_a99c8d2adda8a587,concentration,220,,g/L,220 g/L,line,ev_6fa0cfbc127fc6d6,doc_e4d0aec36424f1af
+cond_4651d3f2ea84693c,fact_a99c8d2adda8a587,time,5,,h,5 H,line,ev_6fa0cfbc127fc6d6,doc_e4d0aec36424f1af
+cond_137728e3e62b699d,fact_a99c8d2adda8a587,concentration,49,,g/L,49 g/L,line,ev_6fa0cfbc127fc6d6,doc_e4d0aec36424f1af
+cond_45dece4241a2aa99,fact_a99c8d2adda8a587,concentration,60,,mg/L,60 mg/L,line,ev_6fa0cfbc127fc6d6,doc_e4d0aec36424f1af
+cond_39209e61d4924ec3,fact_a99c8d2adda8a587,concentration,300,,mg/L,300 mg/L,line,ev_6fa0cfbc127fc6d6,doc_e4d0aec36424f1af
+cond_da4e4b1487ac931e,fact_a99c8d2adda8a587,concentration,2,,mg/L,2 mg/L,line,ev_6fa0cfbc127fc6d6,doc_e4d0aec36424f1af
+cond_ef7e531131c32a45,fact_a99c8d2adda8a587,concentration,4,,mg/L,4 mg/L,line,ev_6fa0cfbc127fc6d6,doc_e4d0aec36424f1af
+cond_21b6327650813fab,fact_a99c8d2adda8a587,temperature,298,,K,298 K,line,ev_6fa0cfbc127fc6d6,doc_e4d0aec36424f1af
+cond_0d6a0beb16669bba,fact_a99c8d2adda8a587,geometry,16.20,,μm,16.20 µm,line,ev_6fa0cfbc127fc6d6,doc_e4d0aec36424f1af
+cond_68a97c942f61465c,fact_a99c8d2adda8a587,geometry,53.54,,μm,53.54 µm,line,ev_6fa0cfbc127fc6d6,doc_e4d0aec36424f1af
+cond_b14c3ff0f9188227,fact_593442f7dfe97610,potential,0.153,,V,0.153 V,line,ev_1e8fd0e4a9e448ff,doc_14fb9885487f33dd
+cond_7e922783fa9509a4,fact_593442f7dfe97610,potential,0.202,,V,0.202 V,line,ev_1e8fd0e4a9e448ff,doc_14fb9885487f33dd
+cond_dabb72762e5139c2,fact_593442f7dfe97610,potential,0.214,,V,0.214 V,line,ev_1e8fd0e4a9e448ff,doc_14fb9885487f33dd
+cond_65e98ad3bfee5d08,fact_576e39cdf760b0de,potential,22,,mV,22 mV,line,ev_02f71d971f4491b6,doc_4ee81ed09e6aba17
+cond_92727494dc5d7a37,fact_576e39cdf760b0de,concentration,60,,ppm,60 ppm,line,ev_02f71d971f4491b6,doc_4ee81ed09e6aba17
+cond_830f6cb9d758cb32,fact_2d5a18a75d424474,geometry,0.35,,μm,0.35um,line,ev_ee841dfce04fb17e,doc_4ee81ed09e6aba17
+cond_c42a1340c2cf4496,fact_2d5a18a75d424474,geometry,2.43,,μm,2.43um,line,ev_ee841dfce04fb17e,doc_4ee81ed09e6aba17
+cond_932d9a6c7be8c42c,fact_2d5a18a75d424474,geometry,0.16,,μm,0.16um,line,ev_ee841dfce04fb17e,doc_4ee81ed09e6aba17
+cond_ef8ad013f108a666,fact_2d5a18a75d424474,geometry,0.93,,μm,0.93um,line,ev_ee841dfce04fb17e,doc_4ee81ed09e6aba17
+cond_3769ade6c6ef8ff1,fact_2d5a18a75d424474,time,13,,h,13h,line,ev_ee841dfce04fb17e,doc_4ee81ed09e6aba17
+cond_3fb6253b131bab8a,fact_2d5a18a75d424474,potential,24,,mV,24 mV,line,ev_ee841dfce04fb17e,doc_4ee81ed09e6aba17
+cond_43fef9f8c861a7a1,fact_2d5a18a75d424474,time,45,,min,45 min,line,ev_ee841dfce04fb17e,doc_4ee81ed09e6aba17
+cond_609345a64e105910,fact_e98c1e5e9edd71ac,geometry,0.35,,μm,0.35um,line,ev_ee841dfce04fb17e,doc_4ee81ed09e6aba17
+cond_90661e3023a361fc,fact_e98c1e5e9edd71ac,geometry,2.43,,μm,2.43um,line,ev_ee841dfce04fb17e,doc_4ee81ed09e6aba17
+cond_fee3b244028e80ba,fact_e98c1e5e9edd71ac,geometry,0.16,,μm,0.16um,line,ev_ee841dfce04fb17e,doc_4ee81ed09e6aba17
+cond_7a1cb57d9ee4f2f3,fact_e98c1e5e9edd71ac,geometry,0.93,,μm,0.93um,line,ev_ee841dfce04fb17e,doc_4ee81ed09e6aba17
+cond_0a492f2e3c20f285,fact_e98c1e5e9edd71ac,time,13,,h,13h,line,ev_ee841dfce04fb17e,doc_4ee81ed09e6aba17
+cond_c05461bef0a9821e,fact_e98c1e5e9edd71ac,potential,24,,mV,24 mV,line,ev_ee841dfce04fb17e,doc_4ee81ed09e6aba17
+cond_c879619074b86eef,fact_e98c1e5e9edd71ac,time,45,,min,45 min,line,ev_ee841dfce04fb17e,doc_4ee81ed09e6aba17
+cond_436728ddf5aad2b4,fact_c79d8b1a3c925c28,concentration,200,,ppm,200 ppm,line,ev_881723dc63159048,doc_4ee81ed09e6aba17
+cond_0b1200fe438a5781,fact_c79d8b1a3c925c28,concentration,60,,ppm,60 ppm,line,ev_881723dc63159048,doc_4ee81ed09e6aba17
+cond_366cc2f266b3af7d,fact_c79d8b1a3c925c28,concentration,10,,ppm,10 ppm,line,ev_881723dc63159048,doc_4ee81ed09e6aba17
+cond_b688e551d5391667,fact_013ee2f254ee39f4,time,1,,h,1 h,clause,ev_45ae9a5d9de84279,doc_d2b6fa373f8cc76f
+cond_665adf5f651fdd38,fact_013ee2f254ee39f4,geometry,19.1,,μm,19.1 μm,line,ev_45ae9a5d9de84279,doc_d2b6fa373f8cc76f
+cond_cd310fd107a50029,fact_013ee2f254ee39f4,geometry,150,,μm,150 µm,line,ev_45ae9a5d9de84279,doc_d2b6fa373f8cc76f
+cond_5942ac356a75c52f,fact_013ee2f254ee39f4,geometry,80,,μm,80 µm,line,ev_45ae9a5d9de84279,doc_d2b6fa373f8cc76f
+cond_96b0834a44a3b799,fact_5daf61b74be9cfbb,time,1,,h,1 h,line,ev_45ae9a5d9de84279,doc_d2b6fa373f8cc76f
+cond_c763dfe655d2ab21,fact_5daf61b74be9cfbb,geometry,19.1,,μm,19.1 μm,line,ev_45ae9a5d9de84279,doc_d2b6fa373f8cc76f
+cond_a291b313fafd781c,fact_5daf61b74be9cfbb,geometry,150,,μm,150 µm,line,ev_45ae9a5d9de84279,doc_d2b6fa373f8cc76f
+cond_119ff5d57b313029,fact_5daf61b74be9cfbb,geometry,80,,μm,80 µm,line,ev_45ae9a5d9de84279,doc_d2b6fa373f8cc76f
+cond_d9f56d4f228f6194,fact_5daf61b74be9cfbb,time,60,,min,60 min,line,ev_45ae9a5d9de84279,doc_d2b6fa373f8cc76f
+cond_985f856416a7b833,fact_68478023f3b8516d,rotation,100,,rpm,100 rpm,line,ev_bbe5321930253b63,doc_d2b6fa373f8cc76f
+cond_948046be2f223407,fact_68478023f3b8516d,rotation,1000,,rpm,1000 rpm,line,ev_bbe5321930253b63,doc_d2b6fa373f8cc76f
+cond_208eb2b940ead325,fact_68478023f3b8516d,concentration,100,,mg/L,100 mg/L,line,ev_bbe5321930253b63,doc_d2b6fa373f8cc76f
+cond_8179e68cd65d9dc2,fact_68478023f3b8516d,concentration,8,,mg/L,8 mg/L,line,ev_bbe5321930253b63,doc_d2b6fa373f8cc76f
+cond_35e2607db86e3c79,fact_68478023f3b8516d,potential,15,,mV,15 mV,line,ev_bbe5321930253b63,doc_d2b6fa373f8cc76f
+cond_23084e02ab2dd464,fact_68478023f3b8516d,potential,17,,mV,17 mV,line,ev_bbe5321930253b63,doc_d2b6fa373f8cc76f
+cond_26a8e616c8c03468,fact_68478023f3b8516d,potential,18,,mV,18 mV,line,ev_bbe5321930253b63,doc_d2b6fa373f8cc76f
+cond_0e1a367d08149ec8,fact_68478023f3b8516d,time,1500,2000,s,1500-2000 s,line,ev_bbe5321930253b63,doc_d2b6fa373f8cc76f
+cond_df78c9a8ddcdfc74,fact_68478023f3b8516d,time,1000,1500,s,1000–1500 s,line,ev_bbe5321930253b63,doc_d2b6fa373f8cc76f
+cond_2969ca1e24e20432,fact_68478023f3b8516d,time,500,1000,s,500–1000 s,line,ev_bbe5321930253b63,doc_d2b6fa373f8cc76f
+cond_96c6234fdb72503b,fact_68478023f3b8516d,time,500,1000,s,500-1000 s,line,ev_bbe5321930253b63,doc_d2b6fa373f8cc76f
+cond_843efc5237e988a5,fact_68478023f3b8516d,time,1500,,s,1500 s,line,ev_bbe5321930253b63,doc_d2b6fa373f8cc76f
+cond_01fe21c728ba8d79,fact_1ee5b0e18abf822b,concentration,6,,mg/L,6 mg/L,line,ev_b7bb29cd18f48db2,doc_d2b6fa373f8cc76f
+cond_43dee25b25b6f538,fact_1ee5b0e18abf822b,concentration,60,,mg/L,60 mg/L,line,ev_b7bb29cd18f48db2,doc_d2b6fa373f8cc76f
+cond_9a5eb6163d023ca4,fact_1ee5b0e18abf822b,concentration,3,,mg/L,3 mg/L,line,ev_b7bb29cd18f48db2,doc_d2b6fa373f8cc76f
+cond_bfa9b0db58af2f83,fact_1ee5b0e18abf822b,concentration,100,,mg/L,100 mg/L,line,ev_b7bb29cd18f48db2,doc_d2b6fa373f8cc76f
+cond_a3da25ef8394eddd,fact_d248194cae1908ca,concentration,50,,ppm,50 ppm,line,ev_1874dd0ace32a42c,doc_587bb3576dee58ce
+cond_66379e14e756c06d,fact_a274164cce1655c7,concentration,50,,ppm,50 ppm,line,ev_2fbf219f2b36331f,doc_587bb3576dee58ce
+cond_f92b47435200bac5,fact_e1cec3d497cda338,geometry,70,,nm,70 nm,line,ev_791a109a02b895fa,doc_587bb3576dee58ce
+cond_b2858cb36faa359e,fact_e1cec3d497cda338,geometry,7,,nm,7 nm,line,ev_791a109a02b895fa,doc_587bb3576dee58ce
+cond_fb574fd68c6cd5f4,fact_e1cec3d497cda338,percentage,57,,%,57%,line,ev_791a109a02b895fa,doc_587bb3576dee58ce
+cond_4d06a7473bf7d6ec,fact_e1cec3d497cda338,concentration,30,,ppm,30 ppm,line,ev_791a109a02b895fa,doc_587bb3576dee58ce
+cond_317363621cabd450,fact_741361fbd0946c89,concentration,7,,mg/L,7 mg/L,line,ev_de929e8a6c41752b,doc_48a27b213c748fca
+cond_dc12f4a815076770,fact_741361fbd0946c89,potential,-1.476,,V,−1.476 V,line,ev_de929e8a6c41752b,doc_48a27b213c748fca
+cond_af0ec39b98c48994,fact_741361fbd0946c89,potential,-1.362,,V,−1.362 V,line,ev_de929e8a6c41752b,doc_48a27b213c748fca
+cond_eee9d31da31cf853,fact_7f4fd99a276423cb,concentration,7,,mg/L,7 mg/L,line,ev_de929e8a6c41752b,doc_48a27b213c748fca
+cond_1793280d7db89826,fact_7f4fd99a276423cb,potential,-1.476,,V,−1.476 V,line,ev_de929e8a6c41752b,doc_48a27b213c748fca
+cond_7ebc8af841b860c6,fact_7f4fd99a276423cb,potential,-1.362,,V,−1.362 V,line,ev_de929e8a6c41752b,doc_48a27b213c748fca
+cond_fb1763e5cf655020,fact_2dadfd9d0a8bd191,concentration,7,,mg/L,7 mg/L,line,ev_d696d7f7263147d9,doc_48a27b213c748fca
+cond_64bcca5ec1237dea,fact_2dadfd9d0a8bd191,concentration,300,,mg/L,300 mg/L,line,ev_d696d7f7263147d9,doc_48a27b213c748fca
+cond_bbbf33101e376f10,fact_36b563c0f631c118,geometry,10,,nm,10 nm,line,ev_c8716ea0f6e5b995,doc_2dc8bf297f71f660
+cond_5ce873e3bb50a781,fact_36b563c0f631c118,geometry,8,,μm,8 μm,line,ev_c8716ea0f6e5b995,doc_2dc8bf297f71f660
+cond_47a94b867addf806,fact_36b563c0f631c118,geometry,56,,μm,56 μm,line,ev_c8716ea0f6e5b995,doc_2dc8bf297f71f660
+cond_dac97c2f02b4bb73,fact_f00e85d5a2794f17,concentration,200,,ppm,200 ppm,line,ev_710656e1c006c5d4,doc_50c6ee32e831ce4c
+cond_b70df424200d3823,fact_f00e85d5a2794f17,concentration,1,,ppm,1 ppm,line,ev_710656e1c006c5d4,doc_50c6ee32e831ce4c
+cond_fab3200f269e46e2,fact_f00e85d5a2794f17,concentration,10,,ppm,10 ppm,line,ev_710656e1c006c5d4,doc_50c6ee32e831ce4c
+cond_400f300aaf971be6,fact_f00e85d5a2794f17,rotation,100,,rpm,100 rpm,line,ev_710656e1c006c5d4,doc_50c6ee32e831ce4c
+cond_3eac3ca1cd0b1bbd,fact_f00e85d5a2794f17,rotation,1000,,rpm,1000 rpm,line,ev_710656e1c006c5d4,doc_50c6ee32e831ce4c
+cond_9629b57effe12ee9,fact_4405750cc9150f64,concentration,200,,ppm,200 ppm,line,ev_710656e1c006c5d4,doc_50c6ee32e831ce4c
+cond_32f48960db93284d,fact_4405750cc9150f64,concentration,1,,ppm,1 ppm,line,ev_710656e1c006c5d4,doc_50c6ee32e831ce4c
+cond_b372cfd2f8d7f771,fact_4405750cc9150f64,concentration,10,,ppm,10 ppm,line,ev_710656e1c006c5d4,doc_50c6ee32e831ce4c
+cond_1c07dad89f6cff9e,fact_4405750cc9150f64,rotation,100,,rpm,100 rpm,line,ev_710656e1c006c5d4,doc_50c6ee32e831ce4c
+cond_4bce86d97458ac06,fact_4405750cc9150f64,rotation,1000,,rpm,1000 rpm,line,ev_710656e1c006c5d4,doc_50c6ee32e831ce4c
+cond_e501c2e6d6872174,fact_6573a596b278c763,concentration,30,40,ppm,30–40 ppm,line,ev_74bd97bba7158770,doc_50c6ee32e831ce4c
+cond_41823b6671f9b676,fact_c99caf1634a27c84,concentration,30,40,ppm,30–40 ppm,clause,ev_8eb06a76b73ab9dd,doc_50c6ee32e831ce4c
+cond_fdb7bf1ab8020e24,fact_f742f57f6afcb826,concentration,30,40,ppm,30–40 ppm,line,ev_8eb06a76b73ab9dd,doc_50c6ee32e831ce4c
+cond_90d4f8960fe1afab,fact_5114ff744dabc5a6,potential,0.84,,V,0.84 V,line,ev_e60e5627ef15cf31,doc_f6edfe7c8a8c3418
+cond_0ff199a2f0668a3e,fact_5114ff744dabc5a6,concentration,100,,ppm,100 ppm,line,ev_e60e5627ef15cf31,doc_f6edfe7c8a8c3418
+cond_061b9ebb7fda882c,fact_967f57e80c9cfa3f,concentration,20,,mg/L,20 mg /L,line,ev_19c2f96a96b1be48,doc_3b7866950c617ba5
+cond_40285f80476f98c4,fact_887a83b177cc3538,concentration,20,,mg/L,20 mg /L,clause,ev_19c2f96a96b1be48,doc_3b7866950c617ba5
+cond_a4f0b29be5ad0389,fact_98144cfabf5658e0,potential,-430,,mV,-430 mV,line,ev_a9ec0f1985115a2d,doc_3b7866950c617ba5
+cond_a0e091b1943cccd7,fact_98144cfabf5658e0,potential,-575,,mV,-575 mV,line,ev_a9ec0f1985115a2d,doc_3b7866950c617ba5
+cond_fa92be656ecabcd8,fact_98144cfabf5658e0,potential,-583,,mV,-583 mV,line,ev_a9ec0f1985115a2d,doc_3b7866950c617ba5
+cond_89432d64b025304d,fact_98144cfabf5658e0,percentage,28,,%,28%,line,ev_a9ec0f1985115a2d,doc_3b7866950c617ba5
+cond_c83281c000f0131c,fact_98144cfabf5658e0,percentage,36,,%,36%,line,ev_a9ec0f1985115a2d,doc_3b7866950c617ba5
+cond_eee24dfe9b382b46,fact_a1aaeac5981b09dd,potential,230,,mV,230 mV,line,ev_cd4b3f7ee0e31e5f,doc_3b7866950c617ba5
+cond_a95f8976d9d5c26f,fact_a1aaeac5981b09dd,potential,31,,mV,31 mV,line,ev_cd4b3f7ee0e31e5f,doc_3b7866950c617ba5
+cond_d132f00552c99d2d,fact_a1aaeac5981b09dd,potential,42,,mV,42 mV,line,ev_cd4b3f7ee0e31e5f,doc_3b7866950c617ba5
+cond_d6c7e5091832ef5b,fact_a1aaeac5981b09dd,potential,205,,mV,205 mV,line,ev_cd4b3f7ee0e31e5f,doc_3b7866950c617ba5
+cond_ad1ccb5458c21c8b,fact_a1aaeac5981b09dd,potential,-191,,mV,-191 mV,line,ev_cd4b3f7ee0e31e5f,doc_3b7866950c617ba5
+cond_d779056827cd3039,fact_c47586e30fceaffb,geometry,125,,mm,125 mm,line,ev_9823c89ac54bdefc,doc_3b7866950c617ba5
+cond_11e55a7ac0b2a12b,fact_c47586e30fceaffb,geometry,150,,mm,150 mm,line,ev_9823c89ac54bdefc,doc_3b7866950c617ba5
+cond_786771cfcb11e39d,fact_d2b76f7f8435dbfc,potential,31,,mV,31 mV,line,ev_f577313cd536e71a,doc_fa5bc2d2b699aa44
+cond_e5f92294b51b1b3f,fact_d2b76f7f8435dbfc,percentage,136.7,,%,136.7%,line,ev_f577313cd536e71a,doc_fa5bc2d2b699aa44
+cond_cffd94254e32d634,fact_d2b76f7f8435dbfc,potential,19.3,,mV,19.3 mV,line,ev_f577313cd536e71a,doc_fa5bc2d2b699aa44
+cond_b9aaa91a20e2cf1b,fact_d2b76f7f8435dbfc,percentage,96.8,,%,96.8%,line,ev_f577313cd536e71a,doc_fa5bc2d2b699aa44
+cond_c940e6b889abfd25,fact_681453fd7459a7a7,potential,31,,mV,31 mV,line,ev_f577313cd536e71a,doc_fa5bc2d2b699aa44
+cond_39ea88b477784858,fact_681453fd7459a7a7,percentage,136.7,,%,136.7%,line,ev_f577313cd536e71a,doc_fa5bc2d2b699aa44
+cond_c38d7c69d0be23f6,fact_681453fd7459a7a7,potential,19.3,,mV,19.3 mV,line,ev_f577313cd536e71a,doc_fa5bc2d2b699aa44
+cond_7feac16b9ce7ceca,fact_681453fd7459a7a7,percentage,96.8,,%,96.8%,line,ev_f577313cd536e71a,doc_fa5bc2d2b699aa44
+cond_3b91d08a78697995,fact_888bb30400637d53,geometry,12.6,,μm,12.6 μm,line,ev_c663fb81d47cacb4,doc_d0cdc7dd1f1baa66
+cond_122fc4c79094f5fb,fact_888bb30400637d53,geometry,7.4,,μm,7.4 μm,line,ev_c663fb81d47cacb4,doc_d0cdc7dd1f1baa66
+cond_6bcdeba0803ab662,fact_ab5553d8e053dc24,geometry,12.6,,μm,12.6 μm,line,ev_c663fb81d47cacb4,doc_d0cdc7dd1f1baa66
+cond_4c7f0d88071904a6,fact_ab5553d8e053dc24,geometry,7.4,,μm,7.4 μm,line,ev_c663fb81d47cacb4,doc_d0cdc7dd1f1baa66
+cond_64bb4c9daf75e054,fact_7345b8349a1f1d0c,geometry,11.7,,μm,11.7 μm,clause,ev_7a21600f3d847146,doc_d0cdc7dd1f1baa66
+cond_52f735c540073b85,fact_7345b8349a1f1d0c,geometry,13.9,,μm,13.9 μm,clause,ev_7a21600f3d847146,doc_d0cdc7dd1f1baa66
+cond_dd5a4548fff124e6,fact_7345b8349a1f1d0c,geometry,10.4,,μm,10.4 μm,clause,ev_7a21600f3d847146,doc_d0cdc7dd1f1baa66
+cond_4b5935317bc5b4fb,fact_7345b8349a1f1d0c,geometry,6.9,,μm,6.9 μm,clause,ev_7a21600f3d847146,doc_d0cdc7dd1f1baa66
+cond_e107a7ac6f655243,fact_c256284c38fddda6,geometry,11.7,,μm,11.7 μm,line,ev_7a21600f3d847146,doc_d0cdc7dd1f1baa66
+cond_3a98a8d6b7eef404,fact_c256284c38fddda6,geometry,13.9,,μm,13.9 μm,line,ev_7a21600f3d847146,doc_d0cdc7dd1f1baa66
+cond_5266730aec46065d,fact_c256284c38fddda6,geometry,10.4,,μm,10.4 μm,line,ev_7a21600f3d847146,doc_d0cdc7dd1f1baa66
+cond_fff99a8efab20c4b,fact_c256284c38fddda6,geometry,6.9,,μm,6.9 μm,line,ev_7a21600f3d847146,doc_d0cdc7dd1f1baa66
+cond_5a4cc07741b5ec98,fact_c34639f248045095,rotation,500,,rpm,500 rpm,line,ev_6c91b229629864de,doc_d0cdc7dd1f1baa66
+cond_29e4513e660abf7c,fact_c34639f248045095,potential,-0.02,,V,-0.02V,line,ev_6c91b229629864de,doc_d0cdc7dd1f1baa66
+cond_3826fbc3769efe79,fact_c34639f248045095,potential,-0.04,,V,-0.04V,line,ev_6c91b229629864de,doc_d0cdc7dd1f1baa66
+cond_0480d91dfc8411fe,fact_c34639f248045095,potential,-0.05,,V,-0.05V,line,ev_6c91b229629864de,doc_d0cdc7dd1f1baa66
+cond_0e8f55ae454d63d9,fact_b88c4a91456e6c2d,potential,-1.35,,V,-1.35V,clause,ev_2ca4f63da7d8978f,doc_d0cdc7dd1f1baa66
+cond_bff751847129c082,fact_b88c4a91456e6c2d,potential,-1.38,,V,-1.38V,clause,ev_2ca4f63da7d8978f,doc_d0cdc7dd1f1baa66
+cond_d2495e44705e2c83,fact_b88c4a91456e6c2d,rotation,500,,rpm,500rpm,line,ev_2ca4f63da7d8978f,doc_d0cdc7dd1f1baa66
+cond_3b5fde376ad3ba95,fact_b88c4a91456e6c2d,rotation,1000,,rpm,1000 rpm,line,ev_2ca4f63da7d8978f,doc_d0cdc7dd1f1baa66
+cond_ad21979115aaf37f,fact_ed616cf1d6fe03f6,concentration,20,,μmol/L,20 μmol/L,line,ev_640ef590c385ac39,doc_d0cdc7dd1f1baa66
+cond_42f73622398763cb,fact_6c1cd5f1721de927,time,7,,h,7 H,line,ev_d1088128c8932e0c,doc_d0cdc7dd1f1baa66
+cond_959efa75a094a396,fact_f91b2ab55a55a655,concentration,7,,mg/L,7 mg/L,line,ev_b8d91eafc92311be,doc_d0cdc7dd1f1baa66
+cond_50941a9688be4ba9,fact_f91b2ab55a55a655,concentration,100,,mg/L,100 mg/L,line,ev_b8d91eafc92311be,doc_d0cdc7dd1f1baa66
+cond_86371765a4b6d1ec,fact_f91b2ab55a55a655,concentration,20,,mg/L,20mg/L,line,ev_b8d91eafc92311be,doc_d0cdc7dd1f1baa66
+cond_fbab829a3656ef1a,fact_b280aaeeff57c79c,concentration,7,,mg/L,7 mg/L,clause,ev_b8d91eafc92311be,doc_d0cdc7dd1f1baa66
+cond_2775e5de09995a05,fact_ec4dd9dd10e1fbe4,concentration,20,,mg/L,20 mg/L,clause,ev_b92ebb69ea8b6ee7,doc_d0cdc7dd1f1baa66
+cond_9d20003045f2f0e9,fact_ec4dd9dd10e1fbe4,geometry,1,,μm,1 μm,line,ev_b92ebb69ea8b6ee7,doc_d0cdc7dd1f1baa66
+cond_abd9aebf1aa28567,fact_7c81c41223e7a0aa,concentration,20,,mg/L,20 mg/L,clause,ev_b92ebb69ea8b6ee7,doc_d0cdc7dd1f1baa66
+cond_7885e67211e32403,fact_7c81c41223e7a0aa,geometry,1,,μm,1 μm,line,ev_b92ebb69ea8b6ee7,doc_d0cdc7dd1f1baa66
+cond_0690be0866d35aed,fact_4e874d8e89ae6ee5,concentration,20,,mg/L,20mg/L,line,ev_63ca53c2e2f92367,doc_d0cdc7dd1f1baa66
+cond_802867c553ded766,fact_5b6d99be01b003de,concentration,2,,mg/L,2 mg/L,clause,ev_6291a830a034c97c,doc_d0cdc7dd1f1baa66
+cond_4c13ba25e459bfb4,fact_5b6d99be01b003de,potential,-1.25,,V,-1.25 V,line,ev_6291a830a034c97c,doc_d0cdc7dd1f1baa66
+cond_8686e6f3096a7f2c,fact_5b6d99be01b003de,potential,-1.40,,V,-1.40 V,line,ev_6291a830a034c97c,doc_d0cdc7dd1f1baa66
+cond_df6ecd5faef33556,fact_21b0457430862afa,potential,-1.60,,V,-1.60 V,line,ev_05a98f4a2474ba5d,doc_d0cdc7dd1f1baa66
+cond_88ad1d7d8bf671b9,fact_21b0457430862afa,potential,-1.20,,V,-1.20 V,line,ev_05a98f4a2474ba5d,doc_d0cdc7dd1f1baa66
+cond_63aa4b0256b3fb05,fact_1b1d9cda98e4fb62,concentration,20,,mg/L,20 mg/L,line,ev_d565c4cb2f56cdb4,doc_d0cdc7dd1f1baa66
+cond_c6d9736034eb463e,fact_1b1d9cda98e4fb62,concentration,10,,mg/L,10 mg/L,line,ev_d565c4cb2f56cdb4,doc_d0cdc7dd1f1baa66
+cond_c02a3eea48e8e8b0,fact_1b1d9cda98e4fb62,potential,-1.25,,V,-1.25V,line,ev_d565c4cb2f56cdb4,doc_d0cdc7dd1f1baa66
+cond_cbc29aaf34f3a81c,fact_f91784684f279a08,concentration,10,,mg/L,10mg/L,line,ev_22f68becdd70f11a,doc_d0cdc7dd1f1baa66
+cond_c4af31bdd473d751,fact_bc3143a03160573d,potential,-1.25,,V,-1.25 V,line,ev_fa10f513731ba7da,doc_d0cdc7dd1f1baa66
+cond_428d7d56372b71ee,fact_bc3143a03160573d,potential,-1.30,,V,-1.30 V,line,ev_fa10f513731ba7da,doc_d0cdc7dd1f1baa66
+cond_3c887c30674bd405,fact_bc3143a03160573d,time,2,,h,2h,line,ev_fa10f513731ba7da,doc_d0cdc7dd1f1baa66
+cond_fb735d03ec7fb292,fact_bc3143a03160573d,geometry,8.6,,μm,8.6 μm,line,ev_fa10f513731ba7da,doc_d0cdc7dd1f1baa66
+cond_81f39976cb07f2da,fact_bc3143a03160573d,geometry,10.4,,μm,10.4 μm,line,ev_fa10f513731ba7da,doc_d0cdc7dd1f1baa66
+cond_50c0e918ba0e5882,fact_bc3143a03160573d,geometry,15.6,,μm,15.6 μm,line,ev_fa10f513731ba7da,doc_d0cdc7dd1f1baa66
+cond_bdbd21de0e6f121f,fact_bc3143a03160573d,geometry,19.2,,μm,19.2 μm,line,ev_fa10f513731ba7da,doc_d0cdc7dd1f1baa66
+cond_3ba52b8c05a37688,fact_43ba5e11f9dbd941,rotation,0,,rpm,0rpm,clause,ev_1cbd1eebb36fe1f9,doc_d0cdc7dd1f1baa66
+cond_61848d7d82f62bf3,fact_43ba5e11f9dbd941,rotation,100,,rpm,100rpm,clause,ev_1cbd1eebb36fe1f9,doc_d0cdc7dd1f1baa66
+cond_9bbe4ec4bc7f77cf,fact_43ba5e11f9dbd941,rotation,500,,rpm,500rpm,clause,ev_1cbd1eebb36fe1f9,doc_d0cdc7dd1f1baa66
+cond_8ef439fe15866e3f,fact_243bc4474a3cb55a,concentration,5,,mg/L,5mg/L,clause,ev_b49cda787d1b6df5,doc_d0cdc7dd1f1baa66
+cond_86348d87d2aaf887,fact_243bc4474a3cb55a,time,2,,h,2 h,line,ev_b49cda787d1b6df5,doc_d0cdc7dd1f1baa66
+cond_c64535f5f3e59903,fact_f3e068ec8a70c854,time,2,,h,2 h,line,ev_b49cda787d1b6df5,doc_d0cdc7dd1f1baa66
+cond_10c716f521e6a1a7,fact_f3e068ec8a70c854,concentration,5,,mg/L,5mg/L,line,ev_b49cda787d1b6df5,doc_d0cdc7dd1f1baa66
+cond_6f7e3e7e5376d249,fact_f3e068ec8a70c854,concentration,10,,mg/L,10mg/L,line,ev_b49cda787d1b6df5,doc_d0cdc7dd1f1baa66
+cond_67a83ca1d74e884a,fact_36696b8c8561f4d4,concentration,10,,mg/L,10mg/L,clause,ev_b49cda787d1b6df5,doc_d0cdc7dd1f1baa66
+cond_b9a497c8f53ef1c1,fact_36696b8c8561f4d4,time,2,,h,2 h,line,ev_b49cda787d1b6df5,doc_d0cdc7dd1f1baa66
+cond_5108ad1eab0dee98,fact_4c586aa2f1ea26a2,rotation,500,,rpm,500 rpm,clause,ev_7d3d455601b4f303,doc_d0cdc7dd1f1baa66
+cond_65c760e506ba4bbc,fact_36fc3d6884cbb4d0,potential,-1.19,,V,-1.19 V,clause,ev_333e6c1d0e04c778,doc_d0cdc7dd1f1baa66
+cond_c8799112a68d20ae,fact_b883b81022980c67,pH,5,,pH,pH 值为 5,line,ev_7b0048b8539cf52e,doc_d0cdc7dd1f1baa66
+cond_67007c21280bf919,fact_46c45333cef33d9e,concentration,10,,mmol/L,10 mmol/L,clause,ev_8eca8f11d91e78ff,doc_d0cdc7dd1f1baa66
+cond_f3ac22664124da89,fact_46c45333cef33d9e,concentration,20,,mg/L,20 mg/L,clause,ev_8eca8f11d91e78ff,doc_d0cdc7dd1f1baa66
+cond_cb2f0df88be5fac2,fact_46c45333cef33d9e,concentration,10,,mg/L,10 mg/L,clause,ev_8eca8f11d91e78ff,doc_d0cdc7dd1f1baa66
+cond_5796ff6173135bb1,fact_46c45333cef33d9e,geometry,50,,μm,50 μm,line,ev_8eca8f11d91e78ff,doc_d0cdc7dd1f1baa66
+cond_6cd940d813c0f839,fact_46c45333cef33d9e,geometry,102.3,,μm,102.3 μm,line,ev_8eca8f11d91e78ff,doc_d0cdc7dd1f1baa66
+cond_0596d9850828cf8c,fact_46c45333cef33d9e,percentage,90.3,,%,90.3%,line,ev_8eca8f11d91e78ff,doc_d0cdc7dd1f1baa66
+cond_fb79ace863f3e78a,fact_46c45333cef33d9e,time,16,,h,16h,line,ev_8eca8f11d91e78ff,doc_d0cdc7dd1f1baa66
+cond_9290f5e9dc8dbfc2,fact_36b16efacb8cf960,potential,-1.25,,V,-1.25V,line,ev_e04183cabeb412ea,doc_d0cdc7dd1f1baa66
+cond_4ca797e9509c983a,fact_c26ad923df2ad272,potential,-1.25,,V,-1.25V,clause,ev_e04183cabeb412ea,doc_d0cdc7dd1f1baa66
+cond_faf013aac68e8bc7,fact_7dc032ca535c2a5e,potential,-1.10,,V,-1.10V,line,ev_6dc051b1782b54ef,doc_d0cdc7dd1f1baa66
+cond_27593e8ac9a668a7,fact_7dc032ca535c2a5e,potential,-1.50,,V,-1.50V,line,ev_6dc051b1782b54ef,doc_d0cdc7dd1f1baa66
+cond_12c1700f29691c71,fact_7dc032ca535c2a5e,rotation,500,,rpm,500 rpm,line,ev_6dc051b1782b54ef,doc_d0cdc7dd1f1baa66
+cond_1e3aedc0cbdaf9ff,fact_7dc032ca535c2a5e,concentration,10,,mg/L,10mg/L,line,ev_6dc051b1782b54ef,doc_d0cdc7dd1f1baa66
+cond_da4aa87981861be8,fact_7dc032ca535c2a5e,potential,-1.20,,V,-1.20V,line,ev_6dc051b1782b54ef,doc_d0cdc7dd1f1baa66
+cond_c60d6438fd91b76f,fact_7dc032ca535c2a5e,potential,-1.25,,V,-1.25 V,line,ev_6dc051b1782b54ef,doc_d0cdc7dd1f1baa66
+cond_07e6b361dc5eb24f,fact_7dc032ca535c2a5e,concentration,30,,mg/L,30 mg/L,line,ev_6dc051b1782b54ef,doc_d0cdc7dd1f1baa66
+cond_108cc7d1e65e27e5,fact_7dc032ca535c2a5e,potential,-1.33,,V,-1.33 V,line,ev_6dc051b1782b54ef,doc_d0cdc7dd1f1baa66
+cond_3040933729d3c444,fact_f2e5ffdf5944dc09,concentration,0,,mg/L,0mg/L,line,ev_ea5d554bb854811b,doc_d0cdc7dd1f1baa66
+cond_f32297ed8a184a6f,fact_f2e5ffdf5944dc09,concentration,30,,mg/L,30mg/L,line,ev_ea5d554bb854811b,doc_d0cdc7dd1f1baa66
+cond_e465a79e2337c693,fact_28e6315da60bf663,concentration,20,,mg/L,20mg/L,clause,ev_82997b7fd3cc755b,doc_d0cdc7dd1f1baa66
+cond_48eff471e4793387,fact_4251d95fd92772e1,concentration,20,,mg/L,20 mg/L,clause,ev_e217ae113be862ec,doc_d0cdc7dd1f1baa66
+cond_80b249feea864b0b,fact_4251d95fd92772e1,potential,-1.20,,V,-1.20V,line,ev_e217ae113be862ec,doc_d0cdc7dd1f1baa66
+cond_d1f6fef749f1590d,fact_4251d95fd92772e1,potential,-1.23,,V,-1.23V,line,ev_e217ae113be862ec,doc_d0cdc7dd1f1baa66
+cond_00ce5e86ed28f2eb,fact_4251d95fd92772e1,potential,-1.50,,V,-1.50V,line,ev_e217ae113be862ec,doc_d0cdc7dd1f1baa66
+cond_3fda21f5c2475334,fact_3feeed11643e0525,potential,-1.25,,V,-1.25 V,clause,ev_f76b13e0eef61e8e,doc_d0cdc7dd1f1baa66
+cond_07b6b132e1d9aef6,fact_e614c21b8ce6a4d6,geometry,11.6,,μm,11.6 μm,clause,ev_a4e9600dd07c89e0,doc_d0cdc7dd1f1baa66
+cond_b5103b9a993349ba,fact_e614c21b8ce6a4d6,geometry,9.2,,μm,9.2 μm,clause,ev_a4e9600dd07c89e0,doc_d0cdc7dd1f1baa66
+cond_0add8cee54e1ebe7,fact_e614c21b8ce6a4d6,geometry,25.4,,μm,25.4μm,clause,ev_a4e9600dd07c89e0,doc_d0cdc7dd1f1baa66
+cond_2acf36dd13e1330c,fact_e614c21b8ce6a4d6,geometry,23.2,,μm,23.2μm,clause,ev_a4e9600dd07c89e0,doc_d0cdc7dd1f1baa66
+cond_a78a8ac70b236d64,fact_e614c21b8ce6a4d6,geometry,24.1,,μm,24.1μm,clause,ev_a4e9600dd07c89e0,doc_d0cdc7dd1f1baa66
+cond_0cd6ed91a84a6607,fact_e614c21b8ce6a4d6,time,2,,h,2h,line,ev_a4e9600dd07c89e0,doc_d0cdc7dd1f1baa66
+cond_4eed69dd4bdd941e,fact_e614c21b8ce6a4d6,percentage,79.6,,%,79.6%,line,ev_a4e9600dd07c89e0,doc_d0cdc7dd1f1baa66
+cond_e6dabebf0762c150,fact_e614c21b8ce6a4d6,percentage,84.5,,%,84.5%,line,ev_a4e9600dd07c89e0,doc_d0cdc7dd1f1baa66
+cond_6b10c93845034a93,fact_e614c21b8ce6a4d6,percentage,80.2,,%,80.2%,line,ev_a4e9600dd07c89e0,doc_d0cdc7dd1f1baa66
+cond_ed17319c8788f502,fact_17b7451a6165541b,percentage,79.6,,%,79.6%,clause,ev_a4e9600dd07c89e0,doc_d0cdc7dd1f1baa66
+cond_a755ac736a95a554,fact_17b7451a6165541b,percentage,84.5,,%,84.5%,clause,ev_a4e9600dd07c89e0,doc_d0cdc7dd1f1baa66
+cond_2ba6eda500af9466,fact_17b7451a6165541b,percentage,80.2,,%,80.2%,clause,ev_a4e9600dd07c89e0,doc_d0cdc7dd1f1baa66
+cond_9f19d5afcc413265,fact_17b7451a6165541b,time,2,,h,2h,line,ev_a4e9600dd07c89e0,doc_d0cdc7dd1f1baa66
+cond_0a1f37aaac73b613,fact_17b7451a6165541b,geometry,11.0,,μm,11.0 μm,line,ev_a4e9600dd07c89e0,doc_d0cdc7dd1f1baa66
+cond_56e065a491bc142a,fact_17b7451a6165541b,geometry,11.6,,μm,11.6 μm,line,ev_a4e9600dd07c89e0,doc_d0cdc7dd1f1baa66
+cond_8534fd6baf11bbb9,fact_17b7451a6165541b,geometry,9.2,,μm,9.2 μm,line,ev_a4e9600dd07c89e0,doc_d0cdc7dd1f1baa66
+cond_44955fcd84802a4a,fact_17b7451a6165541b,geometry,25.4,,μm,25.4μm,line,ev_a4e9600dd07c89e0,doc_d0cdc7dd1f1baa66
+cond_4693dd93054fe0ae,fact_17b7451a6165541b,geometry,23.2,,μm,23.2μm,line,ev_a4e9600dd07c89e0,doc_d0cdc7dd1f1baa66
+cond_f49ae4b65bb88cc2,fact_17b7451a6165541b,geometry,24.1,,μm,24.1μm,line,ev_a4e9600dd07c89e0,doc_d0cdc7dd1f1baa66
+cond_eed361989d40d73e,fact_17b7451a6165541b,geometry,100,,μm,100μm,line,ev_a4e9600dd07c89e0,doc_d0cdc7dd1f1baa66
+cond_1da31d37637ea3ca,fact_17b7451a6165541b,geometry,109.3,,μm,109.3 μm,line,ev_a4e9600dd07c89e0,doc_d0cdc7dd1f1baa66
+cond_0b0b50dec7476035,fact_17b7451a6165541b,geometry,116.2,,μm,116.2 μm,line,ev_a4e9600dd07c89e0,doc_d0cdc7dd1f1baa66
+cond_928db8e6d8395adb,fact_17b7451a6165541b,geometry,108.9,,μm,108.9 μm,line,ev_a4e9600dd07c89e0,doc_d0cdc7dd1f1baa66
+cond_b9ae2a407d6cbc99,fact_ef47dc27fc1eb69b,potential,-1.25,,V,-1.25 V,clause,ev_caaf414ccd6e38fc,doc_d0cdc7dd1f1baa66
+cond_5fb5abfe5b283daf,fact_ef47dc27fc1eb69b,time,60,,s,60 s,line,ev_caaf414ccd6e38fc,doc_d0cdc7dd1f1baa66
+cond_1315f6be67fb1e65,fact_ef47dc27fc1eb69b,pH,4,,pH,pH 值为 4,line,ev_caaf414ccd6e38fc,doc_d0cdc7dd1f1baa66
+cond_7d975841a1c057b1,fact_7a07538692dde1c8,rotation,500,,rpm,500 rpm,line,ev_edf1d6a8c53fe42f,doc_d0cdc7dd1f1baa66
+cond_eccb38adf2140774,fact_c1e3cade2abf0f1b,concentration,20,,mg/L,20 mg/L,clause,ev_3993572e318f8c2b,doc_d0cdc7dd1f1baa66
+cond_bafc91f333211c88,fact_c1e3cade2abf0f1b,time,1,,h,1h,clause,ev_3993572e318f8c2b,doc_d0cdc7dd1f1baa66
+cond_7a71dcdc52776d32,fact_c1e3cade2abf0f1b,geometry,33.3,,μm,33.3μm,line,ev_3993572e318f8c2b,doc_d0cdc7dd1f1baa66
+cond_677c115d9938c175,fact_c1e3cade2abf0f1b,geometry,29.1,,μm,29.1μm,line,ev_3993572e318f8c2b,doc_d0cdc7dd1f1baa66
+cond_8d42d9848d450b0b,fact_c1e3cade2abf0f1b,geometry,26.5,,μm,26.5μm,line,ev_3993572e318f8c2b,doc_d0cdc7dd1f1baa66
+cond_9bfef6f056f68d74,fact_9d5a6d3b14bd6f34,concentration,20,,mg/L,20 mg/L,line,ev_3993572e318f8c2b,doc_d0cdc7dd1f1baa66
+cond_f83384100d1d2925,fact_9d5a6d3b14bd6f34,time,1,,h,1h,line,ev_3993572e318f8c2b,doc_d0cdc7dd1f1baa66
+cond_b0054f3f42a04610,fact_9d5a6d3b14bd6f34,time,6,,h,6h,line,ev_3993572e318f8c2b,doc_d0cdc7dd1f1baa66
+cond_b6601116fb3482b3,fact_9d5a6d3b14bd6f34,geometry,33.3,,μm,33.3μm,line,ev_3993572e318f8c2b,doc_d0cdc7dd1f1baa66
+cond_88c244126dce9b03,fact_9d5a6d3b14bd6f34,geometry,29.1,,μm,29.1μm,line,ev_3993572e318f8c2b,doc_d0cdc7dd1f1baa66
+cond_8414f2b10ff4df10,fact_9d5a6d3b14bd6f34,geometry,26.5,,μm,26.5μm,line,ev_3993572e318f8c2b,doc_d0cdc7dd1f1baa66
+cond_e89277a850eb2ac0,fact_676de1710993509c,concentration,20,,mg/L,20 mg/L,line,ev_3993572e318f8c2b,doc_d0cdc7dd1f1baa66
+cond_897db850e075e067,fact_676de1710993509c,time,1,,h,1h,line,ev_3993572e318f8c2b,doc_d0cdc7dd1f1baa66
+cond_d725f4b3b996fc03,fact_676de1710993509c,time,6,,h,6h,line,ev_3993572e318f8c2b,doc_d0cdc7dd1f1baa66
+cond_637bac13c9e273b4,fact_676de1710993509c,geometry,33.3,,μm,33.3μm,line,ev_3993572e318f8c2b,doc_d0cdc7dd1f1baa66
+cond_7b4574e2f691209d,fact_676de1710993509c,geometry,29.1,,μm,29.1μm,line,ev_3993572e318f8c2b,doc_d0cdc7dd1f1baa66
+cond_118fd93aa3cbe44c,fact_676de1710993509c,geometry,26.5,,μm,26.5μm,line,ev_3993572e318f8c2b,doc_d0cdc7dd1f1baa66
+cond_06d4b80f668f813c,fact_c695de62dff7ff15,time,2,,h,2 h,line,ev_53dc4bb826160cac,doc_d0cdc7dd1f1baa66
+cond_9504f3657cf3c356,fact_d777b20cf6bd46e7,time,2,,h,2 h,line,ev_53dc4bb826160cac,doc_d0cdc7dd1f1baa66
+cond_a1123e6ef523b64f,fact_49736b717f6368d4,time,2,,h,2 h,line,ev_53dc4bb826160cac,doc_d0cdc7dd1f1baa66
+cond_4dd34c12b3fbc9e9,fact_fc2268d66b8a1207,potential,-1.20,,V,-1.20 V,line,ev_ece7545bd13baa66,doc_d0cdc7dd1f1baa66
+cond_ad288c0fcc02e8c9,fact_fc2268d66b8a1207,rotation,0,,rpm,0 rpm,line,ev_ece7545bd13baa66,doc_d0cdc7dd1f1baa66
+cond_d1efe07d4e4649dd,fact_fc2268d66b8a1207,time,20,,min,20 min,line,ev_ece7545bd13baa66,doc_d0cdc7dd1f1baa66
+cond_8e04b20ddb7b6579,fact_fc2268d66b8a1207,concentration,10,,mg/L,10 mg/L,line,ev_ece7545bd13baa66,doc_d0cdc7dd1f1baa66
+cond_208fef338a0ddd43,fact_430b152ef965e125,geometry,8.2,,μm,8.2μm,clause,ev_f7c0fdfab98de568,doc_d0cdc7dd1f1baa66
+cond_b1c1a9837994b8ce,fact_430b152ef965e125,geometry,7.1,,μm,7.1 μm,clause,ev_f7c0fdfab98de568,doc_d0cdc7dd1f1baa66
+cond_0d47f34012fea3aa,fact_430b152ef965e125,concentration,60,,mg/L,60 mg/L,line,ev_f7c0fdfab98de568,doc_d0cdc7dd1f1baa66
+cond_bf212fc4114926a8,fact_430b152ef965e125,concentration,1,,g/L,1g/L,line,ev_f7c0fdfab98de568,doc_d0cdc7dd1f1baa66
+cond_2f921b36ccad7b6f,fact_430b152ef965e125,concentration,15,,mg/L,15 mg/L,line,ev_f7c0fdfab98de568,doc_d0cdc7dd1f1baa66
+cond_923da132dad573cf,fact_1e3758d18b8c6cf6,concentration,60,,mg/L,60 mg/L,clause,ev_f7c0fdfab98de568,doc_d0cdc7dd1f1baa66
+cond_d16af90a6c254897,fact_1e3758d18b8c6cf6,geometry,8.2,,μm,8.2μm,line,ev_f7c0fdfab98de568,doc_d0cdc7dd1f1baa66
+cond_5e6ac6ba2dc400c7,fact_1e3758d18b8c6cf6,geometry,7.1,,μm,7.1 μm,line,ev_f7c0fdfab98de568,doc_d0cdc7dd1f1baa66
+cond_9839b6d24468502d,fact_c9b6a258ae042c72,concentration,0.01,,mol/L,0.01 mol/L,line,ev_05f2073126de2a0c,doc_d0cdc7dd1f1baa66
+cond_57e58f6b0b847526,fact_c9b6a258ae042c72,concentration,0.5,,mol/L,0.5 mol/L,line,ev_05f2073126de2a0c,doc_d0cdc7dd1f1baa66
+cond_62e7151ef6b4def1,fact_c9b6a258ae042c72,pH,4,,pH,pH 值为 4,line,ev_05f2073126de2a0c,doc_d0cdc7dd1f1baa66
+cond_08d0bdb78068356d,fact_f72a5d0afe7efe67,potential,-1.10,,V,-1.10V,clause,ev_b96e19de146e95b2,doc_d0cdc7dd1f1baa66
+cond_abc671906f4e02ac,fact_8bed14e981310508,concentration,20,,mg/L,20 mg/L,line,ev_72d65cb411a70749,doc_d0cdc7dd1f1baa66
+cond_ff3096b3cd879d25,fact_8bed14e981310508,concentration,0.4,,mol/L,0.4 mol/L,line,ev_72d65cb411a70749,doc_d0cdc7dd1f1baa66
+cond_ff068994d72480f2,fact_8bed14e981310508,rotation,500,,rpm,500 rpm,line,ev_72d65cb411a70749,doc_d0cdc7dd1f1baa66
+cond_609339e7f21c9b38,fact_a4b82d1f1df6065b,concentration,20,,mg/L,20 mg/L,line,ev_72d65cb411a70749,doc_d0cdc7dd1f1baa66
+cond_a69b1ff94e08fbe0,fact_a4b82d1f1df6065b,concentration,0.4,,mol/L,0.4 mol/L,line,ev_72d65cb411a70749,doc_d0cdc7dd1f1baa66
+cond_1ffc367ce25da3d4,fact_a4b82d1f1df6065b,rotation,500,,rpm,500 rpm,line,ev_72d65cb411a70749,doc_d0cdc7dd1f1baa66
+cond_8b499628dca3f351,fact_7f2c9962bf270720,time,6,,h,6 h,line,ev_937664be47c13513,doc_d0cdc7dd1f1baa66
+cond_398a156c2a32e000,fact_7f2c9962bf270720,percentage,86.1,,%,86.1%,line,ev_937664be47c13513,doc_d0cdc7dd1f1baa66
+cond_c9caf266db66830f,fact_46ce30a669ada2a8,concentration,20,,mg/L,20mg/L,line,ev_59a6a806e9f8e33a,doc_d0cdc7dd1f1baa66
+cond_d4188dbd4f1192da,fact_47d48f8f209899c9,concentration,0.4,,mol/L,0.4 mol/L,line,ev_ae531df4dbbd4824,doc_d0cdc7dd1f1baa66
+cond_2f806a850dd87f90,fact_47d48f8f209899c9,concentration,0.5,,mol/L,0.5 mol/L,line,ev_ae531df4dbbd4824,doc_d0cdc7dd1f1baa66
+cond_b7bd3242f98ed0ab,fact_47d48f8f209899c9,concentration,10,,mmol/L,10 mmol/L,line,ev_ae531df4dbbd4824,doc_d0cdc7dd1f1baa66
+cond_b1e5567177a2193f,fact_47d48f8f209899c9,concentration,20,,mg/L,20 mg/L,line,ev_ae531df4dbbd4824,doc_d0cdc7dd1f1baa66
+cond_2dd9205657797623,fact_47d48f8f209899c9,potential,-1.20,,V,-1.20V,line,ev_ae531df4dbbd4824,doc_d0cdc7dd1f1baa66
+cond_bd7208cfae640a13,fact_47d48f8f209899c9,percentage,91.9,,%,91.9%,line,ev_ae531df4dbbd4824,doc_d0cdc7dd1f1baa66
+cond_deccdf9d7801db63,fact_9c1146088e7f4191,potential,-1.20,,V,-1.20V,clause,ev_71b02095a6e252f2,doc_d0cdc7dd1f1baa66
+cond_cd5f2d3dd05b760f,fact_d58621dd388572d9,potential,-1.20,,V,-1.20V,line,ev_71b02095a6e252f2,doc_d0cdc7dd1f1baa66
+cond_3db4563f49e210ef,fact_2616bc2ada7d8eef,potential,-1.25,,V,-1.25V,line,ev_36796f3cc705d5bf,doc_d0cdc7dd1f1baa66
+cond_39eef08f1b4df585,fact_2616bc2ada7d8eef,percentage,91.9,,%,91.9%,line,ev_36796f3cc705d5bf,doc_d0cdc7dd1f1baa66
+cond_8b4055b766a1ad23,fact_2616bc2ada7d8eef,concentration,15,,mg/L,15mg/L,clause,ev_36796f3cc705d5bf,doc_d0cdc7dd1f1baa66
+cond_2944e8deca9f9d1b,fact_2616bc2ada7d8eef,concentration,10,,mg/L,10 mg/L,clause,ev_36796f3cc705d5bf,doc_d0cdc7dd1f1baa66
+cond_a9dbeb0bbaccd26b,fact_2616bc2ada7d8eef,concentration,20,,mg/L,20 mg/L,clause,ev_36796f3cc705d5bf,doc_d0cdc7dd1f1baa66
+cond_b510788aa7ee3b54,fact_ab6c9320aac77a8f,potential,-1.25,,V,-1.25V,line,ev_36796f3cc705d5bf,doc_d0cdc7dd1f1baa66
+cond_035b89b71c5788ce,fact_ab6c9320aac77a8f,potential,-1.20,,V,-1.20V,line,ev_36796f3cc705d5bf,doc_d0cdc7dd1f1baa66
+cond_7b9b8d92abd0d7cd,fact_ab6c9320aac77a8f,percentage,91.9,,%,91.9%,line,ev_36796f3cc705d5bf,doc_d0cdc7dd1f1baa66
+cond_90ddfec4742333e9,fact_ab6c9320aac77a8f,concentration,15,,mg/L,15mg/L,line,ev_36796f3cc705d5bf,doc_d0cdc7dd1f1baa66
+cond_c7f9138eb958077a,fact_ab6c9320aac77a8f,concentration,10,,mg/L,10 mg/L,line,ev_36796f3cc705d5bf,doc_d0cdc7dd1f1baa66
+cond_29d8b59a20c988c1,fact_ab6c9320aac77a8f,concentration,20,,mg/L,20 mg/L,line,ev_36796f3cc705d5bf,doc_d0cdc7dd1f1baa66
+cond_610ff1f797a521ee,fact_e5cd6bb7f46fad2d,potential,-1.20,,V,-1.20V,clause,ev_36796f3cc705d5bf,doc_d0cdc7dd1f1baa66
+cond_83f93790da51cf56,fact_e5cd6bb7f46fad2d,percentage,91.9,,%,91.9%,line,ev_36796f3cc705d5bf,doc_d0cdc7dd1f1baa66
+cond_c60d3b961e4c21d0,fact_e5cd6bb7f46fad2d,concentration,15,,mg/L,15mg/L,line,ev_36796f3cc705d5bf,doc_d0cdc7dd1f1baa66
+cond_440a9d06fad7be46,fact_e5cd6bb7f46fad2d,concentration,10,,mg/L,10 mg/L,line,ev_36796f3cc705d5bf,doc_d0cdc7dd1f1baa66
+cond_08f501524f341a77,fact_e5cd6bb7f46fad2d,concentration,20,,mg/L,20 mg/L,line,ev_36796f3cc705d5bf,doc_d0cdc7dd1f1baa66
+cond_5933b122bfa4d813,fact_2616bc2ada7d8eef,potential,-1.20,,V,-1.20V,line,ev_36796f3cc705d5bf,doc_d0cdc7dd1f1baa66
+cond_f2fa42d1da10a7a7,fact_5479ef25434a3b54,geometry,100,,μm,100μm,clause,ev_2aa0c9806b034c1c,doc_d0cdc7dd1f1baa66
+cond_af52e34681aa73f1,fact_5479ef25434a3b54,geometry,50,,μm,50μm,clause,ev_2aa0c9806b034c1c,doc_d0cdc7dd1f1baa66
+cond_844d2d6c9e71d2dd,fact_5479ef25434a3b54,percentage,90,,%,90%,clause,ev_2aa0c9806b034c1c,doc_d0cdc7dd1f1baa66
+cond_3720a0740f2ed5e2,fact_7ff0b8a75a6a525b,geometry,7,,nm,7nm,line,ev_4965c7d5e910ec37,doc_d0cdc7dd1f1baa66
+cond_999846a9a98ce971,fact_591da8a1f868eecf,geometry,5,,mm,5 mm,line,ev_16a050a4df3b4dde,doc_0108761933b3809f
+cond_2132442c244b384f,fact_591da8a1f868eecf,rotation,1600,,rpm,1600 rpm,line,ev_16a050a4df3b4dde,doc_0108761933b3809f
+cond_6fcffec202f44402,fact_591da8a1f868eecf,rotation,100,,rpm,100 rpm,line,ev_16a050a4df3b4dde,doc_0108761933b3809f
+cond_f4d2cd002e48deab,fact_591da8a1f868eecf,potential,-1.6,,V,−1.6 V,line,ev_16a050a4df3b4dde,doc_0108761933b3809f
+cond_f7ff955321376cb0,fact_591da8a1f868eecf,potential,0.02,,V,0.02 V,line,ev_16a050a4df3b4dde,doc_0108761933b3809f
+cond_124973d8c3ffa862,fact_591da8a1f868eecf,time,300,,s,300 s,line,ev_16a050a4df3b4dde,doc_0108761933b3809f
+cond_0c2054de9074bd81,fact_591da8a1f868eecf,rotation,1000,,rpm,1000 rpm,line,ev_16a050a4df3b4dde,doc_0108761933b3809f
+cond_dfaf2f2394fb76d8,fact_591da8a1f868eecf,potential,-0.15,,V,−0.15 V,line,ev_16a050a4df3b4dde,doc_0108761933b3809f
+cond_944cf4249499bbe1,fact_ac594f9d4aacc385,geometry,125,,μm,125 μm,line,ev_3267bbb3161031ff,doc_0108761933b3809f
+cond_53daf192356c05d6,fact_ac594f9d4aacc385,concentration,14,,ppm,14 ppm,line,ev_3267bbb3161031ff,doc_0108761933b3809f
+cond_2b299af946e4e481,fact_ac594f9d4aacc385,concentration,13,,ppm,13 ppm,line,ev_3267bbb3161031ff,doc_0108761933b3809f
+cond_4a5a9227f4327703,fact_ac594f9d4aacc385,geometry,100,,μm,100 µm,line,ev_3267bbb3161031ff,doc_0108761933b3809f
+cond_da0a2d7abbcc269b,fact_ac594f9d4aacc385,geometry,120,,μm,120 µm,line,ev_3267bbb3161031ff,doc_0108761933b3809f
+cond_2016b72c33c65583,fact_ac594f9d4aacc385,time,8,10,h,8–10 h,line,ev_3267bbb3161031ff,doc_0108761933b3809f
+cond_cf78ff3f815a7e34,fact_ac594f9d4aacc385,geometry,30,,μm,30 µm,line,ev_3267bbb3161031ff,doc_0108761933b3809f
+cond_18e9f0e1e53c098a,fact_27a4517fe25bf1d8,geometry,125,,μm,125 μm,line,ev_3267bbb3161031ff,doc_0108761933b3809f
+cond_30217257ee3834eb,fact_27a4517fe25bf1d8,concentration,14,,ppm,14 ppm,line,ev_3267bbb3161031ff,doc_0108761933b3809f
+cond_abd9ed237840efd0,fact_27a4517fe25bf1d8,concentration,13,,ppm,13 ppm,line,ev_3267bbb3161031ff,doc_0108761933b3809f
+cond_e04fa3fbaa2379b7,fact_27a4517fe25bf1d8,geometry,100,,μm,100 µm,line,ev_3267bbb3161031ff,doc_0108761933b3809f
+cond_cc9ec752ab06e62a,fact_27a4517fe25bf1d8,geometry,120,,μm,120 µm,line,ev_3267bbb3161031ff,doc_0108761933b3809f
+cond_04d194c212d731a3,fact_27a4517fe25bf1d8,time,8,10,h,8–10 h,line,ev_3267bbb3161031ff,doc_0108761933b3809f
+cond_ec08bfec0e53f3d6,fact_27a4517fe25bf1d8,geometry,30,,μm,30 µm,line,ev_3267bbb3161031ff,doc_0108761933b3809f
+cond_0e59e1965ace8bf4,fact_19d870bd57497029,concentration,10,,ppm,10ppm,line,ev_536c0a477f0cbc91,doc_81731ce36fa294f0
+cond_05a5a505920d6963,fact_19d870bd57497029,rotation,0,,rpm,0 rpm,line,ev_536c0a477f0cbc91,doc_81731ce36fa294f0
+cond_469ae19eda91a41e,fact_19d870bd57497029,rotation,800,,rpm,800 rpm,line,ev_536c0a477f0cbc91,doc_81731ce36fa294f0
+cond_8bb3427654ae9daa,fact_19d870bd57497029,potential,-1.24,,V,−1.24 V,line,ev_536c0a477f0cbc91,doc_81731ce36fa294f0
+cond_30a5a1ebffecc8d4,fact_19d870bd57497029,potential,-1.31,,V,−1.31 V,line,ev_536c0a477f0cbc91,doc_81731ce36fa294f0
+cond_585e4efbe2a46df2,fact_19d870bd57497029,potential,-1.26,,V,−1.26 V,line,ev_536c0a477f0cbc91,doc_81731ce36fa294f0
+cond_577691f754ffabb5,fact_19d870bd57497029,potential,-1.15,,V,−1.15 V,line,ev_536c0a477f0cbc91,doc_81731ce36fa294f0
+cond_e6fb735c30805ce4,fact_6b6480f24d65c6b1,geometry,15.9,,μm,15.9 μm,line,ev_e7da88b4738e84b7,doc_c76517f24e629b55
+cond_353be34d5a911e1e,fact_6b6480f24d65c6b1,geometry,8.8,,μm,8.8 μm,line,ev_e7da88b4738e84b7,doc_c76517f24e629b55
+cond_27818480af5b39a3,fact_6b6480f24d65c6b1,geometry,4.9,,μm,4.9 μm,line,ev_e7da88b4738e84b7,doc_c76517f24e629b55
+cond_2bd47e8fb0b27fcb,fact_91db30ce6e6a746b,potential,-1.180,,V,−1.180 V,line,ev_cee5e53832da28d4,doc_c76517f24e629b55
+cond_6911d6e38d1a14b4,fact_91db30ce6e6a746b,concentration,0,,mg/L,0 mg/L,line,ev_cee5e53832da28d4,doc_c76517f24e629b55
+cond_8e82c9394cc403e9,fact_91db30ce6e6a746b,potential,35,,mV,35 mV,line,ev_cee5e53832da28d4,doc_c76517f24e629b55
+cond_a2851aa6ed4bf439,fact_91db30ce6e6a746b,concentration,5,,mg/L,5 mg/L,line,ev_cee5e53832da28d4,doc_c76517f24e629b55
+cond_141cc16fad53136f,fact_91db30ce6e6a746b,potential,-1.215,,V,−1.215 V,line,ev_cee5e53832da28d4,doc_c76517f24e629b55
+cond_5634b546e97f1c70,fact_91db30ce6e6a746b,potential,-1.250,,V,−1.250 V,line,ev_cee5e53832da28d4,doc_c76517f24e629b55
+cond_e0566d202f1694a0,fact_91db30ce6e6a746b,concentration,20,,mg/L,20 mg/L,line,ev_cee5e53832da28d4,doc_c76517f24e629b55
+cond_387936f8a0f80b44,fact_dd0096137859ae77,impedance,30.8,,Ω,30.8 Ω,line,ev_d0f152cad9ccc6d0,doc_c76517f24e629b55
+cond_364fb5a56d3df16c,fact_dd0096137859ae77,concentration,5,,mg/L,5 mg/L,line,ev_d0f152cad9ccc6d0,doc_c76517f24e629b55
+cond_5b5e4918ed3e3464,fact_dd0096137859ae77,impedance,596.6,,Ω,596.6 Ω,line,ev_d0f152cad9ccc6d0,doc_c76517f24e629b55
+cond_9a0d25c20c158539,fact_dd0096137859ae77,impedance,400.5,,Ω,400.5 Ω,line,ev_d0f152cad9ccc6d0,doc_c76517f24e629b55
+cond_b48be97b146d3639,fact_dd0096137859ae77,concentration,15,,mg/L,15 mg/L,line,ev_d0f152cad9ccc6d0,doc_c76517f24e629b55
+cond_c60200910fc2582c,fact_dd0096137859ae77,impedance,1250,,Ω,1250 Ω,line,ev_d0f152cad9ccc6d0,doc_c76517f24e629b55
+cond_e811fd4a5c9e115c,fact_3c8a0dd8ed2a702b,percentage,40,,%,40 %,line,ev_423a1f79f217a8ba,doc_c76517f24e629b55
+cond_dd2942a873b20c9e,fact_3c8a0dd8ed2a702b,geometry,150,,μm,150 μm,line,ev_423a1f79f217a8ba,doc_c76517f24e629b55
+cond_fb2a1fed118c8ac7,fact_3c8a0dd8ed2a702b,time,8,,h,8h,line,ev_423a1f79f217a8ba,doc_c76517f24e629b55
+cond_45214458f4fc08b0,fact_3c8a0dd8ed2a702b,time,16,,h,16 h,line,ev_423a1f79f217a8ba,doc_c76517f24e629b55
+cond_5a0030d28183b9bb,fact_3c8a0dd8ed2a702b,geometry,16,,μm,16 μm,line,ev_423a1f79f217a8ba,doc_c76517f24e629b55
+cond_5fb36a1b6a00f2a7,fact_7afa9e297874ecf7,potential,-1.2,,V,−1.2 V,line,ev_343006682b540012,doc_81284dae509b2ecf
+cond_bfaa91fcde543849,fact_7afa9e297874ecf7,potential,-1.4,,V,−1.4 V,line,ev_343006682b540012,doc_81284dae509b2ecf
+cond_35b686fea833962e,fact_7afa9e297874ecf7,concentration,0,,mg/L,0 mg/L,line,ev_343006682b540012,doc_81284dae509b2ecf
+cond_adf19481a8e1fe68,fact_7afa9e297874ecf7,concentration,20,,mg/L,20 mg/L,line,ev_343006682b540012,doc_81284dae509b2ecf
+cond_3210fccf924d5f4d,fact_812177af08d2cba5,geometry,1363,,cm,1363 cm,line,ev_e0ba0d80e37993e8,doc_81284dae509b2ecf
+cond_c445def979daa8d6,fact_0cf037ea79bf1c52,concentration,0.3,,mol/L,0.3 mol/L,line,ev_562798eaa73ba226,doc_68c8cb490bc6794f
+cond_5b3a85a2207b2a20,fact_0cf037ea79bf1c52,concentration,0.84,,mmol/L,0.84 mmol/L,line,ev_562798eaa73ba226,doc_68c8cb490bc6794f
+cond_b2849cf4e70ade93,fact_0cf037ea79bf1c52,time,7,,h,7 H,line,ev_562798eaa73ba226,doc_68c8cb490bc6794f
+cond_ea50f112a980161b,fact_0cf037ea79bf1c52,geometry,100,,mm,100 mm,line,ev_562798eaa73ba226,doc_68c8cb490bc6794f
+cond_0c388ffdc150f14d,fact_0cf037ea79bf1c52,geometry,500,,nm,500 nm,line,ev_562798eaa73ba226,doc_68c8cb490bc6794f
+cond_bd988d41f35dd2e2,fact_86ad56813e471d32,potential,160,,mV,160 mV,clause,ev_4aa09df64a4b752f,doc_68c8cb490bc6794f
+cond_df32260528bcde79,fact_86ad56813e471d32,concentration,5,,mg/L,5 mg/L,clause,ev_4aa09df64a4b752f,doc_68c8cb490bc6794f
+cond_4fac2f621f4fd200,fact_86ad56813e471d32,rotation,2000,,rpm,2000 rpm,clause,ev_4aa09df64a4b752f,doc_68c8cb490bc6794f
+cond_08b51fc0d3c545e4,fact_86ad56813e471d32,time,2000,,s,2000s,line,ev_4aa09df64a4b752f,doc_68c8cb490bc6794f
+cond_5d9ce3ed573d9a58,fact_397b7722588f23f4,geometry,1.2,,μm,1.2 μm,line,ev_dee18f3678a3cebd,doc_6a9fbc467d829656
+cond_134fcab0094ebbc0,fact_397b7722588f23f4,percentage,90,,%,90 %,line,ev_dee18f3678a3cebd,doc_6a9fbc467d829656

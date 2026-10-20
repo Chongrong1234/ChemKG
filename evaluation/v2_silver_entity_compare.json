@@ -1,0 +1,109 @@
+{
+  "dataset": "evaluation/v2_silver_entity.jsonl",
+  "k": 5,
+  "systems": {
+    "lexical": {
+      "n": 154,
+      "evidence_recall_at_k": 0.161224426238625,
+      "hit_at_k": 0.7333333333333333,
+      "sufficient_evidence_rate": 0.03896103896103896,
+      "latency_ms_p50": 3.3664125949144363,
+      "latency_ms_mean": 7.664373023556425
+    },
+    "kg_aware": {
+      "n": 154,
+      "evidence_recall_at_k": 0.2253264578558696,
+      "hit_at_k": 0.7933333333333333,
+      "sufficient_evidence_rate": 0.07792207792207792,
+      "latency_ms_p50": 6.417879834771156,
+      "latency_ms_mean": 6.2355541370131755
+    }
+  },
+  "by_predicate": {
+    "lexical": {
+      "accelerates_deposition": {
+        "n": 28,
+        "evidence_recall_at_k": 0.029761904761904764,
+        "hit_at_k": 0.35714285714285715,
+        "sufficient_evidence_rate": 0.0,
+        "latency_ms_p50": 3.4792721271514893,
+        "latency_ms_mean": 3.564594579594476
+      },
+      "improves_filling": {
+        "n": 54,
+        "evidence_recall_at_k": 0.18567797489366117,
+        "hit_at_k": 0.7777777777777778,
+        "sufficient_evidence_rate": 0.037037037037037035,
+        "latency_ms_p50": 3.207933157682419,
+        "latency_ms_mean": 3.0212222977920815
+      },
+      "inhibits_deposition": {
+        "n": 66,
+        "evidence_recall_at_k": 0.186723029669738,
+        "hit_at_k": 0.8636363636363636,
+        "sufficient_evidence_rate": 0.045454545454545456,
+        "latency_ms_p50": 3.7916675209999084,
+        "latency_ms_mean": 3.7029724793903753
+      },
+      "synergizes_with": {
+        "n": 2,
+        "evidence_recall_at_k": 0.5,
+        "hit_at_k": 0.5,
+        "sufficient_evidence_rate": 0.5,
+        "latency_ms_p50": 2.617955207824707,
+        "latency_ms_mean": 2.617955207824707
+      },
+      "unknown": {
+        "n": 4,
+        "evidence_recall_at_k": null,
+        "hit_at_k": null,
+        "sufficient_evidence_rate": 0.0,
+        "latency_ms_p50": 1.4376379549503326,
+        "latency_ms_mean": 1.4145784080028534
+      }
+    },
+    "kg_aware": {
+      "accelerates_deposition": {
+        "n": 28,
+        "evidence_recall_at_k": 0.14583333333333331,
+        "hit_at_k": 0.5714285714285714,
+        "sufficient_evidence_rate": 0.03571428571428571,
+        "latency_ms_p50": 6.51002861559391,
+        "latency_ms_mean": 6.595570594072342
+      },
+      "improves_filling": {
+        "n": 54,
+        "evidence_recall_at_k": 0.2780112044817925,
+        "hit_at_k": 0.8148148148148148,
+        "sufficient_evidence_rate": 0.1111111111111111,
+        "latency_ms_p50": 6.014397367835045,
+        "latency_ms_mean": 5.703176682194074
+      },
+      "inhibits_deposition": {
+        "n": 66,
+        "evidence_recall_at_k": 0.20762167125803482,
+        "hit_at_k": 0.8787878787878788,
+        "sufficient_evidence_rate": 0.06060606060606061,
+        "latency_ms_p50": 6.992548704147339,
+        "latency_ms_mean": 6.739087515708172
+      },
+      "synergizes_with": {
+        "n": 2,
+        "evidence_recall_at_k": 0.5,
+        "hit_at_k": 0.5,
+        "sufficient_evidence_rate": 0.5,
+        "latency_ms_p50": 4.7481488436460495,
+        "latency_ms_mean": 4.7481488436460495
+      },
+      "unknown": {
+        "n": 4,
+        "evidence_recall_at_k": null,
+        "hit_at_k": null,
+        "sufficient_evidence_rate": 0.0,
+        "latency_ms_p50": 2.7235839515924454,
+        "latency_ms_mean": 2.678290009498596
+      }
+    }
+  },
+  "warning": "automatic silver labels; audit before publication"
+}

@@ -1,0 +1,30 @@
+{
+ "plain|off": [
+  0.5909,
+  4
+ ],
+ "notext|off": [
+  0.5909,
+  4
+ ],
+ "notext|trust": [
+  0.7273,
+  3
+ ],
+ "notext|refute": [
+  0.5909,
+  6
+ ],
+ "unified|off": [
+  0.5909,
+  4
+ ],
+ "unified|trust": [
+  0.7273,
+  3
+ ],
+ "unified|refute": [
+  0.5909,
+  6
+ ]
+}

@@ -1,0 +1,90 @@
+{
+  "documents": 48,
+  "evidence": 1411,
+  "entities": 126,
+  "mentions": 5350,
+  "values": 1778,
+  "relations": 218,
+  "conditions": 403,
+  "relation_types": {
+    "improves_filling": 54,
+    "used_as_leveler": 16,
+    "accelerates_deposition": 28,
+    "adsorbs_on": 21,
+    "synergizes_with": 2,
+    "inhibits_deposition": 66,
+    "used_as_inhibitor": 29,
+    "used_as_accelerator": 1,
+    "used_as_suppressor": 1
+  },
+  "entity_types": {
+    "Process": 18,
+    "Via": 12,
+    "Additive": 21,
+    "Method": 15,
+    "Property": 19,
+    "Chemical": 14,
+    "Mechanism": 10,
+    "Substrate": 4,
+    "Electrolyte": 5,
+    "Metal": 3,
+    "Role": 4,
+    "Surface": 1
+  },
+  "facts_with_conditions": 115,
+  "condition_coverage": 0.5275,
+  "condition_slots": {
+    "concentration": 123,
+    "potential": 81,
+    "geometry": 96,
+    "percentage": 27,
+    "impedance": 9,
+    "time": 39,
+    "temperature": 1,
+    "rotation": 24,
+    "pH": 3
+  },
+  "unit_top10": {
+    "μm": 86,
+    "mg/L": 77,
+    "V": 61,
+    "ppm": 31,
+    "%": 27,
+    "h": 27,
+    "rpm": 24,
+    "mV": 20,
+    "Ω": 9,
+    "s": 8
+  },
+  "mg_ghost_facts": 0,
+  "llm_enabled": false,
+  "extractor": "strict_v2",
+  "comparison_v1": {
+    "documents": 48,
+    "evidence": 1290,
+    "entities": 64,
+    "mentions": 3216,
+    "values": 1295,
+    "relations": 119,
+    "relation_types": {
+      "accelerates_deposition": 22,
+      "improves_filling": 26,
+      "inhibits_deposition": 64,
+      "synergizes_with": 7
+    },
+    "llm_enabled": false,
+    "filter": "strict domain + contamination/reference exclusion + clause-local subject/object"
+  },
+  "fixes": [
+    "F1 mg/MG/Mg 大小写敏感+单位守卫",
+    "F2 别名实体融合",
+    "F3 子句内客体绑定",
+    "F4 谓词顺序修复",
+    "F5 条件槽绑定",
+    "F6 中文子句切分",
+    "F7 单位/pH/范围扩展",
+    "F8 实体类型扩展",
+    "F9 谓词扩展",
+    "F10 最近主体选择"
+  ]
+}

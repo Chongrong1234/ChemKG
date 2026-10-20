@@ -1,0 +1,64 @@
+{"entity_id": "ent_0c9404ad71cb965b", "name": "microvia", "type": "Process", "normalized_name": "microvia", "status": "candidate"}
+{"entity_id": "ent_044c07b1a3071f85", "name": "copper electroplating", "type": "Process", "normalized_name": "copper electroplating", "status": "candidate"}
+{"entity_id": "ent_e8d6ba8f531c4ccc", "name": "DB", "type": "Additive", "normalized_name": "db", "status": "candidate"}
+{"entity_id": "ent_06db75410cb640fd", "name": "JGB", "type": "Additive", "normalized_name": "jgb", "status": "candidate"}
+{"entity_id": "ent_63a836fa42834e84", "name": "filling performance", "type": "Property", "normalized_name": "filling performance", "status": "candidate"}
+{"entity_id": "ent_9c7697d73d2c3ecd", "name": "PEG", "type": "Additive", "normalized_name": "peg", "status": "candidate"}
+{"entity_id": "ent_a46b4ec751365ee4", "name": "chloride", "type": "Chemical", "normalized_name": "chloride", "status": "candidate"}
+{"entity_id": "ent_d15d9bce127fbc7b", "name": "copper electrodeposition", "type": "Process", "normalized_name": "copper electrodeposition", "status": "candidate"}
+{"entity_id": "ent_2bddf91987a60a8d", "name": "electroplating", "type": "Process", "normalized_name": "electroplating", "status": "candidate"}
+{"entity_id": "ent_90859ee3ce0165eb", "name": "deposition rate", "type": "Property", "normalized_name": "deposition rate", "status": "candidate"}
+{"entity_id": "ent_f7376511017f68a4", "name": "Void", "type": "Property", "normalized_name": "void", "status": "candidate"}
+{"entity_id": "ent_0fdad40ba08e745e", "name": "PVP", "type": "Additive", "normalized_name": "pvp", "status": "candidate"}
+{"entity_id": "ent_d6e1bcdfb3a98942", "name": "via filling", "type": "Process", "normalized_name": "via filling", "status": "candidate"}
+{"entity_id": "ent_d7910009d82f2e15", "name": "conductivity", "type": "Property", "normalized_name": "conductivity", "status": "candidate"}
+{"entity_id": "ent_5f030fde7356eb45", "name": "SPS", "type": "Additive", "normalized_name": "sps", "status": "candidate"}
+{"entity_id": "ent_79dfbc4735b9f935", "name": "GM", "type": "Method", "normalized_name": "gm", "status": "candidate"}
+{"entity_id": "ent_68dc264930ae0a8e", "name": "surface copper", "type": "Property", "normalized_name": "surface copper", "status": "candidate"}
+{"entity_id": "ent_79d2b22b91d7215e", "name": "copper sulfate", "type": "Chemical", "normalized_name": "copper sulfate", "status": "candidate"}
+{"entity_id": "ent_be89905bf11ae6db", "name": "sulfuric acid", "type": "Chemical", "normalized_name": "sulfuric acid", "status": "candidate"}
+{"entity_id": "ent_ccd214aa455db445", "name": "MPS", "type": "Additive", "normalized_name": "mps", "status": "candidate"}
+{"entity_id": "ent_126ce94a9a74dcf4", "name": "polarization", "type": "Property", "normalized_name": "polarization", "status": "candidate"}
+{"entity_id": "ent_f6f53a462881cf22", "name": "cyclic voltammetry", "type": "Method", "normalized_name": "cyclic voltammetry", "status": "candidate"}
+{"entity_id": "ent_13168fa77dea3161", "name": "CV", "type": "Method", "normalized_name": "cv", "status": "candidate"}
+{"entity_id": "ent_046962eb23922097", "name": "electrodeposition", "type": "Process", "normalized_name": "electrodeposition", "status": "candidate"}
+{"entity_id": "ent_ba47deb9d65df2ab", "name": "ZPS", "type": "Additive", "normalized_name": "zps", "status": "candidate"}
+{"entity_id": "ent_4cb7a167ebdf7871", "name": "mg", "type": "Additive", "normalized_name": "mg", "status": "candidate"}
+{"entity_id": "ent_da7196deb08b6d7c", "name": "chronoamperometry", "type": "Method", "normalized_name": "chronoamperometry", "status": "candidate"}
+{"entity_id": "ent_f680baf0cdce9f89", "name": "EIS", "type": "Method", "normalized_name": "eis", "status": "candidate"}
+{"entity_id": "ent_cf8afcdfa4426ca9", "name": "through-hole", "type": "Process", "normalized_name": "through-hole", "status": "candidate"}
+{"entity_id": "ent_e78b07c3d886a2d4", "name": "through hole", "type": "Process", "normalized_name": "through hole", "status": "candidate"}
+{"entity_id": "ent_7e124846676a3a7a", "name": "throwing power", "type": "Property", "normalized_name": "throwing power", "status": "candidate"}
+{"entity_id": "ent_46f0bca6f28ec47e", "name": "seam", "type": "Property", "normalized_name": "seam", "status": "candidate"}
+{"entity_id": "ent_47b73a2d2d2dfb27", "name": "overpotential", "type": "Property", "normalized_name": "overpotential", "status": "candidate"}
+{"entity_id": "ent_9e197599ea00d2a5", "name": "Micro Via", "type": "Process", "normalized_name": "micro via", "status": "candidate"}
+{"entity_id": "ent_83b83ccb2f226fce", "name": "PEP", "type": "Additive", "normalized_name": "pep", "status": "candidate"}
+{"entity_id": "ent_4a37a135b02c5026", "name": "blind via", "type": "Process", "normalized_name": "blind via", "status": "candidate"}
+{"entity_id": "ent_2f374d6aab3dfe48", "name": "CuSO4", "type": "Chemical", "normalized_name": "cuso4", "status": "candidate"}
+{"entity_id": "ent_6f900d171eb529d4", "name": "cobalt electrodeposition", "type": "Process", "normalized_name": "cobalt electrodeposition", "status": "candidate"}
+{"entity_id": "ent_7045551cd504fd6f", "name": "Electrochemical Impedance Spectroscopy", "type": "Method", "normalized_name": "electrochemical impedance spectroscopy", "status": "candidate"}
+{"entity_id": "ent_f36a5511ef4d8bfc", "name": "throughhole", "type": "Process", "normalized_name": "throughhole", "status": "candidate"}
+{"entity_id": "ent_0b392ffbf75cbeae", "name": "CMHT", "type": "Additive", "normalized_name": "cmht", "status": "candidate"}
+{"entity_id": "ent_bf029a7aabab9a3b", "name": "Cl-", "type": "Chemical", "normalized_name": "cl-", "status": "candidate"}
+{"entity_id": "ent_22e7f79308fa4980", "name": "hardness", "type": "Property", "normalized_name": "hardness", "status": "candidate"}
+{"entity_id": "ent_a0393b21fd8331dc", "name": "micro-via", "type": "Process", "normalized_name": "micro-via", "status": "candidate"}
+{"entity_id": "ent_5a7f73f02a0209d3", "name": "Cobalt electroplating", "type": "Process", "normalized_name": "cobalt electroplating", "status": "candidate"}
+{"entity_id": "ent_924dc869c27aa347", "name": "DMG", "type": "Additive", "normalized_name": "dmg", "status": "candidate"}
+{"entity_id": "ent_e6ec11233bddbf01", "name": "voids", "type": "Property", "normalized_name": "voids", "status": "candidate"}
+{"entity_id": "ent_1f5f47938fa946d8", "name": "CuSO4·5H2O", "type": "Chemical", "normalized_name": "cuso4·5h2o", "status": "candidate"}
+{"entity_id": "ent_03fdedef4cede16e", "name": "H2SO4", "type": "Chemical", "normalized_name": "h2so4", "status": "candidate"}
+{"entity_id": "ent_ee03555a8714fa70", "name": "盲孔", "type": "Process", "normalized_name": "盲孔", "status": "candidate"}
+{"entity_id": "ent_20790793b40a2d06", "name": "填充", "type": "Process", "normalized_name": "填充", "status": "candidate"}
+{"entity_id": "ent_f6837bf214f1b7bb", "name": "电镀", "type": "Process", "normalized_name": "电镀", "status": "candidate"}
+{"entity_id": "ent_55f23457d9d53ccf", "name": "沉积速率", "type": "Property", "normalized_name": "沉积速率", "status": "candidate"}
+{"entity_id": "ent_17529a5462e9314a", "name": "电沉积", "type": "Process", "normalized_name": "电沉积", "status": "candidate"}
+{"entity_id": "ent_fd1d87065e23412f", "name": "通孔", "type": "Process", "normalized_name": "通孔", "status": "candidate"}
+{"entity_id": "ent_65b27978701e40e0", "name": "硬度", "type": "Property", "normalized_name": "硬度", "status": "candidate"}
+{"entity_id": "ent_25b6813436b80c9f", "name": "极化", "type": "Property", "normalized_name": "极化", "status": "candidate"}
+{"entity_id": "ent_babb138b49e31469", "name": "过电位", "type": "Property", "normalized_name": "过电位", "status": "candidate"}
+{"entity_id": "ent_dadfea2e2c134431", "name": "循环伏安", "type": "Method", "normalized_name": "循环伏安", "status": "candidate"}
+{"entity_id": "ent_1d417782afc47768", "name": "电化学阻抗", "type": "Method", "normalized_name": "电化学阻抗", "status": "candidate"}
+{"entity_id": "ent_e59c9a9a5d1af94f", "name": "计时安培", "type": "Method", "normalized_name": "计时安培", "status": "candidate"}
+{"entity_id": "ent_dabb996b0ca497ae", "name": "导电性", "type": "Property", "normalized_name": "导电性", "status": "candidate"}
+{"entity_id": "ent_5350629717626dec", "name": "空洞", "type": "Property", "normalized_name": "空洞", "status": "candidate"}
+{"entity_id": "ent_f9ef5dcf5d24f7ac", "name": "ADO", "type": "Additive", "normalized_name": "ado", "status": "candidate"}

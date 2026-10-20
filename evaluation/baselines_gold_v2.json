@@ -1,0 +1,46 @@
+{
+ "bge_dense": {
+  "system": "BGE 稠密",
+  "factual_hit5": 0.1364,
+  "factual_mrr5": 0.0697,
+  "factual_n": 22,
+  "partial_hit5": 0.3333,
+  "partial_mrr5": 0.1111,
+  "partial_n": 3,
+  "adv": "0/8",
+  "p50_ms": 0.1
+ },
+ "rrf_hybrid": {
+  "system": "RRF 混合",
+  "factual_hit5": 0.2273,
+  "factual_mrr5": 0.0636,
+  "factual_n": 22,
+  "partial_hit5": 0.6667,
+  "partial_mrr5": 0.25,
+  "partial_n": 3,
+  "adv": "0/8",
+  "p50_ms": 13.4
+ },
+ "dense_rerank": {
+  "system": "稠密重排",
+  "factual_hit5": 0.1364,
+  "factual_mrr5": 0.0697,
+  "factual_n": 22,
+  "partial_hit5": 0.3333,
+  "partial_mrr5": 0.1667,
+  "partial_n": 3,
+  "adv": "0/8",
+  "p50_ms": 11.2
+ },
+ "final": {
+  "system": "最终系统",
+  "factual_hit5": 0.7273,
+  "factual_mrr5": 0.4773,
+  "factual_n": 22,
+  "partial_hit5": 0.3333,
+  "partial_mrr5": 0.1111,
+  "partial_n": 3,
+  "adv": "6/8",
+  "p50_ms": 8.6
+ }
+}

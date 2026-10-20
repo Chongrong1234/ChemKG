@@ -1,0 +1,14 @@
+{
+  "seed": 2025,
+  "total": 218,
+  "test": 44,
+  "train": 174,
+  "test_label_distribution": {
+    "unsupported": 9,
+    "supported": 30,
+    "partial": 3,
+    "ambiguous": 1,
+    "contradicted": 1
+  },
+  "gold_status": "llm_panel_consensus_needs_human_signoff"
+}

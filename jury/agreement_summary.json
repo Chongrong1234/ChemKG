@@ -1,0 +1,115 @@
+{
+  "models": [
+    "deepseek-v4-pro-0813",
+    "glm-5.3-shouyun",
+    "kimi-k2.6",
+    "qwen3.6-plus",
+    "qwen3.7-max"
+  ],
+  "panel_size": 5,
+  "facts_total": 218,
+  "facts_adjudicated": 218,
+  "facts_incomplete": 0,
+  "panel_decisions": {
+    "verified": 120,
+    "rejected": 77,
+    "quarantine": 21
+  },
+  "verified_rate": 0.5505,
+  "verified_rate_wilson95": [
+    0.4841,
+    0.6151
+  ],
+  "consensus_label_distribution": {
+    "supported": 142,
+    "unsupported": 54,
+    "partial": 14,
+    "contradicted": 5,
+    "ambiguous": 3
+  },
+  "fleiss_kappa_5class": 0.5661,
+  "fleiss_kappa_binary": 0.6379,
+  "pairwise_cohen_kappa": {
+    "deepseek-v4-pro-0813|glm-5.3-shouyun": 0.4834,
+    "deepseek-v4-pro-0813|kimi-k2.6": 0.4205,
+    "deepseek-v4-pro-0813|qwen3.6-plus": 0.5573,
+    "deepseek-v4-pro-0813|qwen3.7-max": 0.5336,
+    "glm-5.3-shouyun|kimi-k2.6": 0.5458,
+    "glm-5.3-shouyun|qwen3.6-plus": 0.6332,
+    "glm-5.3-shouyun|qwen3.7-max": 0.595,
+    "kimi-k2.6|qwen3.6-plus": 0.6742,
+    "kimi-k2.6|qwen3.7-max": 0.566,
+    "qwen3.6-plus|qwen3.7-max": 0.7301
+  },
+  "per_model_stats": {
+    "deepseek-v4-pro-0813": {
+      "supported": 98,
+      "total": 218,
+      "support_rate": 0.4495
+    },
+    "glm-5.3-shouyun": {
+      "supported": 128,
+      "total": 218,
+      "support_rate": 0.5872
+    },
+    "kimi-k2.6": {
+      "supported": 153,
+      "total": 218,
+      "support_rate": 0.7018
+    },
+    "qwen3.6-plus": {
+      "supported": 146,
+      "total": 218,
+      "support_rate": 0.6697
+    },
+    "qwen3.7-max": {
+      "supported": 132,
+      "total": 218,
+      "support_rate": 0.6055
+    }
+  },
+  "per_predicate_decisions": {
+    "improves_filling": {
+      "verified": 27,
+      "quarantine": 2,
+      "rejected": 25
+    },
+    "used_as_leveler": {
+      "rejected": 2,
+      "verified": 13,
+      "quarantine": 1
+    },
+    "accelerates_deposition": {
+      "quarantine": 4,
+      "verified": 11,
+      "rejected": 13
+    },
+    "adsorbs_on": {
+      "verified": 16,
+      "rejected": 1,
+      "quarantine": 4
+    },
+    "synergizes_with": {
+      "rejected": 1,
+      "verified": 1
+    },
+    "inhibits_deposition": {
+      "rejected": 34,
+      "verified": 24,
+      "quarantine": 8
+    },
+    "used_as_inhibitor": {
+      "rejected": 1,
+      "verified": 26,
+      "quarantine": 2
+    },
+    "used_as_accelerator": {
+      "verified": 1
+    },
+    "used_as_suppressor": {
+      "verified": 1
+    }
+  },
+  "incomplete_fact_ids": [],
+  "note": "LLM panel consensus ≠ human expert gold；human_review_packet.csv 提供人工签核入口"
+}

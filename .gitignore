@@ -1,0 +1,30 @@
+# ---- 密钥与本地配置 ----
+.env
+*.key
+*.crt
+*.pem
+
+# ---- Python ----
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+*.egg-info/
+build/
+dist/
+.venv/
+venv/
+
+# ---- 日志与运行产物 ----
+*.log
+nohup.out
+
+# ---- 可再生的索引与大体量数据 ----
+rag_index*/
+文献提取/
+分类文献库/
+*.zip
+tools/neo4j.tar.gz
+
+# ---- 系统 ----
+.DS_Store

@@ -1,0 +1,83 @@
+{
+  "dataset": "evaluation/auto_silver.jsonl",
+  "k": 5,
+  "systems": {
+    "lexical": {
+      "n": 400,
+      "evidence_recall_at_k": 0.7175,
+      "sufficient_evidence_rate": 0.7175,
+      "latency_ms_p50": 74.80782270431519,
+      "latency_ms_mean": 71.4369729347527
+    },
+    "kg_aware": {
+      "n": 400,
+      "evidence_recall_at_k": 0.7375,
+      "sufficient_evidence_rate": 0.7375,
+      "latency_ms_p50": 123.83685819804668,
+      "latency_ms_mean": 116.68985743075609
+    }
+  },
+  "by_predicate": {
+    "lexical": {
+      "accelerates_deposition": {
+        "n": 100,
+        "evidence_recall_at_k": 0.78,
+        "sufficient_evidence_rate": 0.78,
+        "latency_ms_p50": 71.89935445785522,
+        "latency_ms_mean": 71.25225085765123
+      },
+      "improves_filling": {
+        "n": 100,
+        "evidence_recall_at_k": 0.89,
+        "sufficient_evidence_rate": 0.89,
+        "latency_ms_p50": 78.07863876223564,
+        "latency_ms_mean": 72.19047538936138
+      },
+      "inhibits_deposition": {
+        "n": 100,
+        "evidence_recall_at_k": 0.72,
+        "sufficient_evidence_rate": 0.72,
+        "latency_ms_p50": 71.42703421413898,
+        "latency_ms_mean": 68.46773937344551
+      },
+      "synergizes_with": {
+        "n": 100,
+        "evidence_recall_at_k": 0.48,
+        "sufficient_evidence_rate": 0.48,
+        "latency_ms_p50": 79.7296091914177,
+        "latency_ms_mean": 72.88311939686537
+      }
+    },
+    "kg_aware": {
+      "accelerates_deposition": {
+        "n": 100,
+        "evidence_recall_at_k": 0.81,
+        "sufficient_evidence_rate": 0.81,
+        "latency_ms_p50": 116.76149629056454,
+        "latency_ms_mean": 118.62879857420921
+      },
+      "improves_filling": {
+        "n": 100,
+        "evidence_recall_at_k": 0.9,
+        "sufficient_evidence_rate": 0.9,
+        "latency_ms_p50": 129.5379213988781,
+        "latency_ms_mean": 118.63091882318258
+      },
+      "inhibits_deposition": {
+        "n": 100,
+        "evidence_recall_at_k": 0.72,
+        "sufficient_evidence_rate": 0.72,
+        "latency_ms_p50": 112.41280101239681,
+        "latency_ms_mean": 108.1522648781538
+      },
+      "synergizes_with": {
+        "n": 100,
+        "evidence_recall_at_k": 0.52,
+        "sufficient_evidence_rate": 0.52,
+        "latency_ms_p50": 132.5394418090582,
+        "latency_ms_mean": 119.68029461801052
+      }
+    }
+  },
+  "warning": "automatic silver labels; audit before publication"
+}

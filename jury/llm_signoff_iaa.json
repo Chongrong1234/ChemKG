@@ -1,0 +1,151 @@
+{
+  "annotator_primary": "deepseek-v4-pro-preview",
+  "annotator_secondary": "kimi-k2.7-code",
+  "n_common": 46,
+  "exact_agreement_5class": 0.6522,
+  "cohen_kappa_5class": 0.433,
+  "exact_agreement_binary": 0.913,
+  "primary_label_dist": {
+    "partial": 12,
+    "supported": 26,
+    "unsupported": 7,
+    "contradicted": 1
+  },
+  "secondary_label_dist": {
+    "partial": 13,
+    "supported": 23,
+    "unsupported": 9,
+    "contradicted": 1
+  },
+  "disagreements": [
+    {
+      "fact_id": "fact_9d0c77ba7799d181",
+      "primary": "partial",
+      "secondary": "supported",
+      "subject": "TPM",
+      "predicate": "improves_filling",
+      "object": "Microvia"
+    },
+    {
+      "fact_id": "fact_f435c870d5eb5fab",
+      "primary": "supported",
+      "secondary": "partial",
+      "subject": "TPM",
+      "predicate": "used_as_leveler",
+      "object": "leveler"
+    },
+    {
+      "fact_id": "fact_e98c1e5e9edd71ac",
+      "primary": "partial",
+      "secondary": "supported",
+      "subject": "SPS",
+      "predicate": "accelerates_deposition",
+      "object": "Microvia"
+    },
+    {
+      "fact_id": "fact_967f57e80c9cfa3f",
+      "primary": "supported",
+      "secondary": "partial",
+      "subject": "AB1",
+      "predicate": "adsorbs_on",
+      "object": "substrate"
+    },
+    {
+      "fact_id": "fact_7345b8349a1f1d0c",
+      "primary": "supported",
+      "secondary": "partial",
+      "subject": "NBT",
+      "predicate": "inhibits_deposition",
+      "object": "镀层"
+    },
+    {
+      "fact_id": "fact_b883b81022980c67",
+      "primary": "supported",
+      "secondary": "partial",
+      "subject": "MG",
+      "predicate": "inhibits_deposition",
+      "object": "镀层"
+    },
+    {
+      "fact_id": "fact_34f1d3f6f8e2d845",
+      "primary": "partial",
+      "secondary": "unsupported",
+      "subject": "MG",
+      "predicate": "adsorbs_on",
+      "object": "Co"
+    },
+    {
+      "fact_id": "fact_f2e5ffdf5944dc09",
+      "primary": "partial",
+      "secondary": "supported",
+      "subject": "NBT",
+      "predicate": "inhibits_deposition",
+      "object": "镀层"
+    },
+    {
+      "fact_id": "fact_28e6315da60bf663",
+      "primary": "supported",
+      "secondary": "partial",
+      "subject": "NBT",
+      "predicate": "used_as_inhibitor",
+      "object": "inhibitor"
+    },
+    {
+      "fact_id": "fact_7a07538692dde1c8",
+      "primary": "partial",
+      "secondary": "supported",
+      "subject": "NBT",
+      "predicate": "accelerates_deposition",
+      "object": "镀层"
+    },
+    {
+      "fact_id": "fact_b2a5f6bb01323c87",
+      "primary": "supported",
+      "secondary": "unsupported",
+      "subject": "PVP",
+      "predicate": "improves_filling",
+      "object": "superconformal"
+    },
+    {
+      "fact_id": "fact_91db30ce6e6a746b",
+      "primary": "partial",
+      "secondary": "supported",
+      "subject": "NBT",
+      "predicate": "inhibits_deposition",
+      "object": "electrodeposition"
+    },
+    {
+      "fact_id": "fact_812177af08d2cba5",
+      "primary": "supported",
+      "secondary": "partial",
+      "subject": "NBT",
+      "predicate": "adsorbs_on",
+      "object": "electrode surface"
+    },
+    {
+      "fact_id": "fact_c256284c38fddda6",
+      "primary": "unsupported",
+      "secondary": "supported",
+      "subject": "NBT",
+      "predicate": "used_as_inhibitor",
+      "object": "inhibitor"
+    },
+    {
+      "fact_id": "fact_855d8726897365b4",
+      "primary": "supported",
+      "secondary": "partial",
+      "subject": "SA",
+      "predicate": "improves_filling",
+      "object": "void"
+    },
+    {
+      "fact_id": "fact_9c7536f1ca3aae5f",
+      "primary": "supported",
+      "secondary": "unsupported",
+      "subject": "JGB",
+      "predicate": "adsorbs_on",
+      "object": "electrode surface"
+    }
+  ],
+  "note": "LLM 双标注员模拟 IAA；两者与五模型评审团为同族不同版本，独立性有限。非人工金标准。"
+}

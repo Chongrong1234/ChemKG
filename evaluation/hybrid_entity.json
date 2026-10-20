@@ -1,0 +1,16 @@
+{
+  "model": "BAAI/bge-small-zh-v1.5",
+  "fusion": "rrf",
+  "rrf_k": 60,
+  "kg_boost": true,
+  "corpus_n": 4341,
+  "encode_ms_total": 62940.0,
+  "k": 5,
+  "n": 237,
+  "hit_at_k": 0.4592274678111588,
+  "evidence_recall_at_k": 0.03580615628625151,
+  "sufficient_evidence_rate": 0.0,
+  "latency_ms_p50": 12.686695903539658,
+  "latency_ms_mean": 16.674089469487154,
+  "warning": "silver labels; hybrid BM25+dense with RRF fusion"
+}

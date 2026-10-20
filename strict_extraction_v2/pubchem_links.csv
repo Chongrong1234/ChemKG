@@ -1,0 +1,36 @@
+entity_id,entity_name,status,cid,smiles,inchikey,formula,matched_term
+ent_e8d6ba8f531c4ccc,DB,domain_abbreviation_no_pubchem_entry,,,,,
+ent_06db75410cb640fd,JGB,linked,76123,,XXACTDWGHQXLGW-UHFFFAOYSA-M,C30H31ClN6,Janus green B
+ent_9c7697d73d2c3ecd,PEG,unresolved,,,,,
+ent_bf029a7aabab9a3b,Cl-,linked,312,,VEXZGXHMUGYJMC-UHFFFAOYSA-M,Cl-,chloride ion
+ent_0fdad40ba08e745e,PVP,unresolved,,,,,
+ent_5f030fde7356eb45,SPS,linked,87217,,LMPMFQXUJXPWSL-UHFFFAOYSA-N,C6H14O6S4,bis(3-sulfopropyl) disulfide
+ent_8ca716283ee95f9a,NaCl,linked,5234,,FAPWRFPIFSIZLT-UHFFFAOYSA-M,ClNa,sodium chloride
+ent_bee5cac24a1a916f,TPM,domain_abbreviation_no_pubchem_entry,,,,,
+ent_2f374d6aab3dfe48,CuSO4,linked,24462,,ARUVKPQLZAKDPS-UHFFFAOYSA-L,CuO4S,copper(II) sulfate
+ent_03fdedef4cede16e,H2SO4,linked,1118,,QAOWNCQODCNURD-UHFFFAOYSA-N,H2O4S,sulfuric acid
+ent_ccd214aa455db445,MPS,linked,87206,,OBDVFOBWBHMJDG-UHFFFAOYSA-N,C3H8O3S2,3-mercapto-1-propanesulfonic acid
+ent_21b7c18ef28500e6,I-,linked,30165,,XMBWDFGMSWQBCA-UHFFFAOYSA-M,I-,iodide ion
+ent_6ce037e8e8a020f4,iodide,linked,30165,,XMBWDFGMSWQBCA-UHFFFAOYSA-M,I-,iodide
+ent_ba47deb9d65df2ab,ZPS,domain_abbreviation_no_pubchem_entry,,,,,
+ent_32e0baa1cd9708fe,Cu<sup>2+</sup>,unresolved,,,,,
+ent_20cd907953574a75,Cl<sup>-</sup>,unresolved,,,,,
+ent_e0be2ffaecae73d5,VMS,domain_abbreviation_no_pubchem_entry,,,,,
+ent_aa5f150f60b039d2,Cz-BPDB,domain_abbreviation_no_pubchem_entry,,,,,
+ent_8e5a46ebf9b5f4f1,SA,linked,8479,,HVBSAKJJOYLTQU-UHFFFAOYSA-N,C6H7NO3S,sulfanilic acid
+ent_83b83ccb2f226fce,PEP,domain_abbreviation_no_pubchem_entry,,,,,
+ent_d4b7a4d63b985aae,Cl -,unresolved,,,,,
+ent_0b392ffbf75cbeae,CMHT,domain_abbreviation_no_pubchem_entry,,,,,
+ent_6630dadfc828dbfd,PUB2,domain_abbreviation_no_pubchem_entry,,,,,
+ent_13d862af75f49eda,NBT,linked,9282,,JPXMTWWFLBLUCD-UHFFFAOYSA-N,C40H30N10O6+2,nitro blue tetrazolium
+ent_4cb7a167ebdf7871,MG,linked,11294,,FDZZZRQASAIRJF-UHFFFAOYSA-M,C23H25ClN2,malachite green
+ent_924dc869c27aa347,DMG,linked,135459645,,JGUQDUKBUKFFRO-UHFFFAOYSA-N,C4H8N2O2,dimethylglyoxime
+ent_0ebe2a4875cd895b,CDT,domain_abbreviation_no_pubchem_entry,,,,,
+ent_1f5f47938fa946d8,CuSO4·5H2O,unresolved,,,,,
+ent_57f00d396bd39021,AB1,domain_abbreviation_no_pubchem_entry,,,,,
+ent_cf29987d89d70501,Cl^{-},unresolved,,,,,
+ent_05d143d3e2f060b3,H3BO3,linked,7628,,KGBXLFKZBHKPEV-UHFFFAOYSA-N,BH3O3,boric acid
+ent_393bcb9f8e4f7bca,Co(II),linked,104729,,XLJKHNWPARRRJB-UHFFFAOYSA-N,Co+2,Co(II)
+ent_c4d2dd226e19ee2a,AN-S1,domain_abbreviation_no_pubchem_entry,,,,,
+ent_f9ef5dcf5d24f7ac,ADO,domain_abbreviation_no_pubchem_entry,,,,,
+ent_009625bdfa885065,Co<sup>2+</sup>,unresolved,,,,,
