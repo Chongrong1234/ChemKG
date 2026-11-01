@@ -1,0 +1,158 @@
+status: implemented_pending_gpu_smoke
+experiment:
+  name: dimenet_pp_physics_thermo10
+  model_id: dimenet_pp_physics_thermo10
+  protocol_id: qm9_modular_fresh200_v1
+backbone:
+  model: dimenet_pp
+  family: graph
+  input: 3D
+source_config: configs/qm9_models/dimenet_pp.yaml
+source:
+  experiment:
+    name: dimenet_pp_qm9
+    model_type: dimenet_pp
+  data:
+    processed_dir: data/processed/qm9_full/random/seed3407
+    geometry: data/geometry/qm9_full_seed3407.npz
+    smiles_column: smiles
+    id_column: sample_id
+    target_column: delta_e
+    targets:
+    - delta_e
+    label_unit: hartree
+    split:
+      method: random
+      sizes:
+      - 0.8
+      - 0.1
+      - 0.1
+      seed: 3407
+      stratify:
+        strategy: quantile
+        column: delta_e
+        bins: 200
+  model:
+    name: dimenet_pp
+    params:
+      hidden_channels: 128
+      num_blocks: 4
+      int_emb_size: 64
+      basis_emb_size: 8
+      out_emb_channels: 256
+      num_spherical: 7
+      num_radial: 6
+      cutoff: 5.0
+      envelope_exponent: 5
+      num_before_skip: 1
+      num_after_skip: 2
+      num_output_layers: 3
+  training:
+    seed: 3407
+    epochs: 100
+    batch_size: 256
+    optimizer: adam
+    lr: 0.001
+    weight_decay: 0.0
+    gradient_clip_val: 1.0
+    target_scaling: mad
+    loss: mae
+    accelerator: auto
+    num_workers: 4
+    early_stopping:
+      monitor: val_mae
+      patience: 20
+      min_delta: 1.0e-05
+  evaluation:
+    metrics:
+    - mae
+    - rmse
+    - mape
+    - r2
+  output:
+    root: outputs/paired_gap_mae_v2
+    save_predictions: true
+    save_model: true
+data:
+  smiles_column: smiles
+  id_column: sample_id
+  processed_dir: data/processed/qm9_thermo10_v1/random/seed42
+  split:
+    method: random
+    sizes:
+    - 0.8
+    - 0.1
+    - 0.1
+    seed: 42
+    stratify:
+      strategy: quantile
+      column: delta_e
+      bins: 200
+  targets:
+  - homo
+  - lumo
+  - delta_e
+  - alpha
+  - mu
+  - r2
+  - zpve
+  - u0
+  - u298
+  - h298
+  units:
+    homo: hartree
+    lumo: hartree
+    delta_e: hartree
+    alpha: bohr^3
+    mu: debye
+    r2: bohr^2
+    zpve: hartree
+    u0: hartree
+    u298: hartree
+    h298: hartree
+  selection_target: delta_e
+training:
+  epochs: 200
+  batch_size: 256
+  patience: 20
+  min_delta: 0.0
+  checkpoint_every_n_epochs: 50
+  seed: 42
+  split_seed: 42
+  run_mode: paired_split_seed
+  seed_pairing: matched
+  num_workers: 2
+  pin_memory: true
+  target_scaling: train_only_per_target_zscore
+  supervised_loss: mse
+  selection_metric: val_delta_e_mae
+module:
+  variant: physics_thermo10
+  hidden_dim: 128
+  num_heads: 4
+  dropout: 0.1
+  physics:
+    kbt_hartree: 0.000944186
+    gap_tolerance_hartree: 0.0001
+    enthalpy_tolerance_hartree: 1.0e-06
+    scale_floor_hartree: 1.0e-08
+    warmup_epochs: 10
+    ramp_epochs: 10
+    weight: 0.1
+output:
+  root: artifacts/qm9_epoch200/fresh
+evaluation:
+  report_tasks:
+  - homo
+  - lumo
+  - delta_e
+  - alpha
+  - mu
+  - r2
+  - zpve
+  metrics:
+  - mae
+  - mse
+  - rmse
+  - r2
+  original_units: true

@@ -1,0 +1,25 @@
+{
+  "labels": {
+    "train": "35d10667066fa996a34881d40c2f1ac96d0493af09b23db91df3ed3ef6500960",
+    "val": "78ab678e3a53eca9aab1a0c62f6dfa112a34386d375e39c98f66956e1ef1a848",
+    "test": "1b46739f6b76d4f64bec149c2b605f0bd8337f0b9cde817aa3a060b659b2b156"
+  },
+  "manifest_sha256": "814583d9523c67427e3725cb7d991c8d47cd3a4f9280eaa39e7df1b598218c3c",
+  "identity_sha256": "1c6632eb8fe1d0813270c667bae19c9cef743eeff994bc5155a55194e0a14ffe",
+  "geometry": {
+    "source": "reindexed official QM9 geometry artifact",
+    "source_geometry": "data/geometry/qm9_full_seed3407.npz",
+    "source_geometry_sha256": "b9ca7d881ec66a554fe747b376bf0229f2b34ba7d39f16bb2487fe266da29b19",
+    "processed_dir": "data/processed/qm9_full/random/seed2026",
+    "split_manifest_sha256": "814583d9523c67427e3725cb7d991c8d47cd3a4f9280eaa39e7df1b598218c3c",
+    "coordinate_unit": "angstrom",
+    "target_unit": "hartree",
+    "rows": 133798,
+    "split_rows": {
+      "train": 107038,
+      "val": 13380,
+      "test": 13380
+    },
+    "geometry_sha256": "442448d38c3606cc0fe4d5f305679d738c97db4fd75fec18b5a527d0599bc076"
+  }
+}
