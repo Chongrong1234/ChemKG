@@ -1,0 +1,70 @@
+{
+  "egnn": {
+    "url": "https://github.com/vgsatorras/egnn.git",
+    "commit": "e9ca6c0c3e1d30a7598efbd66034121b4af8dccc",
+    "license_files": [
+      "LICENSE"
+    ]
+  },
+  "schnetpack": {
+    "url": "https://github.com/atomistic-machine-learning/schnetpack.git",
+    "commit": "ab4314d6a328d5f2b4d7a72d5097e3a2e0fef61f",
+    "license_files": [
+      "LICENSE"
+    ]
+  },
+  "esa": {
+    "url": "https://github.com/davidbuterez/edge-set-attention.git",
+    "commit": "861a0b12d445ae80cc69b3948af623b4331321d4",
+    "license_files": [
+      "LICENSE"
+    ]
+  },
+  "torchmd-net": {
+    "url": "https://github.com/torchmd/torchmd-net.git",
+    "commit": "833c07708e7d507fc33bdcd835ed083a321cc651",
+    "license_files": [
+      "LICENSE"
+    ]
+  },
+  "cormorant": {
+    "url": "https://github.com/risilab/cormorant.git",
+    "commit": "6a4b6370e8a7cfd7bf253ecfb5783b6d7787ba3f",
+    "license_files": [
+      "LICENSE"
+    ]
+  },
+  "lie-transformer": {
+    "url": "https://github.com/oxcsml/lie-transformer.git",
+    "commit": "81a0aa3fc480cd0ab12c8ee45a68de607e78e781",
+    "license_files": [
+      "LICENSE.md"
+    ]
+  },
+  "alignn": {
+    "url": "https://github.com/usnistgov/alignn.git",
+    "commit": "f2366daa3413d28a825b46e34d001b5549b05a40",
+    "license_files": [
+      "LICENSE.rst"
+    ]
+  },
+  "dimenet": {
+    "url": "https://github.com/gasteigerjo/dimenet.git",
+    "commit": "66a8168ddb3c6e972977c7fb7d2143d6baee1402",
+    "license_files": [
+      "LICENSE.md"
+    ]
+  },
+  "3dinfomax": {
+    "url": "https://github.com/HannesStark/3DInfomax.git",
+    "commit": "5cd32629c690e119bcae8726acedefdb0aa037fc",
+    "license_files": []
+  },
+  "lieconv": {
+    "url": "https://github.com/MJHutchinson/LieConv.git",
+    "commit": "9bab353dbfa7c777190c485a1658f999c462de44",
+    "license_files": [
+      "LICENSE"
+    ]
+  }
+}

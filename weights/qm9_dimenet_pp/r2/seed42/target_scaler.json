@@ -1,0 +1,10 @@
+{
+  "method": "standard",
+  "fit_split": "train",
+  "target": "r2",
+  "unit": "bohr^2",
+  "mean": 1188.7242438760065,
+  "scale": 279.36981570918516,
+  "ddof": 0,
+  "train_rows": 107038
+}
