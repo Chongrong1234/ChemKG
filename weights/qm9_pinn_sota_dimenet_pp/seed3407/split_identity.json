@@ -1,0 +1,93 @@
+{
+  "labels": {
+    "train": "3c29e1b046d78ce5ca5bb0fb1d9a1ad1793930f87f62f41ae70a6061bf82c36d",
+    "val": "196859bcd510baf969f9a01069d0090a3b677705f9d5632e73da521c220d7b5a",
+    "test": "005745e546b3085b28b8ea0d9d16d2e6eea86a31bbee434770f7399a5ddc5d84"
+  },
+  "manifest_sha256": "c23bfbb887e8fb7014353cea2154a623444defe3b356cee60350079b221ccd43",
+  "identity_sha256": "1c6632eb8fe1d0813270c667bae19c9cef743eeff994bc5155a55194e0a14ffe",
+  "geometry": {
+    "source": "original QM9 extended XYZ",
+    "geometry_path": "/home/donghui/lichongrong/huangzhiyue/ai4Chemistry/data/raw/qm9_xyz",
+    "coordinate_unit": "angstrom",
+    "target_unit": "hartree",
+    "rows": 133798,
+    "split_identity": {
+      "verified_same_split_as_chemprop": true,
+      "chemprop_reference": {
+        "path": "/home/donghui/lichongrong/huangzhiyue/ai4Chemistry/configs/baseline.yaml",
+        "sha256": "10687983c77b9711c103c4954f1e903676b8d0a7577d6a33c8415f3660985dd4",
+        "comparisons": {
+          "processed_dir": true,
+          "id_column": true,
+          "smiles_column": true,
+          "targets": true,
+          "split": true
+        }
+      },
+      "manifest": {
+        "path": "/home/donghui/lichongrong/huangzhiyue/ai4Chemistry/data/processed/qm9_full/random/seed3407/split_manifest.csv",
+        "sha256": "c23bfbb887e8fb7014353cea2154a623444defe3b356cee60350079b221ccd43",
+        "rows": 133798
+      },
+      "split_files": {
+        "train": {
+          "path": "/home/donghui/lichongrong/huangzhiyue/ai4Chemistry/data/processed/qm9_full/random/seed3407/train.csv",
+          "sha256": "1e14487f4607f8f0b71443447ce683da195df476b4f8a982a2aa18fd4c44023c",
+          "rows": 107038
+        },
+        "val": {
+          "path": "/home/donghui/lichongrong/huangzhiyue/ai4Chemistry/data/processed/qm9_full/random/seed3407/val.csv",
+          "sha256": "b4bafe0cd8ba08cc6d81202d1f9ce313c17db3628dc945a67223ad617becc579",
+          "rows": 13380
+        },
+        "test": {
+          "path": "/home/donghui/lichongrong/huangzhiyue/ai4Chemistry/data/processed/qm9_full/random/seed3407/test.csv",
+          "sha256": "a2bf1945045c83a8e4b31daff16834b018298cf458df3f7226f4d648226bce45",
+          "rows": 13380
+        }
+      },
+      "manifest_checks": {
+        "method": true,
+        "strategy": true,
+        "seed": true,
+        "stratify_column": true,
+        "stratify_bins": true
+      },
+      "no_sample_overlap": true,
+      "row_order_matches_manifest": true
+    },
+    "geometry_sha256": "b9ca7d881ec66a554fe747b376bf0229f2b34ba7d39f16bb2487fe266da29b19",
+    "lineage_sha256": "aac9ae2c03ba9eb9aae1c11a13348979f61810f8c748be6fb8777582cbc4b456",
+    "known_official_record_conflicts": [
+      "gdb_130667"
+    ],
+    "sample_file_hashes": [
+      {
+        "sample_id": "qm9_full:gdb_113574",
+        "source_id": "gdb_113574",
+        "sha256": "c5290fd7583d74ef935f5f6f80aad31184526345a16eff39255ba9d7c32dbb60"
+      },
+      {
+        "sample_id": "qm9_full:gdb_35074",
+        "source_id": "gdb_35074",
+        "sha256": "1d98531f72c5a09479d559cf86de286ec13477990d294deee4163e6602f67a5a"
+      },
+      {
+        "sample_id": "qm9_full:gdb_12158",
+        "source_id": "gdb_12158",
+        "sha256": "14de8207b0d7cbe9d08d882a8ea8d70f75dcb008f4ae77b044659cfa66b43d28"
+      },
+      {
+        "sample_id": "qm9_full:gdb_47293",
+        "source_id": "gdb_47293",
+        "sha256": "100c983bc922b53c7d3d87315ec527943eca0430c2843a2220af3b187bdb9cbc"
+      },
+      {
+        "sample_id": "qm9_full:gdb_92769",
+        "source_id": "gdb_92769",
+        "sha256": "f5c8033e66aeb6b73eea2275b4dc2d31f2055d9fd9e785ad96832accf6bda6db"
+      }
+    ]
+  }
+}

@@ -29,3 +29,8 @@ qm9_dimenet_pp/
 - 元素范围与 QM9 一致：**仅 H / C / N / O / F**，超出即报错（如含 S 的分子）
 - 能量单位 Hartree（服务同时换算 eV），μ 为 Debye，α 为 Bohr³，R² 为 Bohr²
 - 权重来自本课题组自训模型，随本仓库同许可（见根目录 LICENSE）
+
+## 子目录
+
+- `qm9_dimenet_pp/` — 生产权重：单任务 DimeNet++（molprop 服务实际加载）
+- `qm9_pinn_sota_dimenet_pp/` — 研究线 PINN SOTA：DimeNet++ + physics_thermo10 多目标（delta_e RMSE 全场最佳，含记分牌与物理约束说明）
