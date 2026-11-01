@@ -1,0 +1,134 @@
+{
+  "targets": {
+    "homo": {
+      "n": 13380,
+      "mae": 0.00407901271164532,
+      "mse": 3.7232999548247e-05,
+      "rmse": 0.006101884917650201,
+      "mape": 1.7258935438760528,
+      "mape_n": 13380,
+      "mape_excluded_zero_targets": 0,
+      "r2": 0.922830593091988,
+      "unit": "hartree"
+    },
+    "lumo": {
+      "n": 13380,
+      "mae": 0.004708655777492668,
+      "mse": 4.713436721495047e-05,
+      "rmse": 0.0068654473426682456,
+      "mape": 46.16332288556111,
+      "mape_n": 13373,
+      "mape_excluded_zero_targets": 7,
+      "r2": 0.9786983345553201,
+      "unit": "hartree"
+    },
+    "delta_e": {
+      "n": 13380,
+      "mae": 0.005834274345193423,
+      "mse": 8.217740537268221e-05,
+      "rmse": 0.00906517541874851,
+      "mape": 2.455168746802772,
+      "mape_n": 13380,
+      "mape_excluded_zero_targets": 0,
+      "r2": 0.9635293184250179,
+      "unit": "hartree"
+    },
+    "alpha": {
+      "n": 13380,
+      "mae": 0.5768141300918885,
+      "mse": 1.5634934892133923,
+      "rmse": 1.2503973325360993,
+      "mape": 0.7860609181830146,
+      "mape_n": 13380,
+      "mape_excluded_zero_targets": 0,
+      "r2": 0.9768206378409843,
+      "unit": "bohr^3"
+    },
+    "mu": {
+      "n": 13380,
+      "mae": 0.4846504310816819,
+      "mse": 0.6374496116238957,
+      "rmse": 0.798404416084916,
+      "mape": 262.5499235912162,
+      "mape_n": 13375,
+      "mape_excluded_zero_targets": 5,
+      "r2": 0.7246845928816203,
+      "unit": "debye"
+    },
+    "r2": {
+      "n": 13380,
+      "mae": 32.70524001744024,
+      "mse": 2688.7204474307964,
+      "rmse": 51.852873087523285,
+      "mape": 2.7333203649811244,
+      "mape_n": 13380,
+      "mape_excluded_zero_targets": 0,
+      "r2": 0.9656794021742892,
+      "unit": "bohr^2"
+    },
+    "zpve": {
+      "n": 13380,
+      "mae": 0.001409784804727315,
+      "mse": 3.679532949368963e-06,
+      "rmse": 0.001918210871976531,
+      "mape": 1.0621006984717603,
+      "mape_n": 13380,
+      "mape_excluded_zero_targets": 0,
+      "r2": 0.9966461938495806,
+      "unit": "hartree"
+    }
+  },
+  "auxiliary_targets": {
+    "u0": {
+      "n": 13380,
+      "mae": 1.2028860642925767,
+      "mse": 4.730585469126702,
+      "rmse": 2.1749909124239353,
+      "mape": 0.29153828468561593,
+      "mape_n": 13380,
+      "mape_excluded_zero_targets": 0,
+      "r2": 0.9971693187718954
+    },
+    "u298": {
+      "n": 13380,
+      "mae": 1.1758775271590645,
+      "mse": 4.487164915819014,
+      "rmse": 2.118292924932483,
+      "mape": 0.28806544799641515,
+      "mape_n": 13380,
+      "mape_excluded_zero_targets": 0,
+      "r2": 0.9973149466197958
+    },
+    "h298": {
+      "n": 13380,
+      "mae": 1.3024222429024372,
+      "mse": 4.98670561487685,
+      "rmse": 2.233093283962148,
+      "mape": 0.319028486066635,
+      "mape_n": 13380,
+      "mape_excluded_zero_targets": 0,
+      "r2": 0.9970160288251332
+    }
+  },
+  "selection_target": "delta_e",
+  "best_validation_mae": 0.005957816052439809,
+  "protocol_id": "qm9_modular_fresh200_v1",
+  "diagnostic": false,
+  "units": {
+    "homo": "hartree",
+    "lumo": "hartree",
+    "delta_e": "hartree",
+    "alpha": "bohr^3",
+    "mu": "debye",
+    "r2": "bohr^2",
+    "zpve": "hartree",
+    "u0": "hartree",
+    "u298": "hartree",
+    "h298": "hartree"
+  },
+  "rows": 13380,
+  "best_epoch": 199,
+  "delta_e_mae": 0.005834274345193423,
+  "physical_weight_at_best": 0.1,
+  "physics_active_at_best": true
+}
