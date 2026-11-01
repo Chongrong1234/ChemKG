@@ -1,0 +1,10 @@
+{
+  "method": "standard",
+  "fit_split": "train",
+  "target": "mu",
+  "unit": "debye",
+  "mean": 2.7078328565556156,
+  "scale": 1.5310755528632247,
+  "ddof": 0,
+  "train_rows": 107038
+}
