@@ -1,0 +1,7 @@
+{
+  "features": "native_graph_encoding_and_geometry",
+  "target": "standard",
+  "fit_split": "train",
+  "target_column": "alpha",
+  "label_unit": "bohr^3"
+}

@@ -1,0 +1,74 @@
+{
+  "model": "dimenet_pp",
+  "protocol_id": "paired_split_qm9_neural_single_property_v1",
+  "split_seed": 42,
+  "training_seed": 42,
+  "budget": {
+    "batch_size": 256,
+    "epochs": 100,
+    "early_stopping_patience": 20
+  },
+  "smoke": false,
+  "selection": {
+    "target": "alpha",
+    "metric": "mae",
+    "unit": "bohr^3",
+    "mode": "min",
+    "monitor": "val_mae",
+    "patience": 20,
+    "min_delta": 0.0
+  },
+  "split_rows": {
+    "train": 107038,
+    "val": 13380,
+    "test": 13380
+  },
+  "parameters": 1885830,
+  "split_identity": {
+    "verified_same_split_as_chemprop": true,
+    "chemprop_reference": {
+      "path": "/home/donghui/lichongrong/huangzhiyue/ai4Chemistry/artifacts/qm9_six_properties/high_formal_a100_v1/references/seed42.yaml",
+      "sha256": "be9fae29b1e42ec8462894de3fb92bdef301d5e210062809528f4634a4ff71c0",
+      "comparisons": {
+        "processed_dir": true,
+        "id_column": true,
+        "smiles_column": true,
+        "targets": true,
+        "split": true
+      }
+    },
+    "manifest": {
+      "path": "/home/donghui/lichongrong/huangzhiyue/ai4Chemistry/data/processed/qm9_single_properties_v1/random/seed42/split_manifest.csv",
+      "sha256": "cd291da6fcde7055870b30aa31a30f281ec92792881b57ebbee83c92ffcaf6cf",
+      "rows": 133798
+    },
+    "split_files": {
+      "train": {
+        "path": "/home/donghui/lichongrong/huangzhiyue/ai4Chemistry/data/processed/qm9_single_properties_v1/random/seed42/train.csv",
+        "sha256": "1648503ad09e502f4bfc0b4b434ce34435a89b2ec1c8db4cfae35a2995babc6d",
+        "rows": 107038
+      },
+      "val": {
+        "path": "/home/donghui/lichongrong/huangzhiyue/ai4Chemistry/data/processed/qm9_single_properties_v1/random/seed42/val.csv",
+        "sha256": "120e730febac0e8ab32a3662307f29bf72e509a2ce177f1beceb4f11e623d0d9",
+        "rows": 13380
+      },
+      "test": {
+        "path": "/home/donghui/lichongrong/huangzhiyue/ai4Chemistry/data/processed/qm9_single_properties_v1/random/seed42/test.csv",
+        "sha256": "55fe7a455777c99c61f04a468047875d46a734f468ece5a28613b56ecc2febcd",
+        "rows": 13380
+      }
+    },
+    "manifest_checks": {
+      "method": true,
+      "strategy": true,
+      "seed": true,
+      "stratify_column": true,
+      "stratify_bins": true
+    },
+    "no_sample_overlap": true,
+    "row_order_matches_manifest": true
+  },
+  "geometry_sha256": "0f2d284e59242ae71493f15aea876c444a7e8b0baa607c8b2e9380caf0e6b210",
+  "topology_sha256": null
+}

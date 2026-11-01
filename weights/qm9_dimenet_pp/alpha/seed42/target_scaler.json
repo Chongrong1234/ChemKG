@@ -1,0 +1,10 @@
+{
+  "method": "standard",
+  "fit_split": "train",
+  "target": "alpha",
+  "unit": "bohr^3",
+  "mean": 75.17915665464602,
+  "scale": 8.17995437162364,
+  "ddof": 0,
+  "train_rows": 107038
+}
