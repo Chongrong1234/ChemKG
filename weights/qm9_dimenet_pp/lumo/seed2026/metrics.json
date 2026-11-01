@@ -1,0 +1,14 @@
+{
+  "target": "lumo",
+  "unit": "hartree",
+  "smoke": false,
+  "n": 13380,
+  "mae": 0.000786854565327845,
+  "mse": 2.177477357406033e-06,
+  "rmse": 0.0014756277841671433,
+  "mape": 6.921786489815419,
+  "mape_n": 13374,
+  "mape_excluded_zero_targets": 6,
+  "r2": 0.9990129315408992,
+  "best_validation_mae": 0.0007916052063630256
+}

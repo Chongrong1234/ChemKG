@@ -1,0 +1,12 @@
+{
+  "method": "standard",
+  "fit_split": "train",
+  "target": "lumo",
+  "unit": "hartree",
+  "mean": 0.011209168239316879,
+  "scale": 0.04690175331105165,
+  "ddof": 0,
+  "train_rows": 107038,
+  "mean_hartree": 0.011209168239316879,
+  "scale_hartree": 0.04690175331105165
+}
