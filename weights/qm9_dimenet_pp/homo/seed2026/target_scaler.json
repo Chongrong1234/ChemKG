@@ -1,0 +1,12 @@
+{
+  "method": "standard",
+  "fit_split": "train",
+  "target": "homo",
+  "unit": "hartree",
+  "mean": -0.24000620060165548,
+  "scale": 0.022144840583683014,
+  "ddof": 0,
+  "train_rows": 107038,
+  "mean_hartree": -0.24000620060165548,
+  "scale_hartree": 0.022144840583683014
+}
