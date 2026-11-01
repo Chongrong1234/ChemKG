@@ -1,0 +1,72 @@
+experiment:
+  name: zpve
+  model_type: dimenet_pp
+  model_id: dimenet_pp
+  protocol_id: paired_split_qm9_neural_single_property_v1
+data:
+  processed_dir: data/processed/qm9_single_properties_v1/random/seed2026
+  geometry: data/geometry/qm9_full_seed2026.npz
+  smiles_column: smiles
+  id_column: sample_id
+  target_column: zpve
+  targets:
+  - zpve
+  label_unit: hartree
+  split:
+    method: random
+    sizes:
+    - 0.8
+    - 0.1
+    - 0.1
+    seed: 2026
+    stratify:
+      strategy: quantile
+      column: delta_e
+      bins: 200
+  chemprop_reference_config: /home/donghui/lichongrong/huangzhiyue/ai4Chemistry/artifacts/qm9_six_properties/high_formal_a100_v1/references/seed2026.yaml
+  property_data_root: data/processed/qm9_single_properties_v1
+model:
+  name: dimenet_pp
+  params:
+    hidden_channels: 128
+    num_blocks: 4
+    int_emb_size: 64
+    basis_emb_size: 8
+    out_emb_channels: 256
+    num_spherical: 7
+    num_radial: 6
+    cutoff: 5.0
+    envelope_exponent: 5
+    num_before_skip: 1
+    num_after_skip: 2
+    num_output_layers: 3
+training:
+  seed: 2026
+  epochs: 100
+  batch_size: 256
+  optimizer: adam
+  lr: 0.001
+  weight_decay: 0.0
+  gradient_clip_val: 1.0
+  target_scaling: standard
+  loss: mse
+  accelerator: auto
+  num_workers: 2
+  early_stopping:
+    monitor: val_mae
+    patience: 20
+    min_delta: 0.0
+  split_seed: 2026
+  seed_pairing: matched
+  run_mode: paired_split_seed
+  formal_protocol: true
+evaluation:
+  metrics:
+  - mae
+  - rmse
+  - mape
+  - r2
+output:
+  root: /home/donghui/lichongrong/huangzhiyue/ai4Chemistry/artifacts/qm9_six_properties/high_formal_a100_v1/runs/dimenet_pp
+  save_predictions: true
+  save_model: true

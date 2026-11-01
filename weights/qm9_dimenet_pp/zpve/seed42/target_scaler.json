@@ -1,0 +1,12 @@
+{
+  "method": "standard",
+  "fit_split": "train",
+  "target": "zpve",
+  "unit": "hartree",
+  "mean": 0.1485093699573983,
+  "scale": 0.0332277430598211,
+  "ddof": 0,
+  "train_rows": 107038,
+  "mean_hartree": 0.1485093699573983,
+  "scale_hartree": 0.0332277430598211
+}

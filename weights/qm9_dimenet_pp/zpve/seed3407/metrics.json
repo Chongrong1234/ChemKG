@@ -1,0 +1,14 @@
+{
+  "target": "zpve",
+  "unit": "hartree",
+  "smoke": false,
+  "n": 13380,
+  "mae": 7.842934072598568e-05,
+  "mse": 6.679200137187217e-08,
+  "rmse": 0.0002584414853924814,
+  "mape": 0.06417580521835124,
+  "mape_n": 13380,
+  "mape_excluded_zero_targets": 0,
+  "r2": 0.9999391206905653,
+  "best_validation_mae": 8.06661387366208e-05
+}
