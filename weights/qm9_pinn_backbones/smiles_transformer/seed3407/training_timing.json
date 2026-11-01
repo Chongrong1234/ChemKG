@@ -1,0 +1,10 @@
+{
+  "fit_seconds": 4144.294290203601,
+  "epochs_completed": 200,
+  "best_epoch": 195,
+  "best_validation_mae": 0.005272578877365422,
+  "parameters": 2457866,
+  "peak_gpu_allocated_bytes": 752759296,
+  "peak_gpu_reserved_bytes": 895483904,
+  "diagnostic": false
+}
