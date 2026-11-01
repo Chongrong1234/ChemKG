@@ -1,0 +1,11 @@
+{
+  "rows": 13380,
+  "seconds": 15.570571817457676,
+  "scope": "test_loader_forward_and_original_unit_metrics",
+  "samples_per_second": 859.3133352365638,
+  "amortized_ms_per_sample": 1.163719866775611,
+  "parameters": 177022018,
+  "flops": null,
+  "flops_status": "not_measured",
+  "latency_kind": "batch_wall_time_divided_by_rows_not_single_query_latency"
+}

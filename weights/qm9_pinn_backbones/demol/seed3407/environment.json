@@ -1,0 +1,34 @@
+{
+  "created_at": "2026-10-24T00:42:27.571795+00:00",
+  "config_source": "/home/donghui/lichongrong/huangzhiyue/ai4Chemistry/configs/qm9_epoch200/fresh/demol/physics_thermo10_seed3407.yaml",
+  "config_sha256": "dfc3db6d267b292e7fbdc88a2f03ba6228d69b4825a227d01c231f8ee35bae13",
+  "python": "3.11.5",
+  "platform": "Linux-5.4.0-100-generic-x86_64-with-glibc2.31",
+  "chemprop": "2.3.1",
+  "torch": "2.6.0+cu124",
+  "torch_cuda_runtime": "12.4",
+  "cuda_available": true,
+  "cuda_device": "NVIDIA A100-SXM4-40GB",
+  "seeds": {
+    "data": 3407,
+    "training": 3407
+  },
+  "inputs": {
+    "train.csv": {
+      "path": "/home/donghui/lichongrong/huangzhiyue/ai4Chemistry/data/processed/qm9_thermo10_v1/random/seed3407/train.csv",
+      "sha256": "3c29e1b046d78ce5ca5bb0fb1d9a1ad1793930f87f62f41ae70a6061bf82c36d"
+    },
+    "val.csv": {
+      "path": "/home/donghui/lichongrong/huangzhiyue/ai4Chemistry/data/processed/qm9_thermo10_v1/random/seed3407/val.csv",
+      "sha256": "196859bcd510baf969f9a01069d0090a3b677705f9d5632e73da521c220d7b5a"
+    },
+    "test.csv": {
+      "path": "/home/donghui/lichongrong/huangzhiyue/ai4Chemistry/data/processed/qm9_thermo10_v1/random/seed3407/test.csv",
+      "sha256": "005745e546b3085b28b8ea0d9d16d2e6eea86a31bbee434770f7399a5ddc5d84"
+    },
+    "split_manifest.csv": {
+      "path": "/home/donghui/lichongrong/huangzhiyue/ai4Chemistry/data/processed/qm9_thermo10_v1/random/seed3407/split_manifest.csv",
+      "sha256": "c23bfbb887e8fb7014353cea2154a623444defe3b356cee60350079b221ccd43"
+    }
+  }
+}

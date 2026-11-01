@@ -1,0 +1,6 @@
+{
+  "diagnostic": false,
+  "epochs_completed": 71,
+  "best_epoch": 51,
+  "early_stopped": true
+}

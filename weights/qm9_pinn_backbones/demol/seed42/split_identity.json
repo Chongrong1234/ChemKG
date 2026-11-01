@@ -1,0 +1,26 @@
+{
+  "labels": {
+    "train": "cfd796e8941af1bb3b5aa0746cfcb0b3ca337bae5689ea9807c3ee11d2687b97",
+    "val": "f8dd52a573d9c2b163e561c2a858efd81231c38f8b22c7e1b629f2abb41a50f1",
+    "test": "61ab36bf997b14f57731336144e71a90cde93e278dad9310298580f28d0211f7"
+  },
+  "manifest_sha256": "cd291da6fcde7055870b30aa31a30f281ec92792881b57ebbee83c92ffcaf6cf",
+  "identity_sha256": "1c6632eb8fe1d0813270c667bae19c9cef743eeff994bc5155a55194e0a14ffe",
+  "geometry": {
+    "source": "reindexed official QM9 geometry artifact",
+    "source_geometry": "data/geometry/qm9_full_seed3407.npz",
+    "source_geometry_sha256": "b9ca7d881ec66a554fe747b376bf0229f2b34ba7d39f16bb2487fe266da29b19",
+    "processed_dir": "data/processed/qm9_full/random/seed42",
+    "split_manifest_sha256": "cd291da6fcde7055870b30aa31a30f281ec92792881b57ebbee83c92ffcaf6cf",
+    "coordinate_unit": "angstrom",
+    "target_unit": "hartree",
+    "rows": 133798,
+    "split_rows": {
+      "train": 107038,
+      "val": 13380,
+      "test": 13380
+    },
+    "geometry_sha256": "0f2d284e59242ae71493f15aea876c444a7e8b0baa607c8b2e9380caf0e6b210",
+    "topology_sha256": "a79781f56ffc173a780995db72dc7796f2973103c1be5fd1d52c7e18a119f98b"
+  }
+}

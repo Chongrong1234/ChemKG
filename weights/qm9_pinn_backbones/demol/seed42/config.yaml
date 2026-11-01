@@ -1,0 +1,169 @@
+status: implemented_pending_gpu_smoke
+experiment:
+  name: demol_physics_thermo10
+  model_id: demol_physics_thermo10
+  protocol_id: qm9_modular_fresh200_v1
+backbone:
+  model: demol
+  family: transformer
+  input: 3D
+source_config: configs/qm9_models/demol.yaml
+source:
+  experiment:
+    name: demol_qm9_scratch
+    model_type: demol
+  data:
+    processed_dir: data/processed/qm9_full/random/seed3407
+    geometry: data/geometry/qm9_full_seed3407.npz
+    smiles_column: smiles
+    id_column: sample_id
+    target_column: delta_e
+    targets:
+    - delta_e
+    label_unit: hartree
+    split:
+      method: random
+      sizes:
+      - 0.8
+      - 0.1
+      - 0.1
+      seed: 3407
+      stratify:
+        strategy: quantile
+        column: delta_e
+        bins: 200
+    topology: data/topology/qm9_full.npz
+    remove_hydrogens: false
+  model:
+    name: demol
+    params:
+      embed_dim: 768
+      ffn_dim: 768
+      num_layers: 12
+      num_heads: 32
+      num_kernel: 128
+      attention_dropout: 0.1
+      activation_checkpointing: true
+      cutoff: 5.0
+      covalent_radius_factor: 1.15
+      distance_width: 8.0
+      activation_dropout: 0.0
+      bond_regularization: false
+  training:
+    seed: 3407
+    epochs: 100
+    batch_size: 256
+    optimizer: adamw
+    lr: 7.0e-05
+    weight_decay: 0.0
+    gradient_clip_val: 5.0
+    target_scaling: mad
+    loss: mae
+    accelerator: cuda
+    num_workers: 4
+    early_stopping:
+      monitor: val_mae
+      patience: 20
+      min_delta: 1.0e-05
+  evaluation:
+    metrics:
+    - mae
+    - rmse
+    - mape
+    - r2
+  output:
+    root: outputs/qm9_demol_transformer_m_v1
+    save_predictions: true
+    save_model: true
+  provenance:
+    sources_file: configs/qm9_models/demol_transformer_m.sources.json
+    external_pretraining: false
+    setting: QM9 scratch; fixed project protocol; not original paper data/step budget
+  smoke:
+    num_workers: 2
+    batch_size: 256
+    train_rows: 107038
+    eval_rows: 13380
+data:
+  smiles_column: smiles
+  id_column: sample_id
+  processed_dir: data/processed/qm9_thermo10_v1/random/seed42
+  split:
+    method: random
+    sizes:
+    - 0.8
+    - 0.1
+    - 0.1
+    seed: 42
+    stratify:
+      strategy: quantile
+      column: delta_e
+      bins: 200
+  targets:
+  - homo
+  - lumo
+  - delta_e
+  - alpha
+  - mu
+  - r2
+  - zpve
+  - u0
+  - u298
+  - h298
+  units:
+    homo: hartree
+    lumo: hartree
+    delta_e: hartree
+    alpha: bohr^3
+    mu: debye
+    r2: bohr^2
+    zpve: hartree
+    u0: hartree
+    u298: hartree
+    h298: hartree
+  selection_target: delta_e
+training:
+  epochs: 200
+  batch_size: 256
+  patience: 20
+  min_delta: 0.0
+  checkpoint_every_n_epochs: 50
+  seed: 42
+  split_seed: 42
+  run_mode: paired_split_seed
+  seed_pairing: matched
+  num_workers: 2
+  pin_memory: true
+  target_scaling: train_only_per_target_zscore
+  supervised_loss: mse
+  selection_metric: val_delta_e_mae
+module:
+  variant: physics_thermo10
+  hidden_dim: 128
+  num_heads: 4
+  dropout: 0.1
+  physics:
+    kbt_hartree: 0.000944186
+    gap_tolerance_hartree: 0.0001
+    enthalpy_tolerance_hartree: 1.0e-06
+    scale_floor_hartree: 1.0e-08
+    warmup_epochs: 10
+    ramp_epochs: 10
+    weight: 0.1
+output:
+  root: artifacts/qm9_epoch200/fresh
+evaluation:
+  report_tasks:
+  - homo
+  - lumo
+  - delta_e
+  - alpha
+  - mu
+  - r2
+  - zpve
+  metrics:
+  - mae
+  - mse
+  - rmse
+  - r2
+  original_units: true
