@@ -35,6 +35,18 @@ DimeNet++ + PINN 在上级目录 `../qm9_pinn_sota_dimenet_pp/`，本目录收�
 ## demol（DeMol + PINN）说明
 
 demol 三 seed 的 `best_checkpoint.pt` 各约 **708 MB**（DeMol 为 177M 参数的 3D 等变
-transformer，fp32 无优化器状态可剥离），超过 GitHub 单文件 100 MB 硬限制，无法以普通
-git 对象入库；处理方案（分片入库 / Release 附件 / 仅归档元数据）确定后另行提交。
-其 config、metrics、scalers、训练日志等元数据不超限，随后补传。
+transformer，fp32、checkpoint 仅含 state_dict/config/scalers/epoch，无可剥离的优化器状态），
+超过 GitHub 单文件 100 MB 硬限制，故**分片入库**：
+
+```
+demol/
+├── reassemble.sh                 # 一键重组 + 双层校验（分片 sha256 + 整体 sha256）
+└── {seed42, seed3407, seed2026}/
+    ├── best_checkpoint.pt.sha256 # 完整文件校验值（源文件实测）
+    ├── shards/                   # 8 × 90MB 分片 + SHA256SUMS.parts
+    │   └── best_checkpoint.pt.part_00 … part_07
+    └── （config/metrics/scalers/训练日志等元数据，与其他家族一致）
+```
+
+取回完整权重：`bash demol/reassemble.sh`（可只跟一个 seed 名）。分片拼回后的 sha256
+已与训练机源文件实测值逐一核对（如 seed42 = `55b7c5fa…31485875`）。
